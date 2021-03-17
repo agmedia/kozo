@@ -1,0 +1,81 @@
+2021-01-20 9:38:52 - &idfirma=1
+2021-01-20 9:38:52 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR214
+            [DATUM_VRIJEME] => 19.01.2021 14:54:18
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => nviskovi@gmail.com
+            [NARUCITELJ_IME] => Natasa
+            [NARUCITELJ_PREZIME] => Viskovic
+            [NARUCITELJ_ADRESA] => Vinez 75a
+            [NARUCITELJ_MJESTO] => Labin
+            [NARUCITELJ_POSTA] => 52220
+            [NARUCITELJ_TELEFON] => 0955350545
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Natasa Viskovic
+            [DOSTAVA_ADRESA] => Kovarska 3
+            [DOSTAVA_MJESTO] => Rasa
+            [DOSTAVA_POSTA] => 52223
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 242.30
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7044.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 94.50
+                    [RABAT] => 0
+                    [IZNOS] => 94.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7050.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.80
+                    [RABAT] => 0
+                    [IZNOS] => 112.80
+                )
+
+        )
+
+)
+
+2021-01-20 9:38:54 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 30
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-20 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

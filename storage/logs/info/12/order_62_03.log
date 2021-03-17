@@ -1,0 +1,286 @@
+2020-12-03 12:42:22 - Array
+(
+    [order_id] => 62
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 43
+    [customer_group_id] => 1
+    [firstname] => Helena
+    [lastname] => Magdic
+    [email] => helena.magdic@gmail.com
+    [telephone] => 0992164331
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Helena
+    [payment_lastname] => Magdic
+    [payment_company] => 
+    [payment_address_1] => Kralja Zvonimira 87
+    [payment_address_2] => 
+    [payment_city] => Cerna
+    [payment_postcode] => 32272
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Helena
+    [shipping_lastname] => Magdic 
+    [shipping_company] => 
+    [shipping_address_1] => Kralja Zvonimira 87
+    [shipping_address_2] => 
+    [shipping_city] => Cerna
+    [shipping_postcode] => 32272
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 187.2000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 95.168.121.14
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/604.1
+    [accept_language] => hr-hr
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-02 10:06:34
+    [date_modified] => 2020-12-02 10:06:38
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 155
+                    [order_id] => 62
+                    [product_id] => 65
+                    [name] => MUŠKE GAĆE SLIP BIJELE
+                    [model] => M7001
+                    [quantity] => 1
+                    [price] => 71.2000
+                    [total] => 71.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 139
+                            [order_id] => 62
+                            [order_product_id] => 155
+                            [product_option_id] => 229
+                            [product_option_value_id] => 509
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 509
+                                    [product_option_id] => 229
+                                    [product_id] => 65
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 100
+                                    [subtract] => 0
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7001.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 156
+                    [order_id] => 62
+                    [product_id] => 83
+                    [name] => MUŠKE SLIP GAĆE CRNE
+                    [model] => M7015
+                    [quantity] => 1
+                    [price] => 81.0000
+                    [total] => 81.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 140
+                            [order_id] => 62
+                            [order_product_id] => 156
+                            [product_option_id] => 246
+                            [product_option_value_id] => 117
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 117
+                                    [product_option_id] => 246
+                                    [product_id] => 83
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 13.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7015.XXL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 202
+                    [order_id] => 62
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 152.2000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 203
+                    [order_id] => 62
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 204
+                    [order_id] => 62
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 187.2000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-03 12:42:22 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR62
+            [DATUM_VRIJEME] => 02.12.2020 10:06:38
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => helena.magdic@gmail.com
+            [NARUCITELJ_IME] => Helena
+            [NARUCITELJ_PREZIME] => Magdic
+            [NARUCITELJ_ADRESA] => Kralja Zvonimira 87
+            [NARUCITELJ_MJESTO] => Cerna
+            [NARUCITELJ_POSTA] => 32272
+            [NARUCITELJ_TELEFON] => 0992164331
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Helena Magdic 
+            [DOSTAVA_ADRESA] => Kralja Zvonimira 87
+            [DOSTAVA_MJESTO] => Cerna
+            [DOSTAVA_POSTA] => 32272
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 187.20
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7001.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7015.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 81.00
+                    [RABAT] => 0
+                    [IZNOS] => 81.00
+                )
+
+        )
+
+)
+
+2020-12-03 12:42:24 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 43
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-03 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

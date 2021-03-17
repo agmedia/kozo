@@ -1,0 +1,72 @@
+2020-11-19 11:11:10 - &idfirma=1
+2020-11-19 11:11:10 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR19
+            [DATUM_VRIJEME] => 17.11.2020 17:08:00
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => Hanja.miler@gmail.com
+            [NARUCITELJ_IME] => Hanja
+            [NARUCITELJ_PREZIME] => Miler
+            [NARUCITELJ_ADRESA] => Andrije Hebranga 6/15
+            [NARUCITELJ_MJESTO] => Pakrac
+            [NARUCITELJ_POSTA] => 34550
+            [NARUCITELJ_TELEFON] => 0989363023
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Hanja Miler
+            [DOSTAVA_ADRESA] => Andrije Hebranga 6/15
+            [DOSTAVA_MJESTO] => Pakrac
+            [DOSTAVA_POSTA] => 34550
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 147.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7084.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.50
+                    [RABAT] => 0
+                    [IZNOS] => 112.50
+                )
+
+        )
+
+)
+
+2020-11-19 11:11:13 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 14
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-11-19 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

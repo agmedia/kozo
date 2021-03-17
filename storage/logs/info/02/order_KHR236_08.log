@@ -1,0 +1,99 @@
+2021-02-08 8:07:59 - &idfirma=1
+2021-02-08 8:07:59 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR236
+            [DATUM_VRIJEME] => 07.02.2021 21:32:53
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => matijaduic4@gmail.com
+            [NARUCITELJ_IME] => Matija
+            [NARUCITELJ_PREZIME] => Duić
+            [NARUCITELJ_ADRESA] => Breg Ivanovci 24G
+            [NARUCITELJ_MJESTO] => Labin
+            [NARUCITELJ_POSTA] => 52 220
+            [NARUCITELJ_TELEFON] => 0918988564
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ivan Dušić
+            [DOSTAVA_ADRESA] => Rudarska3,&quot;Termoing&quot;
+            [DOSTAVA_MJESTO] => Labin
+            [DOSTAVA_POSTA] => 52 220
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 372.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7028.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7030.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7070.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 104.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7072.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+        )
+
+)
+
+2021-02-08 8:08:01 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 84
+            [STAVAKA] => 5
+            [STAVKA] => 5
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-08 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

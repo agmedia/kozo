@@ -1,0 +1,72 @@
+2021-01-15 8:12:29 - &idfirma=1
+2021-01-15 8:12:29 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR202
+            [DATUM_VRIJEME] => 14.01.2021 11:39:59
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => leacrnic@yahoo.com
+            [NARUCITELJ_IME] => Lea
+            [NARUCITELJ_PREZIME] => Vrhovac
+            [NARUCITELJ_ADRESA] => Sisačka 72, 10417 Buševec
+            [NARUCITELJ_MJESTO] => Velika Gorica
+            [NARUCITELJ_POSTA] => 10417
+            [NARUCITELJ_TELEFON] => 091 4004 959
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Lea Vrhovac
+            [DOSTAVA_ADRESA] => Sisačka 72, 10417 Buševec
+            [DOSTAVA_MJESTO] => Velika Gorica
+            [DOSTAVA_POSTA] => 10417
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 151.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5007.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 116.00
+                    [RABAT] => 0
+                    [IZNOS] => 116.00
+                )
+
+        )
+
+)
+
+2021-01-15 8:12:31 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 21
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-15 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

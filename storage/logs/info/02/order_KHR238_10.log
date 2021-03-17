@@ -1,0 +1,81 @@
+2021-02-10 8:46:27 - &idfirma=1
+2021-02-10 8:46:27 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR238
+            [DATUM_VRIJEME] => 08.02.2021 10:28:49
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ivakrize@gmail.com
+            [NARUCITELJ_IME] => Iva 
+            [NARUCITELJ_PREZIME] => Križe Šibenik 
+            [NARUCITELJ_ADRESA] => Stari Topolovac 218 
+            [NARUCITELJ_MJESTO] => Sisak 
+            [NARUCITELJ_POSTA] => 44202 
+            [NARUCITELJ_TELEFON] => 0981910127
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Iva  Križe Šibenik 
+            [DOSTAVA_ADRESA] => Stari Topolovac 218 
+            [DOSTAVA_MJESTO] => Sisak 
+            [DOSTAVA_POSTA] => 44202 
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 307.10
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5002.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 177.60
+                    [RABAT] => 0
+                    [IZNOS] => 177.60
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7040.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 94.50
+                    [RABAT] => 0
+                    [IZNOS] => 94.50
+                )
+
+        )
+
+)
+
+2021-02-10 8:46:29 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 91
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-10 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

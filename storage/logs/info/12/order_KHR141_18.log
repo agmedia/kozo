@@ -1,0 +1,90 @@
+2020-12-18 12:25:19 - &idfirma=1
+2020-12-18 12:25:19 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR141
+            [DATUM_VRIJEME] => 18.12.2020 11:37:50
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => zdenka.gregorec@gmail.com
+            [NARUCITELJ_IME] => Zdenka 
+            [NARUCITELJ_PREZIME] => Gregorec
+            [NARUCITELJ_ADRESA] => P.Preradovića 3
+            [NARUCITELJ_MJESTO] => Čakovec
+            [NARUCITELJ_POSTA] => 40000
+            [NARUCITELJ_TELEFON] => 098 331258
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => OBSIDO-BIRO  J.D.O.O.
+            [DOSTAVA_ADRESA] => Zrinsko-frankopanska 12b
+            [DOSTAVA_MJESTO] => Čakovec
+            [DOSTAVA_POSTA] => 40000
+            [NAPOMENA] => Order Comments: Molim vrijeme dostave radnim danom od ponedjeljka do petka od 8h do 15h
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 359.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7040.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7043.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7046.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+        )
+
+)
+
+2020-12-18 12:25:20 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 105
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-18 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

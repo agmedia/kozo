@@ -1,0 +1,428 @@
+2021-01-29 7:33:24 - Array
+(
+    [order_id] => 223
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 162
+    [customer_group_id] => 1
+    [firstname] => Štefica
+    [lastname] => Bermanec
+    [email] => stefi.horvat@gmail.com
+    [telephone] => +385981686302
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Štefica
+    [payment_lastname] => Bermanec
+    [payment_company] => 
+    [payment_address_1] => Ulica Dragutina Tadijanovića 5
+    [payment_address_2] => 
+    [payment_city] => PRELOG
+    [payment_postcode] => 40323
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Štefica
+    [shipping_lastname] => Bermanec
+    [shipping_company] => 
+    [shipping_address_1] => Ulica Dragutina Tadijanovića 5
+    [shipping_address_2] => 
+    [shipping_city] => PRELOG
+    [shipping_postcode] => 40323
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 551.5000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 95.168.118.8
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+    [accept_language] => en-GB,en-US;q=0.9,en;q=0.8
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-01-27 12:21:51
+    [date_modified] => 2021-01-27 12:31:17
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 571
+                    [order_id] => 223
+                    [product_id] => 82
+                    [name] => MUŠKE BOKSERICE HIPSTER CRNE
+                    [model] => M7013
+                    [quantity] => 1
+                    [price] => 87.5000
+                    [total] => 87.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 507
+                            [order_id] => 223
+                            [order_product_id] => 571
+                            [product_option_id] => 245
+                            [product_option_value_id] => 109
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 109
+                                    [product_option_id] => 245
+                                    [product_id] => 82
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 81
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7013.M
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 572
+                    [order_id] => 223
+                    [product_id] => 100
+                    [name] => MUŠKE BOKSERICE HIPSTER CRVENE
+                    [model] => M7032
+                    [quantity] => 1
+                    [price] => 87.5000
+                    [total] => 87.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 508
+                            [order_id] => 223
+                            [order_product_id] => 572
+                            [product_option_id] => 263
+                            [product_option_value_id] => 204
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 204
+                                    [product_option_id] => 263
+                                    [product_id] => 100
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 30
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7032.M
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 573
+                    [order_id] => 223
+                    [product_id] => 146
+                    [name] => MUŠKE BOKSERICE TAMNO PLAVE
+                    [model] => M7077
+                    [quantity] => 1
+                    [price] => 80.5000
+                    [total] => 80.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 509
+                            [order_id] => 223
+                            [order_product_id] => 573
+                            [product_option_id] => 309
+                            [product_option_value_id] => 439
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 439
+                                    [product_option_id] => 309
+                                    [product_id] => 146
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 24
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7077.M
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 574
+                    [order_id] => 223
+                    [product_id] => 169
+                    [name] => SQUARES MASKA ZA LICE
+                    [model] => P8012
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+            [4] => Array
+                (
+                    [order_product_id] => 575
+                    [order_id] => 223
+                    [product_id] => 183
+                    [name] => MUŠKA PIDŽAMA
+                    [model] => M5009
+                    [quantity] => 1
+                    [price] => 296.0000
+                    [total] => 296.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 510
+                            [order_id] => 223
+                            [order_product_id] => 575
+                            [product_option_id] => 345
+                            [product_option_value_id] => 579
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 579
+                                    [product_option_id] => 345
+                                    [product_id] => 183
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 19
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5009.M
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 734
+                    [order_id] => 223
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 602.5000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 735
+                    [order_id] => 223
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - SQUARES MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 736
+                    [order_id] => 223
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 737
+                    [order_id] => 223
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 551.5000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-29 7:33:24 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR223
+            [DATUM_VRIJEME] => 27.01.2021 12:31:17
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => stefi.horvat@gmail.com
+            [NARUCITELJ_IME] => Štefica
+            [NARUCITELJ_PREZIME] => Bermanec
+            [NARUCITELJ_ADRESA] => Ulica Dragutina Tadijanovića 5
+            [NARUCITELJ_MJESTO] => PRELOG
+            [NARUCITELJ_POSTA] => 40323
+            [NARUCITELJ_TELEFON] => +385981686302
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Štefica Bermanec
+            [DOSTAVA_ADRESA] => Ulica Dragutina Tadijanovića 5
+            [DOSTAVA_MJESTO] => PRELOG
+            [DOSTAVA_POSTA] => 40323
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 551.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7013.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7032.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7077.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8012
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M5009.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 296.00
+                    [RABAT] => 0
+                    [IZNOS] => 296.00
+                )
+
+        )
+
+)
+
+2021-01-29 7:33:25 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 57
+                    [STAVAKA] => 6
+                    [STAVKA] => 6
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-29 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

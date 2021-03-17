@@ -1,0 +1,81 @@
+2020-12-10 11:57:20 - &idfirma=1
+2020-12-10 11:57:20 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR89
+            [DATUM_VRIJEME] => 09.12.2020 19:12:20
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => viktor.vlaovic@gmail.com
+            [NARUCITELJ_IME] => VIKTOR
+            [NARUCITELJ_PREZIME] => VLAOVIĆ
+            [NARUCITELJ_ADRESA] => TREŠNJEVAC 14
+            [NARUCITELJ_MJESTO] => ZAGREB
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 0917222783
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => VIKTOR VLAOVIĆ
+            [DOSTAVA_ADRESA] => TREŠNJEVAC 14
+            [DOSTAVA_MJESTO] => ZAGREB
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => Order Comments: Molim poziv dostavljača na mob. 0917222783 prilikom isporuke, pošto kuća nema zvono.
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 171.80
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7035.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7079.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 65.60
+                )
+
+        )
+
+)
+
+2020-12-10 11:57:21 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 66
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-10 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

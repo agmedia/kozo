@@ -1,0 +1,364 @@
+2020-12-17 13:06:09 - Array
+(
+    [order_id] => 123
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 96
+    [customer_group_id] => 1
+    [firstname] => ante
+    [lastname] => marinov
+    [email] => antema81@gmail.com
+    [telephone] => 0915854026
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => ante
+    [payment_lastname] => marinov
+    [payment_company] => 
+    [payment_address_1] => bana j. jelačića
+    [payment_address_2] => 
+    [payment_city] => PRIMOŠTEN
+    [payment_postcode] => 22202
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => ante
+    [shipping_lastname] => marinov
+    [shipping_company] => 
+    [shipping_address_1] => bana j. jelačića 37
+    [shipping_address_2] => 
+    [shipping_city] => PRIMOŠTEN
+    [shipping_postcode] => 22202
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 385.4000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 89.201.184.123
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7,bs;q=0.6
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-16 16:20:50
+    [date_modified] => 2020-12-16 16:25:56
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 338
+                    [order_id] => 123
+                    [product_id] => 71
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5005
+                    [quantity] => 1
+                    [price] => 124.0000
+                    [total] => 124.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 300
+                            [order_id] => 123
+                            [order_product_id] => 338
+                            [product_option_id] => 234
+                            [product_option_value_id] => 44
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 44
+                                    [product_option_id] => 234
+                                    [product_id] => 71
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 97
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5005.L
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 339
+                    [order_id] => 123
+                    [product_id] => 72
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5003
+                    [quantity] => 1
+                    [price] => 118.4000
+                    [total] => 118.4000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 301
+                            [order_id] => 123
+                            [order_product_id] => 339
+                            [product_option_id] => 235
+                            [product_option_value_id] => 50
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 50
+                                    [product_option_id] => 235
+                                    [product_id] => 72
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5003.L
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 340
+                    [order_id] => 123
+                    [product_id] => 145
+                    [name] => MUŠKE BOKSERICE HIPSTER CRVENE
+                    [model] => M7080
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 302
+                            [order_id] => 123
+                            [order_product_id] => 340
+                            [product_option_id] => 308
+                            [product_option_value_id] => 437
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 437
+                                    [product_option_id] => 308
+                                    [product_id] => 145
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7080.XL
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 341
+                    [order_id] => 123
+                    [product_id] => 169
+                    [name] => SQUARES MASKA ZA LICE
+                    [model] => P8012
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 411
+                    [order_id] => 123
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 385.4000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 412
+                    [order_id] => 123
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 413
+                    [order_id] => 123
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 385.4000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2020-12-17 13:06:09 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR123
+            [DATUM_VRIJEME] => 16.12.2020 16:25:56
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => antema81@gmail.com
+            [NARUCITELJ_IME] => ante
+            [NARUCITELJ_PREZIME] => marinov
+            [NARUCITELJ_ADRESA] => bana j. jelačića
+            [NARUCITELJ_MJESTO] => PRIMOŠTEN
+            [NARUCITELJ_POSTA] => 22202
+            [NARUCITELJ_TELEFON] => 0915854026
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => ante marinov
+            [DOSTAVA_ADRESA] => bana j. jelačića 37
+            [DOSTAVA_MJESTO] => PRIMOŠTEN
+            [DOSTAVA_POSTA] => 22202
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 385.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5005.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 124.00
+                    [RABAT] => 0
+                    [IZNOS] => 124.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5003.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 118.40
+                    [RABAT] => 0
+                    [IZNOS] => 118.40
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7080.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8012
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2020-12-17 13:06:14 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 100
+                    [STAVAKA] => 5
+                    [STAVKA] => 5
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-17 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

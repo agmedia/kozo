@@ -1,0 +1,75 @@
+2020-12-11 13:26:49 - &idfirma=1
+2020-12-11 13:26:49 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR93
+            [DATUM_VRIJEME] => 10.12.2020 09:01:00
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mklarin@unizd.hr
+            [NARUCITELJ_IME] => Mira
+            [NARUCITELJ_PREZIME] => Klarin
+            [NARUCITELJ_ADRESA] => Ive Senjanina 12a
+            [NARUCITELJ_MJESTO] => Zadar
+            [NARUCITELJ_POSTA] => 23000
+            [NARUCITELJ_TELEFON] => 0915309243
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Mira Klarin
+            [DOSTAVA_ADRESA] => Ive Senjanina 12a
+            [DOSTAVA_MJESTO] => Zadar
+            [DOSTAVA_POSTA] => 23000
+            [NAPOMENA] => Order Comments: Poštovani, 
+nadam se da ukoliko veličina pidžame nije dobra, da je mogu zamijeniti. 
+Srdačno,
+MIra Klarin
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 353.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5009.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 353.00
+                    [RABAT] => 0
+                    [IZNOS] => 353.00
+                )
+
+        )
+
+)
+
+2020-12-11 13:26:50 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 73
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-11 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

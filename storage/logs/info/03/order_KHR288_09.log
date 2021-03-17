@@ -1,0 +1,72 @@
+2021-03-09 8:48:20 - &idfirma=1
+2021-03-09 8:48:20 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR288
+            [DATUM_VRIJEME] => 07.03.2021 19:46:04
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mfurac@gmail.com
+            [NARUCITELJ_IME] => Mario
+            [NARUCITELJ_PREZIME] => Furač
+            [NARUCITELJ_ADRESA] => Trsje 19
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 0919002199
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Mario Furač
+            [DOSTAVA_ADRESA] => LJudevita Gaja 18B
+            [DOSTAVA_MJESTO] => Pojatno
+            [DOSTAVA_POSTA] => 10294
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 299.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5010.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2021-03-09 8:48:21 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 40
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-03-09 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

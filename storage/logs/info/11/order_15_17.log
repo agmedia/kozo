@@ -1,0 +1,394 @@
+2020-11-17 11:33:07 - Array
+(
+    [order_id] => 15
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 0
+    [customer_group_id] => 1
+    [firstname] => Sandro
+    [lastname] => Rukavina
+    [email] => sandrorukavina@gmail.com
+    [telephone] => 0911805974
+    [fax] => 
+    [custom_field] => []
+    [payment_firstname] => Sandro
+    [payment_lastname] => Rukavina
+    [payment_company] => 
+    [payment_address_1] => Krasica 263
+    [payment_address_2] => 
+    [payment_city] => Krasica
+    [payment_postcode] => 51224
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => []
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Sandro
+    [shipping_lastname] => Rukavina
+    [shipping_company] => 
+    [shipping_address_1] => Krasica 263
+    [shipping_address_2] => 
+    [shipping_city] => Krasica
+    [shipping_postcode] => 51224
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => []
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 458.6000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.137.98.201
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+    [accept_language] => en-HR,en;q=0.9,hr-HR;q=0.8,hr;q=0.7,en-US;q=0.6
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-11-16 09:54:04
+    [date_modified] => 2020-11-16 09:54:24
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 26
+                    [order_id] => 15
+                    [product_id] => 80
+                    [name] => MUŠKE GAĆE SLIP CRNE
+                    [model] => M7012
+                    [quantity] => 1
+                    [price] => 93.1000
+                    [total] => 93.1000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 25
+                            [order_id] => 15
+                            [order_product_id] => 26
+                            [product_option_id] => 243
+                            [product_option_value_id] => 101
+                            [name] => Veličina
+                            [value] => XXXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 101
+                                    [product_option_id] => 243
+                                    [product_id] => 80
+                                    [option_id] => 13
+                                    [option_value_id] => 54
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 13.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7012.XXXL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 27
+                    [order_id] => 15
+                    [product_id] => 81
+                    [name] => MUŠKE BOKSERICE CRNE
+                    [model] => M7016
+                    [quantity] => 1
+                    [price] => 131.5000
+                    [total] => 131.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 26
+                            [order_id] => 15
+                            [order_product_id] => 27
+                            [product_option_id] => 244
+                            [product_option_value_id] => 107
+                            [name] => Veličina
+                            [value] => XXXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 107
+                                    [product_option_id] => 244
+                                    [product_id] => 81
+                                    [option_id] => 13
+                                    [option_value_id] => 54
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 19.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7016.XXXL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 28
+                    [order_id] => 15
+                    [product_id] => 98
+                    [name] => MUŠKE BOKSERICE TAMNO PLAVE TAMNO PLAVE
+                    [model] => M7029
+                    [quantity] => 1
+                    [price] => 112.5000
+                    [total] => 112.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 27
+                            [order_id] => 15
+                            [order_product_id] => 28
+                            [product_option_id] => 261
+                            [product_option_value_id] => 196
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 196
+                                    [product_option_id] => 261
+                                    [product_id] => 98
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7029.XL
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 29
+                    [order_id] => 15
+                    [product_id] => 125
+                    [name] => MUŠKA POTKOŠULJA UŽA RAMENICA BIJELA
+                    [model] => M7057
+                    [quantity] => 1
+                    [price] => 121.5000
+                    [total] => 121.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 28
+                            [order_id] => 15
+                            [order_product_id] => 29
+                            [product_option_id] => 288
+                            [product_option_value_id] => 328
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 328
+                                    [product_option_id] => 288
+                                    [product_id] => 125
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 18.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7057.XXL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 46
+                    [order_id] => 15
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 458.6000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 47
+                    [order_id] => 15
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 48
+                    [order_id] => 15
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 458.6000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-11-17 11:33:07 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR15
+            [DATUM_VRIJEME] => 16.11.2020 09:54:24
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => sandrorukavina@gmail.com
+            [NARUCITELJ_IME] => Sandro
+            [NARUCITELJ_PREZIME] => Rukavina
+            [NARUCITELJ_ADRESA] => Krasica 263
+            [NARUCITELJ_MJESTO] => Krasica
+            [NARUCITELJ_POSTA] => 51224
+            [NARUCITELJ_TELEFON] => 0911805974
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Sandro Rukavina
+            [DOSTAVA_ADRESA] => Krasica 263
+            [DOSTAVA_MJESTO] => Krasica
+            [DOSTAVA_POSTA] => 51224
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 458.60
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7012.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 93.10
+                    [RABAT] => 0
+                    [IZNOS] => 93.10
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7016.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 131.50
+                    [RABAT] => 0
+                    [IZNOS] => 131.50
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7029.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.50
+                    [RABAT] => 0
+                    [IZNOS] => 112.50
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7057.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 121.50
+                    [RABAT] => 0
+                    [IZNOS] => 121.50
+                )
+
+        )
+
+)
+
+2020-11-17 11:33:08 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 12
+                    [STAVAKA] => 5
+                    [STAVKA] => 5
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-11-17 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

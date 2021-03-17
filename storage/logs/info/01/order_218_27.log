@@ -1,0 +1,232 @@
+2021-01-27 8:52:34 - Array
+(
+    [order_id] => 218
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 159
+    [customer_group_id] => 1
+    [firstname] => Tibor
+    [lastname] => Ivanović
+    [email] => tibor.ivanovic@baumit.hr
+    [telephone] => 098577476
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Tibor
+    [payment_lastname] => Ivanović
+    [payment_company] => 
+    [payment_address_1] => FRANKOPANSKA 9
+    [payment_address_2] => 
+    [payment_city] => Lipik
+    [payment_postcode] => 34551
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Tibor
+    [shipping_lastname] => Ivanović
+    [shipping_company] => 
+    [shipping_address_1] => FRANKOPANSKA 9
+    [shipping_address_2] => 
+    [shipping_city] => Lipik
+    [shipping_postcode] => 34551
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 248.6000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.143.229.253
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-01-26 17:07:30
+    [date_modified] => 2021-01-26 17:07:47
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 557
+                    [order_id] => 218
+                    [product_id] => 80
+                    [name] => MUŠKE GAĆE SLIP CRNE
+                    [model] => M7012
+                    [quantity] => 3
+                    [price] => 71.2000
+                    [total] => 213.6000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 496
+                            [order_id] => 218
+                            [order_product_id] => 557
+                            [product_option_id] => 243
+                            [product_option_value_id] => 96
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 96
+                                    [product_option_id] => 243
+                                    [product_id] => 80
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 24
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7012.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 716
+                    [order_id] => 218
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 213.6000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 717
+                    [order_id] => 218
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 718
+                    [order_id] => 218
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 248.6000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-27 8:52:35 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR218
+            [DATUM_VRIJEME] => 26.01.2021 17:07:47
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => tibor.ivanovic@baumit.hr
+            [NARUCITELJ_IME] => Tibor
+            [NARUCITELJ_PREZIME] => Ivanović
+            [NARUCITELJ_ADRESA] => FRANKOPANSKA 9
+            [NARUCITELJ_MJESTO] => Lipik
+            [NARUCITELJ_POSTA] => 34551
+            [NARUCITELJ_TELEFON] => 098577476
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Tibor Ivanović
+            [DOSTAVA_ADRESA] => FRANKOPANSKA 9
+            [DOSTAVA_MJESTO] => Lipik
+            [DOSTAVA_POSTA] => 34551
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 248.60
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7012.L
+                    [KOLICINA] => 3
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 213.60
+                )
+
+        )
+
+)
+
+2021-01-27 8:52:36 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 53
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-27 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

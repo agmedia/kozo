@@ -1,0 +1,90 @@
+2021-01-19 9:43:19 - &idfirma=1
+2021-01-19 9:43:19 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR212
+            [DATUM_VRIJEME] => 18.01.2021 22:24:10
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => damiraskare@gmail.com
+            [NARUCITELJ_IME] => Damira
+            [NARUCITELJ_PREZIME] => Bilandžić
+            [NARUCITELJ_ADRESA] => Ante Katunarića 12 
+            [NARUCITELJ_MJESTO] => Split
+            [NARUCITELJ_POSTA] => 21000
+            [NARUCITELJ_TELEFON] => 0915627746
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Damira Bilandžić
+            [DOSTAVA_ADRESA] => Ante Katunarića 12 
+            [DOSTAVA_MJESTO] => Split
+            [DOSTAVA_POSTA] => 21000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 243.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7045.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 76.80
+                    [RABAT] => 0
+                    [IZNOS] => 76.80
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7061.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 65.60
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7075.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 65.60
+                )
+
+        )
+
+)
+
+2021-01-19 9:43:20 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 29
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-19 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

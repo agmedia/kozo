@@ -1,0 +1,72 @@
+2020-12-18 12:24:24 - &idfirma=1
+2020-12-18 12:24:24 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR131
+            [DATUM_VRIJEME] => 17.12.2020 16:35:09
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => lovric.nina@gmail.com
+            [NARUCITELJ_IME] => Nina
+            [NARUCITELJ_PREZIME] => Đerek
+            [NARUCITELJ_ADRESA] => Ivana Gorana Kovačića 24, Sesvete
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10360
+            [NARUCITELJ_TELEFON] => 0981964483
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Nina Đerek
+            [DOSTAVA_ADRESA] => Ivana Gorana Kovačića 24, Sesvete
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10360
+            [NAPOMENA] => Order Comments: Molim vas info da li se može očekivati isporuka prije Božića?
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 331.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5009.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 296.00
+                    [RABAT] => 0
+                    [IZNOS] => 296.00
+                )
+
+        )
+
+)
+
+2020-12-18 12:24:25 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 103
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-18 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

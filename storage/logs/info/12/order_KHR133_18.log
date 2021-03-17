@@ -1,0 +1,72 @@
+2020-12-18 12:25:29 - &idfirma=1
+2020-12-18 12:25:29 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR133
+            [DATUM_VRIJEME] => 17.12.2020 16:55:52
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ivanaburic82@gmail.com
+            [NARUCITELJ_IME] => Ivana
+            [NARUCITELJ_PREZIME] => Burić
+            [NARUCITELJ_ADRESA] => Sisplac 6
+            [NARUCITELJ_MJESTO] => Pula
+            [NARUCITELJ_POSTA] => 52100
+            [NARUCITELJ_TELEFON] => 0989135998
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ivana Burić
+            [DOSTAVA_ADRESA] => Sisplac 6
+            [DOSTAVA_MJESTO] => Pula
+            [DOSTAVA_POSTA] => 52100
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 350.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5010.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 315.00
+                    [RABAT] => 0
+                    [IZNOS] => 315.00
+                )
+
+        )
+
+)
+
+2020-12-18 12:25:30 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 106
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-18 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

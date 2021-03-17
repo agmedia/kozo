@@ -1,0 +1,286 @@
+2020-11-23 6:30:26 - Array
+(
+    [order_id] => 24
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 15
+    [customer_group_id] => 1
+    [firstname] => Davor
+    [lastname] => Perusina
+    [email] => dperusina10@gmail.com
+    [telephone] => 0998500272
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Davor
+    [payment_lastname] => Perusina
+    [payment_company] => 
+    [payment_address_1] => Put od jasenja3
+    [payment_address_2] => 
+    [payment_city] => Slano
+    [payment_postcode] => 20232
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Davor
+    [shipping_lastname] => Perusina
+    [shipping_company] => 
+    [shipping_address_1] => Put od jasenja3
+    [shipping_address_2] => 
+    [shipping_city] => Slano
+    [shipping_postcode] => 20232
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 255.5000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.142.174.232
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-A600FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
+    [accept_language] => en-US,en;q=0.9,hr;q=0.8
+    [paid_order] => 0
+    [intereuropa] => 
+    [date_added] => 2020-11-21 10:26:01
+    [date_modified] => 2020-11-21 10:26:10
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 46
+                    [order_id] => 24
+                    [product_id] => 138
+                    [name] => MUŠKA MAJICA V IZREZ CRNA
+                    [model] => M7070
+                    [quantity] => 1
+                    [price] => 117.0000
+                    [total] => 117.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 45
+                            [order_id] => 24
+                            [order_product_id] => 46
+                            [product_option_id] => 301
+                            [product_option_value_id] => 402
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 402
+                                    [product_option_id] => 301
+                                    [product_id] => 138
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7070.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 47
+                    [order_id] => 24
+                    [product_id] => 140
+                    [name] => MUŠKE BOKSERICE HIPSTER SIVE
+                    [model] => M7072
+                    [quantity] => 1
+                    [price] => 103.5000
+                    [total] => 103.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 46
+                            [order_id] => 24
+                            [order_product_id] => 47
+                            [product_option_id] => 303
+                            [product_option_value_id] => 411
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 411
+                                    [product_option_id] => 303
+                                    [product_id] => 140
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7072.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 74
+                    [order_id] => 24
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 220.5000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 75
+                    [order_id] => 24
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 76
+                    [order_id] => 24
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 255.5000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-11-23 6:30:26 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR24
+            [DATUM_VRIJEME] => 21.11.2020 10:26:10
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => dperusina10@gmail.com
+            [NARUCITELJ_IME] => Davor
+            [NARUCITELJ_PREZIME] => Perusina
+            [NARUCITELJ_ADRESA] => Put od jasenja3
+            [NARUCITELJ_MJESTO] => Slano
+            [NARUCITELJ_POSTA] => 20232
+            [NARUCITELJ_TELEFON] => 0998500272
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Davor Perusina
+            [DOSTAVA_ADRESA] => Put od jasenja3
+            [DOSTAVA_MJESTO] => Slano
+            [DOSTAVA_POSTA] => 20232
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 255.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7070.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 117.00
+                    [RABAT] => 0
+                    [IZNOS] => 117.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7072.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 103.50
+                    [RABAT] => 0
+                    [IZNOS] => 103.50
+                )
+
+        )
+
+)
+
+2020-11-23 6:30:31 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 17
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-11-23 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

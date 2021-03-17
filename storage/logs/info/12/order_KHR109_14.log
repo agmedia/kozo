@@ -1,0 +1,108 @@
+2020-12-14 12:21:59 - &idfirma=1
+2020-12-14 12:21:59 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR109
+            [DATUM_VRIJEME] => 12.12.2020 14:42:49
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => sanjamarink@gmail.com
+            [NARUCITELJ_IME] => Sanja
+            [NARUCITELJ_PREZIME] => Marinković
+            [NARUCITELJ_ADRESA] => Blage Zadre 12
+            [NARUCITELJ_MJESTO] => Vukovar
+            [NARUCITELJ_POSTA] => 32000
+            [NARUCITELJ_TELEFON] => 0958796386
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Sanja Marinkovic
+            [DOSTAVA_ADRESA] => Martina Divalta 18, Viva d.o.o.
+            [DOSTAVA_MJESTO] => Osijek
+            [DOSTAVA_POSTA] => 31000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 580.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7018.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7043.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7046.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M5010.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2020-12-14 12:22:00 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 82
+            [STAVAKA] => 6
+            [STAVKA] => 6
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-14 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

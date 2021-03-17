@@ -1,0 +1,108 @@
+2020-12-11 13:37:08 - &idfirma=1
+2020-12-11 13:37:08 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR96
+            [DATUM_VRIJEME] => 10.12.2020 16:30:16
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mirela.radic24@gmail.com
+            [NARUCITELJ_IME] => Mirela
+            [NARUCITELJ_PREZIME] => Dimovski
+            [NARUCITELJ_ADRESA] => Radmanovačka 6 D
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10020
+            [NARUCITELJ_TELEFON] => 0921933582
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Mirela Dimovski
+            [DOSTAVA_ADRESA] => Radmanovačka 6 D
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10020
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 556.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7030.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7029.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7062.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M5011.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2020-12-11 13:37:09 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 78
+            [STAVAKA] => 6
+            [STAVKA] => 6
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-11 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

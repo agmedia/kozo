@@ -1,0 +1,90 @@
+2020-12-29 10:29:39 - &idfirma=1
+2020-12-29 10:29:39 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR167
+            [DATUM_VRIJEME] => 28.12.2020 15:25:38
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => kimdanko2000@gmail.com
+            [NARUCITELJ_IME] => Danko
+            [NARUCITELJ_PREZIME] => Šimon
+            [NARUCITELJ_ADRESA] => Palih boraca 9, Strahoninec
+            [NARUCITELJ_MJESTO] => Čakovec
+            [NARUCITELJ_POSTA] => 40000
+            [NARUCITELJ_TELEFON] => 0977333818
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Danko Šimon
+            [DOSTAVA_ADRESA] => Palih boraca 9, Strahoninec
+            [DOSTAVA_MJESTO] => Čakovec
+            [DOSTAVA_POSTA] => 40000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 362.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7014.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 119.00
+                    [RABAT] => 0
+                    [IZNOS] => 119.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7020.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 133.00
+                    [RABAT] => 0
+                    [IZNOS] => 133.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7063.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 110.00
+                    [RABAT] => 0
+                    [IZNOS] => 110.00
+                )
+
+        )
+
+)
+
+2020-12-29 10:29:40 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 129
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-29 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

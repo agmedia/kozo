@@ -1,0 +1,428 @@
+2020-12-11 13:37:08 - Array
+(
+    [order_id] => 96
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 73
+    [customer_group_id] => 1
+    [firstname] => Mirela
+    [lastname] => Dimovski
+    [email] => mirela.radic24@gmail.com
+    [telephone] => 0921933582
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Mirela
+    [payment_lastname] => Dimovski
+    [payment_company] => 
+    [payment_address_1] => Radmanovačka 6 D
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10020
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Mirela
+    [shipping_lastname] => Dimovski
+    [shipping_company] => 
+    [shipping_address_1] => Radmanovačka 6 D
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10020
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 556.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 188.252.196.127
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7,sr;q=0.6
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-10 16:28:49
+    [date_modified] => 2020-12-10 16:30:16
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 257
+                    [order_id] => 96
+                    [product_id] => 97
+                    [name] => MUŠKA POTKOŠULJA UŽA RAMENICA TAMNO PLAVA
+                    [model] => M7030
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 227
+                            [order_id] => 96
+                            [order_product_id] => 257
+                            [product_option_id] => 260
+                            [product_option_value_id] => 187
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 187
+                                    [product_option_id] => 260
+                                    [product_id] => 97
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7030.L
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 258
+                    [order_id] => 96
+                    [product_id] => 98
+                    [name] => MUŠKE BOKSERICE TAMNO PLAVE TAMNO PLAVE
+                    [model] => M7029
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 228
+                            [order_id] => 96
+                            [order_product_id] => 258
+                            [product_option_id] => 261
+                            [product_option_value_id] => 193
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 193
+                                    [product_option_id] => 261
+                                    [product_id] => 98
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7029.L
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 259
+                    [order_id] => 96
+                    [product_id] => 131
+                    [name] => MUŠKE BOKSERICE HIPSTER CRNE
+                    [model] => M7062
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 229
+                            [order_id] => 96
+                            [order_product_id] => 259
+                            [product_option_id] => 294
+                            [product_option_value_id] => 360
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 360
+                                    [product_option_id] => 294
+                                    [product_id] => 131
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7062.L
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 260
+                    [order_id] => 96
+                    [product_id] => 170
+                    [name] => NAVY MASKA ZA LICE
+                    [model] => P8010
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+            [4] => Array
+                (
+                    [order_product_id] => 261
+                    [order_id] => 96
+                    [product_id] => 179
+                    [name] => M5011 MUŠKA PIDŽAMA
+                    [model] => M5011
+                    [quantity] => 1
+                    [price] => 264.0000
+                    [total] => 264.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 230
+                            [order_id] => 96
+                            [order_product_id] => 261
+                            [product_option_id] => 343
+                            [product_option_value_id] => 566
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 566
+                                    [product_option_id] => 343
+                                    [product_id] => 179
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5011.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 319
+                    [order_id] => 96
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 607.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 320
+                    [order_id] => 96
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - NAVY MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 321
+                    [order_id] => 96
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 322
+                    [order_id] => 96
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 556.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2020-12-11 13:37:08 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR96
+            [DATUM_VRIJEME] => 10.12.2020 16:30:16
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mirela.radic24@gmail.com
+            [NARUCITELJ_IME] => Mirela
+            [NARUCITELJ_PREZIME] => Dimovski
+            [NARUCITELJ_ADRESA] => Radmanovačka 6 D
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10020
+            [NARUCITELJ_TELEFON] => 0921933582
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Mirela Dimovski
+            [DOSTAVA_ADRESA] => Radmanovačka 6 D
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10020
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 556.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7030.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7029.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7062.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M5011.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2020-12-11 13:37:09 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 78
+                    [STAVAKA] => 6
+                    [STAVKA] => 6
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-11 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

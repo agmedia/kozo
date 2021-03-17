@@ -1,0 +1,340 @@
+2020-11-25 11:28:44 - Array
+(
+    [order_id] => 34
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 24
+    [customer_group_id] => 1
+    [firstname] => Dario
+    [lastname] => Nižetić
+    [email] => dario.nizetic@gmail.com
+    [telephone] => +385918985008
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Dario
+    [payment_lastname] => Nižetić
+    [payment_company] => 
+    [payment_address_1] => Dinka Simunovica 25
+    [payment_address_2] => 
+    [payment_city] => Split
+    [payment_postcode] => 21000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Dario
+    [shipping_lastname] => Nižetić
+    [shipping_company] => 
+    [shipping_address_1] => Dinka Simunovica 25
+    [shipping_address_2] => 
+    [shipping_city] => Split
+    [shipping_postcode] => 21000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 472.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 85.114.55.150
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36
+    [accept_language] => en-GB,en-US;q=0.9,en;q=0.8
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-11-24 14:19:46
+    [date_modified] => 2020-11-24 14:20:59
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 62
+                    [order_id] => 34
+                    [product_id] => 89
+                    [name] => MUŠKA POTKOŠULJA UŽA RAMENICA CRNA
+                    [model] => M7018
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 61
+                            [order_id] => 34
+                            [order_product_id] => 62
+                            [product_option_id] => 252
+                            [product_option_value_id] => 149
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 149
+                                    [product_option_id] => 252
+                                    [product_id] => 89
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7018.M
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 63
+                    [order_id] => 34
+                    [product_id] => 111
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT SQUARES
+                    [model] => M7046
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 62
+                            [order_id] => 34
+                            [order_product_id] => 63
+                            [product_option_id] => 274
+                            [product_option_value_id] => 251
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 251
+                                    [product_option_id] => 274
+                                    [product_id] => 111
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7046.L
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 64
+                    [order_id] => 34
+                    [product_id] => 180
+                    [name] => M5010 MUŠKA PIDŽAMA
+                    [model] => M5010
+                    [quantity] => 1
+                    [price] => 264.0000
+                    [total] => 264.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 63
+                            [order_id] => 34
+                            [order_product_id] => 64
+                            [product_option_id] => 344
+                            [product_option_value_id] => 573
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 573
+                                    [product_option_id] => 344
+                                    [product_id] => 180
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5010.M
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 104
+                    [order_id] => 34
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 472.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 105
+                    [order_id] => 34
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 106
+                    [order_id] => 34
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 472.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2020-11-25 11:28:44 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR34
+            [DATUM_VRIJEME] => 24.11.2020 14:20:59
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => dario.nizetic@gmail.com
+            [NARUCITELJ_IME] => Dario
+            [NARUCITELJ_PREZIME] => Nižetić
+            [NARUCITELJ_ADRESA] => Dinka Simunovica 25
+            [NARUCITELJ_MJESTO] => Split
+            [NARUCITELJ_POSTA] => 21000
+            [NARUCITELJ_TELEFON] => +385918985008
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Dario Nižetić
+            [DOSTAVA_ADRESA] => Dinka Simunovica 25
+            [DOSTAVA_MJESTO] => Split
+            [DOSTAVA_POSTA] => 21000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 472.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7018.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7046.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M5010.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2020-11-25 11:28:45 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 24
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-11-25 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

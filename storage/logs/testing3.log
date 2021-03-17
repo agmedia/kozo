@@ -1,0 +1,2566 @@
+2021-03-05 13:53:02 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 185
+            [tax_class_id] => 9
+            [quantity] => 104
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-04
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => catalog/products/M5012/ODJEL_M5012_slika2.0.jpg
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => M5012 MUŠKA PIDŽAMA DONJI DIO, VEL. L
+                            [description] => Za opuštanje na kraju napornog radnog dana uronite u kolekciju KOZO pidžama izrađenih od najkvalitetnijeg egipatskog pamuka.
+
+Hrabar izbor uzoraka i boja stvara dodir klasičnog i modernog. Zahvaljujući izrazitoj mekoći i rastezljivosti nudi najvišu razinu udobnosti, a zbog svoje prozračnosti moguće ih je nositi cijele godine. Kozo pidžame dolaze u dijelovima ili u kompletu kako bi se prilagodile svačijim željama i potrebama.
+Giza pamuk
+
+Giza pamuk je egipatski pamuk koji slovi kao kralj pamuka jer je zahvaljujući svojim dugačkim nitima najfiniji pamuk na svijetu. Neprekinuta vlakna imaju manje spojeva te tako daju jače niti i dugotrajnije pletivo. Lagana, pahuljasta i mekana struktura Vašoj će koži pružiti osjećaj svježine i nježnosti. Pletiva izrađena od giza pamuka osobito su elastična, čvrsta te izrazito upijajuća pa omogućavaju dobru izmjenu topline i prozračnosti. Zbog svojih hipoalergenih svojstava idealan su izbor za osobe s osjetljivom i problematičnom kožom. Nošenje giza pamuka iskustvo je samo po sebi koje želite isprobati.
+                            [meta_title] => M5012 MUŠKA PIDŽAMA DONJI DIO, VEL. L
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => Za opuštanje na kraju napornog radnog dana uronite u kolekciju KOZO pidžama izrađenih od najkvalitetnijeg egipatskog pamuka.
+
+Hrabar izbor uzoraka i boja stvara dodir klasičnog i modernog. Zahvaljujući izrazitoj mekoći i rastezljivosti nudi najvišu razinu udobnosti, a zbog svoje prozračnosti moguće ih je nositi cijele godine. Kozo pidžame dolaze u dijelovima ili u kompletu kako bi se prilagodile svačijim željama i potrebama.
+Giza pamuk
+
+Giza pamuk je egipatski pamuk koji slovi kao kralj pamuka jer je zahvaljujući svojim dugačkim nitima najfiniji pamuk na svijetu. Neprekinuta vlakna imaju manje spojeva te tako daju jače niti i dugotrajnije pletivo. Lagana, pahuljasta i mekana struktura Vašoj će koži pružiti osjećaj svježine i nježnosti. Pletiva izrađena od giza pamuka osobito su elastična, čvrsta te izrazito upijajuća pa omogućavaju dobru izmjenu topline i prozračnosti. Zbog svojih hipoalergenih svojstava idealan su izbor za osobe s osjetljivom i problematičnom kožom. Nošenje giza pamuka iskustvo je samo po sebi koje želite isprobati.
+                            [meta_keyword] => Za opuštanje na kraju napornog radnog dana uronite u kolekciju KOZO pidžama izrađenih od najkvalitetnijeg egipatskog pamuka.
+
+Hrabar izbor uzoraka i boja stvara dodir klasičnog i modernog. Zahvaljujući izrazitoj mekoći i rastezljivosti nudi najvišu razinu udobnosti, a zbog svoje prozračnosti moguće ih je nositi cijele godine. Kozo pidžame dolaze u dijelovima ili u kompletu kako bi se prilagodile svačijim željama i potrebama.
+Giza pamuk
+
+Giza pamuk je egipatski pamuk koji slovi kao kralj pamuka jer je zahvaljujući svojim dugačkim nitima najfiniji pamuk na svijetu. Neprekinuta vlakna imaju manje spojeva te tako daju jače niti i dugotrajnije pletivo. Lagana, pahuljasta i mekana struktura Vašoj će koži pružiti osjećaj svježine i nježnosti. Pletiva izrađena od giza pamuka osobito su elastična, čvrsta te izrazito upijajuća pa omogućavaju dobru izmjenu topline i prozračnosti. Zbog svojih hipoalergenih svojstava idealan su izbor za osobe s osjetljivom i problematičnom kožom. Nošenje giza pamuka iskustvo je samo po sebi koje želite isprobati.
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 50
+                                            [product_option_value_id] => 
+                                            [quantity] => 22
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5012.L
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [option_value_id] => 51
+                                            [product_option_value_id] => 
+                                            [quantity] => 22
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5012.M
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [option_value_id] => 52
+                                            [product_option_value_id] => 
+                                            [quantity] => 10
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5012.S
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [option_value_id] => 49
+                                            [product_option_value_id] => 
+                                            [quantity] => 22
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5012.XL
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [option_value_id] => 53
+                                            [product_option_value_id] => 
+                                            [quantity] => 18
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 24
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5012.XXL
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [option_value_id] => 54
+                                            [product_option_value_id] => 
+                                            [quantity] => 10
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 24
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5012.XXXL
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5012/ODJEL_M5012_slika2.1.jpg
+                            [sort_order] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5012/ODJEL_M5012_slika2.1.jpg
+                            [sort_order] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5012/ODJEL_M5012_slika2.1.jpg
+                            [sort_order] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5012/ODJEL_M5012_slika2.1.jpg
+                            [sort_order] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5012/ODJEL_M5012_slika2.1.jpg
+                            [sort_order] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5012/ODJEL_M5012_slika2.1.jpg
+                            [sort_order] => 0
+                        )
+
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => M5012
+        )
+
+)
+
+2021-03-05 13:57:02 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 390
+            [tax_class_id] => 9
+            [quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-04
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => catalog/products/M5009L/ODJEL_M5009L_6749.jpg
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => M5009L MUŠKA PIDŽAMA, VEL. L
+                            [description] => Za opuštanje na kraju napornog radnog dana uronite u kolekciju KOZO pidžama izrađenih od najkvalitetnijeg egipatskog pamuka.
+
+Hrabar izbor uzoraka i boja stvara dodir klasičnog i modernog. Zahvaljujući izrazitoj mekoći i rastezljivosti nudi najvišu razinu udobnosti, a zbog svoje prozračnosti moguće ih je nositi cijele godine. Kozo pidžame dolaze u dijelovima ili u kompletu kako bi se prilagodile svačijim željama i potrebama. 
+Giza pamuk
+
+Giza pamuk je egipatski pamuk koji slovi kao kralj pamuka jer je zahvaljujući svojim dugačkim nitima najfiniji pamuk na svijetu. Neprekinuta vlakna imaju manje spojeva te tako daju jače niti i dugotrajnije pletivo. Lagana, pahuljasta i mekana struktura Vašoj će koži pružiti osjećaj svježine i nježnosti. Pletiva izrađena od giza pamuka osobito su elastična, čvrsta te izrazito upijajuća pa omogućavaju dobru izmjenu topline i prozračnosti. Zbog svojih hipoalergenih svojstava idealan su izbor za osobe s osjetljivom i problematičnom kožom. Nošenje giza pamuka iskustvo je samo po sebi koje želite isprobati.
+
+                            [meta_title] => M5009L MUŠKA PIDŽAMA, VEL. L
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => Za opuštanje na kraju napornog radnog dana uronite u kolekciju KOZO pidžama izrađenih od najkvalitetnijeg egipatskog pamuka.
+
+Hrabar izbor uzoraka i boja stvara dodir klasičnog i modernog. Zahvaljujući izrazitoj mekoći i rastezljivosti nudi najvišu razinu udobnosti, a zbog svoje prozračnosti moguće ih je nositi cijele godine. Kozo pidžame dolaze u dijelovima ili u kompletu kako bi se prilagodile svačijim željama i potrebama. 
+Giza pamuk
+
+Giza pamuk je egipatski pamuk koji slovi kao kralj pamuka jer je zahvaljujući svojim dugačkim nitima najfiniji pamuk na svijetu. Neprekinuta vlakna imaju manje spojeva te tako daju jače niti i dugotrajnije pletivo. Lagana, pahuljasta i mekana struktura Vašoj će koži pružiti osjećaj svježine i nježnosti. Pletiva izrađena od giza pamuka osobito su elastična, čvrsta te izrazito upijajuća pa omogućavaju dobru izmjenu topline i prozračnosti. Zbog svojih hipoalergenih svojstava idealan su izbor za osobe s osjetljivom i problematičnom kožom. Nošenje giza pamuka iskustvo je samo po sebi koje želite isprobati.
+
+                            [meta_keyword] => Za opuštanje na kraju napornog radnog dana uronite u kolekciju KOZO pidžama izrađenih od najkvalitetnijeg egipatskog pamuka.
+
+Hrabar izbor uzoraka i boja stvara dodir klasičnog i modernog. Zahvaljujući izrazitoj mekoći i rastezljivosti nudi najvišu razinu udobnosti, a zbog svoje prozračnosti moguće ih je nositi cijele godine. Kozo pidžame dolaze u dijelovima ili u kompletu kako bi se prilagodile svačijim željama i potrebama. 
+Giza pamuk
+
+Giza pamuk je egipatski pamuk koji slovi kao kralj pamuka jer je zahvaljujući svojim dugačkim nitima najfiniji pamuk na svijetu. Neprekinuta vlakna imaju manje spojeva te tako daju jače niti i dugotrajnije pletivo. Lagana, pahuljasta i mekana struktura Vašoj će koži pružiti osjećaj svježine i nježnosti. Pletiva izrađena od giza pamuka osobito su elastična, čvrsta te izrazito upijajuća pa omogućavaju dobru izmjenu topline i prozračnosti. Zbog svojih hipoalergenih svojstava idealan su izbor za osobe s osjetljivom i problematičnom kožom. Nošenje giza pamuka iskustvo je samo po sebi koje želite isprobati.
+
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 50
+                                            [product_option_value_id] => 
+                                            [quantity] => 0
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5009L.L
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [option_value_id] => 51
+                                            [product_option_value_id] => 
+                                            [quantity] => 0
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5009L.M
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [option_value_id] => 52
+                                            [product_option_value_id] => 
+                                            [quantity] => 0
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5009L.S
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [option_value_id] => 49
+                                            [product_option_value_id] => 
+                                            [quantity] => 0
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5009L.XL
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [option_value_id] => 53
+                                            [product_option_value_id] => 
+                                            [quantity] => 0
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 57
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5009L.XXL
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [option_value_id] => 54
+                                            [product_option_value_id] => 
+                                            [quantity] => 0
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 57
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M5009L.XXXL
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-201.jpg
+                            [sort_order] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-200.jpg
+                            [sort_order] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-201.jpg
+                            [sort_order] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-200.jpg
+                            [sort_order] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-201.jpg
+                            [sort_order] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-200.jpg
+                            [sort_order] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-201.jpg
+                            [sort_order] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-200.jpg
+                            [sort_order] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-201.jpg
+                            [sort_order] => 0
+                        )
+
+                    [9] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-200.jpg
+                            [sort_order] => 0
+                        )
+
+                    [10] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-201.jpg
+                            [sort_order] => 0
+                        )
+
+                    [11] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M5009L/ODJEL_M5009L_Kozounderwear-200.jpg
+                            [sort_order] => 0
+                        )
+
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => M5009L
+        )
+
+)
+
+2021-03-09 7:30:25 - $response
+2021-03-09 7:30:27 - Array
+(
+    [sku] => P0014
+    [upc] => 
+    [ean] => 
+    [jan] => 
+    [isbn] => 
+    [mpn] => 
+    [location] => 
+    [price] => 187.5
+    [tax_class_id] => 9
+    [quantity] => 0
+    [minimum] => 1
+    [subtract] => 1
+    [stock_status_id] => 6
+    [shipping] => 1
+    [date_available] => 2021-03-08
+    [length] => 
+    [width] => 
+    [height] => 
+    [length_class_id] => 1
+    [weight] => 
+    [weight_class_id] => 1
+    [status] => 1
+    [sort_order] => 0
+    [manufacturer] => 
+    [manufacturer_id] => 0
+    [category] => 
+    [filter] => 
+    [download] => 
+    [related] => 
+    [image] => catalog/products/P0014/ODJEL_P0014.jpg
+    [points] => 
+    [product_store] => Array
+        (
+            [0] => 0
+        )
+
+    [product_description] => Array
+        (
+            [2] => Array
+                (
+                    [name] => P0014 KOZO POKLON BON 25 EUR
+                    [description] => Poklon kartica u iznosu od 25 eur stiže na Vašu adresu koju možete pokloniti Vama dragoj osobi. Unosom koda s kartice prilokom kupovine umanjuje se iznos narudžbe za 25 eur. Poklon kartica vrijedi 6 mjeseci od datuma kupovine. 
+                    [meta_title] => P0014 KOZO POKLON BON 25 EUR
+                    [custom_alt] => 
+                    [custom_h1] => 
+                    [custom_h2] => 
+                    [custom_imgtitle] => 
+                    [meta_description] => Poklon kartica u iznosu od 25 eur stiže na Vašu adresu koju možete pokloniti Vama dragoj osobi. Unosom koda s kartice prilokom kupovine umanjuje se iznos narudžbe za 25 eur. Poklon kartica vrijedi 6 mjeseci od datuma kupovine. 
+                    [meta_keyword] => Poklon kartica u iznosu od 25 eur stiže na Vašu adresu koju možete pokloniti Vama dragoj osobi. Unosom koda s kartice prilokom kupovine umanjuje se iznos narudžbe za 25 eur. Poklon kartica vrijedi 6 mjeseci od datuma kupovine. 
+                    [tag] => 
+                )
+
+        )
+
+    [product_image] => Array
+        (
+        )
+
+    [product_layout] => Array
+        (
+            [0] => 
+        )
+
+    [product_category] => Array
+        (
+            [0] => 89
+        )
+
+    [model] => P0014
+)
+
+2021-03-09 7:30:27 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => P0014
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 187.5
+            [tax_class_id] => 9
+            [quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-08
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => catalog/products/P0014/ODJEL_P0014.jpg
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => P0014 KOZO POKLON BON 25 EUR
+                            [description] => Poklon kartica u iznosu od 25 eur stiže na Vašu adresu koju možete pokloniti Vama dragoj osobi. Unosom koda s kartice prilokom kupovine umanjuje se iznos narudžbe za 25 eur. Poklon kartica vrijedi 6 mjeseci od datuma kupovine. 
+                            [meta_title] => P0014 KOZO POKLON BON 25 EUR
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => Poklon kartica u iznosu od 25 eur stiže na Vašu adresu koju možete pokloniti Vama dragoj osobi. Unosom koda s kartice prilokom kupovine umanjuje se iznos narudžbe za 25 eur. Poklon kartica vrijedi 6 mjeseci od datuma kupovine. 
+                            [meta_keyword] => Poklon kartica u iznosu od 25 eur stiže na Vašu adresu koju možete pokloniti Vama dragoj osobi. Unosom koda s kartice prilokom kupovine umanjuje se iznos narudžbe za 25 eur. Poklon kartica vrijedi 6 mjeseci od datuma kupovine. 
+                            [tag] => 
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => P0014
+        )
+
+)
+
+2021-03-09 7:33:00 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 99
+            [tax_class_id] => 9
+            [quantity] => 146
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-08
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3264_Facetune_28-02-2021-21-22-37.jpg
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => M7086 MUŠKE GAĆE SLIP, VEL. L
+                            [description] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [meta_title] => M7086 MUŠKE GAĆE SLIP, VEL. L
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [meta_keyword] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 50
+                                            [product_option_value_id] => 
+                                            [quantity] => 40
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7086.L
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [option_value_id] => 51
+                                            [product_option_value_id] => 
+                                            [quantity] => 35
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7086.M
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [option_value_id] => 52
+                                            [product_option_value_id] => 
+                                            [quantity] => 13
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7086.S
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [option_value_id] => 49
+                                            [product_option_value_id] => 
+                                            [quantity] => 32
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7086.XL
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [option_value_id] => 53
+                                            [product_option_value_id] => 
+                                            [quantity] => 18
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 15
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7086.XXL
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [option_value_id] => 54
+                                            [product_option_value_id] => 
+                                            [quantity] => 8
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 15
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7086.XXXL
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3267_Facetune_28-02-2021-21-24-02.jpg
+                            [sort_order] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3265_Facetune_28-02-2021-21-22-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3267_Facetune_28-02-2021-21-24-02.jpg
+                            [sort_order] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3265_Facetune_28-02-2021-21-22-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3267_Facetune_28-02-2021-21-24-02.jpg
+                            [sort_order] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3265_Facetune_28-02-2021-21-22-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3267_Facetune_28-02-2021-21-24-02.jpg
+                            [sort_order] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3265_Facetune_28-02-2021-21-22-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3267_Facetune_28-02-2021-21-24-02.jpg
+                            [sort_order] => 0
+                        )
+
+                    [9] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3265_Facetune_28-02-2021-21-22-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [10] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3267_Facetune_28-02-2021-21-24-02.jpg
+                            [sort_order] => 0
+                        )
+
+                    [11] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7086/ODJEL_M7086_IMG_3265_Facetune_28-02-2021-21-22-47.jpg
+                            [sort_order] => 0
+                        )
+
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => M7086
+        )
+
+)
+
+2021-03-09 9:01:17 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 99
+            [tax_class_id] => 9
+            [quantity] => 180
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-08
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3249_Facetune_28-02-2021-21-14-14.jpg
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => M7087 MUŠKE GAĆE SLIP, VEL. L
+                            [description] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [meta_title] => M7087 MUŠKE GAĆE SLIP, VEL. L
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [meta_keyword] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 50
+                                            [product_option_value_id] => 
+                                            [quantity] => 50
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7087.L
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [option_value_id] => 51
+                                            [product_option_value_id] => 
+                                            [quantity] => 44
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7087.M
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [option_value_id] => 52
+                                            [product_option_value_id] => 
+                                            [quantity] => 18
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7087.S
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [option_value_id] => 49
+                                            [product_option_value_id] => 
+                                            [quantity] => 40
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7087.XL
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [option_value_id] => 53
+                                            [product_option_value_id] => 
+                                            [quantity] => 20
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 15
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7087.XXL
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [option_value_id] => 54
+                                            [product_option_value_id] => 
+                                            [quantity] => 8
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 15
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7087.XXXL
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3248_Facetune_28-02-2021-21-13-01.jpg
+                            [sort_order] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3250_Facetune_28-02-2021-21-15-17.jpg
+                            [sort_order] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3251_Facetune_28-02-2021-21-15-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3248_Facetune_28-02-2021-21-13-01.jpg
+                            [sort_order] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3250_Facetune_28-02-2021-21-15-17.jpg
+                            [sort_order] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3251_Facetune_28-02-2021-21-15-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3248_Facetune_28-02-2021-21-13-01.jpg
+                            [sort_order] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3250_Facetune_28-02-2021-21-15-17.jpg
+                            [sort_order] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3251_Facetune_28-02-2021-21-15-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [9] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3248_Facetune_28-02-2021-21-13-01.jpg
+                            [sort_order] => 0
+                        )
+
+                    [10] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3250_Facetune_28-02-2021-21-15-17.jpg
+                            [sort_order] => 0
+                        )
+
+                    [11] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3251_Facetune_28-02-2021-21-15-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [12] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3248_Facetune_28-02-2021-21-13-01.jpg
+                            [sort_order] => 0
+                        )
+
+                    [13] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3250_Facetune_28-02-2021-21-15-17.jpg
+                            [sort_order] => 0
+                        )
+
+                    [14] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3251_Facetune_28-02-2021-21-15-47.jpg
+                            [sort_order] => 0
+                        )
+
+                    [15] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3248_Facetune_28-02-2021-21-13-01.jpg
+                            [sort_order] => 0
+                        )
+
+                    [16] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3250_Facetune_28-02-2021-21-15-17.jpg
+                            [sort_order] => 0
+                        )
+
+                    [17] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7087/ODJEL_M7087_IMG_3251_Facetune_28-02-2021-21-15-47.jpg
+                            [sort_order] => 0
+                        )
+
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => M7087
+        )
+
+)
+
+2021-03-09 9:09:26 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 99
+            [tax_class_id] => 9
+            [quantity] => 121
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-08
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3268_Facetune_28-02-2021-21-24-39.jpg
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => M7089 MUŠKE GAĆE SLIP, VEL. L
+                            [description] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [meta_title] => M7089 MUŠKE GAĆE SLIP, VEL. L
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [meta_keyword] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 50
+                                            [product_option_value_id] => 
+                                            [quantity] => 36
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.L
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [option_value_id] => 51
+                                            [product_option_value_id] => 
+                                            [quantity] => 32
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.M
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [option_value_id] => 52
+                                            [product_option_value_id] => 
+                                            [quantity] => 13
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.S
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [option_value_id] => 49
+                                            [product_option_value_id] => 
+                                            [quantity] => 30
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.XL
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [option_value_id] => 53
+                                            [product_option_value_id] => 
+                                            [quantity] => 10
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 15
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.XXL
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [9] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [10] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [11] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [12] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [13] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [14] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => M7089
+        )
+
+)
+
+2021-03-09 9:15:05 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 99
+            [tax_class_id] => 9
+            [quantity] => 121
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-08
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3268_Facetune_28-02-2021-21-24-39.jpg
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => M7089 MUŠKE GAĆE SLIP, VEL. L
+                            [description] => Opis
+                            [meta_title] => M7089 MUŠKE GAĆE SLIP, VEL. L
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => Opis
+                            [meta_keyword] => Opis
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 50
+                                            [product_option_value_id] => 
+                                            [quantity] => 36
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.L
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [option_value_id] => 51
+                                            [product_option_value_id] => 
+                                            [quantity] => 32
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.M
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [option_value_id] => 52
+                                            [product_option_value_id] => 
+                                            [quantity] => 13
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.S
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [option_value_id] => 49
+                                            [product_option_value_id] => 
+                                            [quantity] => 30
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.XL
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [option_value_id] => 53
+                                            [product_option_value_id] => 
+                                            [quantity] => 10
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 15
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.XXL
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [9] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [10] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [11] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [12] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [13] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [14] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => M7089
+        )
+
+)
+
+2021-03-09 9:16:53 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 99
+            [tax_class_id] => 9
+            [quantity] => 121
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-08
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3268_Facetune_28-02-2021-21-24-39.jpg
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => M7089 MUŠKE GAĆE SLIP, VEL. L
+                            [description] => Opis
+                            [meta_title] => M7089 MUŠKE GAĆE SLIP, VEL. L
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => Opis
+                            [meta_keyword] => Opis
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 50
+                                            [product_option_value_id] => 
+                                            [quantity] => 36
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.L
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [option_value_id] => 51
+                                            [product_option_value_id] => 
+                                            [quantity] => 32
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.M
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [option_value_id] => 52
+                                            [product_option_value_id] => 
+                                            [quantity] => 13
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.S
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [option_value_id] => 49
+                                            [product_option_value_id] => 
+                                            [quantity] => 30
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.XL
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [option_value_id] => 53
+                                            [product_option_value_id] => 
+                                            [quantity] => 10
+                                            [subtract] => 1
+                                            [price_prefix] => +
+                                            [price] => 15
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7089.XXL
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [9] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [10] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [11] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                    [12] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3269_Facetune_28-02-2021-21-25-04.jpg
+                            [sort_order] => 0
+                        )
+
+                    [13] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3270_Facetune_28-02-2021-21-25-43.jpg
+                            [sort_order] => 0
+                        )
+
+                    [14] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7089/ODJEL_M7089_IMG_3271_Facetune_28-02-2021-21-26-05.jpg
+                            [sort_order] => 0
+                        )
+
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => M7089
+        )
+
+)
+
+2021-03-09 9:32:40 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 99
+            [tax_class_id] => 9
+            [quantity] => 71
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-08
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => catalog/products/M7091/ODJEL_M7091_IMG_3276_Facetune_03-03-2021-21-38-54.jpg
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => M7091 MUŠKE GAĆE SLIP, VEL. L
+                            [description] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [meta_title] => M7091 MUŠKE GAĆE SLIP, VEL. L
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [meta_keyword] => KOZO Slip kolekcija
+
+Slip kolekcija idealan je izbor za klasičnog muškarca koji zna što želi. Glavne odlike ove kolekcije su jednostavnost, bezvremenost i udobnost. Modeli naših slip gaća dostupni su u klasičnim bojama i modernim uzorcima. Problem iritacije kože riješili smo koristeći utisnute umjesto ušivenih etiketa, a unutarnja strana ukrasne gume prekrivena je materijalom.
+Micromodal
+
+Micromodal je kombinacija prirodnih i regeneriranih celuloznih vlakana koje se odlikuju izvanrednom lakoćom i finoćom. Nošenjem micromodala osjetit ćete svilenkast osjećaj na svojoj koži. Debljina jedne micromodalne pređe je gotovo 40 puta tanja od ljudske kose, što odjeću čini iznimno elastičnom i mekanom na dodir. Micromodal se ne skuplja i ne deformira tijekom nošenja i nakon pranja, a zbog svojih hipoalergenih svojstava idealan je za osobe s osjetljivom i problematičnom kožom. Neusporediva mekoća i savršeno prianjanja uz tijelo čine ga izvrsnim izborom za muško donje rublje i drugu intimnu odjeću. 
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 50
+                                            [product_option_value_id] => 
+                                            [quantity] => 22
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7091.L
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [option_value_id] => 51
+                                            [product_option_value_id] => 
+                                            [quantity] => 20
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7091.M
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [option_value_id] => 52
+                                            [product_option_value_id] => 
+                                            [quantity] => 11
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7091.S
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [option_value_id] => 49
+                                            [product_option_value_id] => 
+                                            [quantity] => 18
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M7091.XL
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7091/ODJEL_M7091_IMG_3277_Facetune_03-03-2021-21-39-20.jpg
+                            [sort_order] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7091/ODJEL_M7091_IMG_3279_Facetune_03-03-2021-21-39-55.jpg
+                            [sort_order] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7091/ODJEL_M7091_IMG_3277_Facetune_03-03-2021-21-39-20.jpg
+                            [sort_order] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7091/ODJEL_M7091_IMG_3279_Facetune_03-03-2021-21-39-55.jpg
+                            [sort_order] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7091/ODJEL_M7091_IMG_3277_Facetune_03-03-2021-21-39-20.jpg
+                            [sort_order] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7091/ODJEL_M7091_IMG_3279_Facetune_03-03-2021-21-39-55.jpg
+                            [sort_order] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7091/ODJEL_M7091_IMG_3277_Facetune_03-03-2021-21-39-20.jpg
+                            [sort_order] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [product_id] => 
+                            [image] => catalog/products/M7091/ODJEL_M7091_IMG_3279_Facetune_03-03-2021-21-39-55.jpg
+                            [sort_order] => 0
+                        )
+
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => M7091
+        )
+
+)
+
+2021-03-09 9:32:52 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 0
+            [tax_class_id] => 9
+            [quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-08
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => 
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => KOZO POKLON test BON 25 EUR Veličina 000
+                            [description] => oklon kartica u iznosu od 25 eur stiže na Vašu adresu koju možete pokloniti Vama dragoj osobi. Unosom koda s kartice prilokom kupovine umanjuje se iznos narudžbe za 25 eur. Poklon kartica vrijedi 6 mjeseci od datuma kupovine. 
+                            [meta_title] => KOZO POKLON test BON 25 EUR Veličina 000
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => oklon kartica u iznosu od 25 eur stiže na Vašu adresu koju možete pokloniti Vama dragoj osobi. Unosom koda s kartice prilokom kupovine umanjuje se iznos narudžbe za 25 eur. Poklon kartica vrijedi 6 mjeseci od datuma kupovine. 
+                            [meta_keyword] => oklon kartica u iznosu od 25 eur stiže na Vašu adresu koju možete pokloniti Vama dragoj osobi. Unosom koda s kartice prilokom kupovine umanjuje se iznos narudžbe za 25 eur. Poklon kartica vrijedi 6 mjeseci od datuma kupovine. 
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 67
+                                            [product_option_value_id] => 
+                                            [quantity] => 0
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => P0099.000
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => P0099
+        )
+
+)
+
+2021-03-09 9:54:31 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [sku] => 
+            [upc] => 
+            [ean] => 
+            [jan] => 
+            [isbn] => 
+            [mpn] => 
+            [location] => 
+            [price] => 1.25
+            [tax_class_id] => 9
+            [quantity] => 0
+            [minimum] => 1
+            [subtract] => 1
+            [stock_status_id] => 6
+            [shipping] => 1
+            [date_available] => 2021-03-08
+            [length] => 
+            [width] => 
+            [height] => 
+            [length_class_id] => 1
+            [weight] => 
+            [weight_class_id] => 1
+            [status] => 1
+            [sort_order] => 0
+            [manufacturer] => 
+            [manufacturer_id] => 0
+            [category] => 
+            [filter] => 
+            [download] => 
+            [related] => 
+            [image] => 
+            [points] => 
+            [product_store] => Array
+                (
+                    [0] => 0
+                )
+
+            [product_description] => Array
+                (
+                    [2] => Array
+                        (
+                            [name] => M9999 KOZO TEST PROIZVOD, VEL. L
+                            [description] => Opis
+                            [meta_title] => M9999 KOZO TEST PROIZVOD, VEL. L
+                            [custom_alt] => 
+                            [custom_h1] => 
+                            [custom_h2] => 
+                            [custom_imgtitle] => 
+                            [meta_description] => Opis
+                            [meta_keyword] => Opis
+                            [tag] => 
+                        )
+
+                )
+
+            [product_option] => Array
+                (
+                    [0] => Array
+                        (
+                            [product_option_id] => 
+                            [name] => Veličina
+                            [option_id] => 13
+                            [type] => select
+                            [required] => 1
+                            [product_option_value] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [option_value_id] => 50
+                                            [product_option_value_id] => 
+                                            [quantity] => 0
+                                            [subtract] => 1
+                                            [price_prefix] => 
+                                            [price] => 
+                                            [points_prefix] => 
+                                            [points] => 
+                                            [weight_prefix] => 
+                                            [weight] => 
+                                            [sku] => M9999.L
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [product_image] => Array
+                (
+                )
+
+            [product_layout] => Array
+                (
+                    [0] => 
+                )
+
+            [product_category] => Array
+                (
+                    [0] => 89
+                )
+
+            [model] => M9999
+        )
+
+)
+

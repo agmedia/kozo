@@ -1,0 +1,394 @@
+2020-12-21 12:19:07 - Array
+(
+    [order_id] => 149
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 82
+    [customer_group_id] => 1
+    [firstname] => Matea
+    [lastname] => Hanžek
+    [email] => mateahanzek@gmail.com
+    [telephone] => +385915355750
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Matea
+    [payment_lastname] => Hanžek
+    [payment_company] => 
+    [payment_address_1] => Sv Duh 104
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Matea
+    [shipping_lastname] => Hanžek
+    [shipping_company] => 
+    [shipping_address_1] => Sv Duh 104
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 384.8000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 188.252.199.251
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-T515) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 Safari/537.36
+    [accept_language] => en-GB,en-US;q=0.9,en;q=0.8,hr;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-21 00:08:18
+    [date_modified] => 2020-12-21 00:12:54
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 391
+                    [order_id] => 149
+                    [product_id] => 65
+                    [name] => MUŠKE GAĆE SLIP BIJELE
+                    [model] => M7001
+                    [quantity] => 1
+                    [price] => 71.2000
+                    [total] => 71.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 351
+                            [order_id] => 149
+                            [order_product_id] => 391
+                            [product_option_id] => 229
+                            [product_option_value_id] => 22
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 22
+                                    [product_option_id] => 229
+                                    [product_id] => 65
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 100
+                                    [subtract] => 0
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7001.M
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 392
+                    [order_id] => 149
+                    [product_id] => 80
+                    [name] => MUŠKE GAĆE SLIP CRNE
+                    [model] => M7012
+                    [quantity] => 2
+                    [price] => 71.2000
+                    [total] => 142.4000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 352
+                            [order_id] => 149
+                            [order_product_id] => 392
+                            [product_option_id] => 243
+                            [product_option_value_id] => 96
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 96
+                                    [product_option_id] => 243
+                                    [product_id] => 80
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 97
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7012.L
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 393
+                    [order_id] => 149
+                    [product_id] => 96
+                    [name] => MUŠKE BOKSERICE HIPSTER TAMNO PLAVE
+                    [model] => M7028
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 353
+                            [order_id] => 149
+                            [order_product_id] => 393
+                            [product_option_id] => 259
+                            [product_option_value_id] => 182
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 182
+                                    [product_option_id] => 259
+                                    [product_id] => 96
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7028.L
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 394
+                    [order_id] => 149
+                    [product_id] => 99
+                    [name] => MUŠKE GAĆE SLIP CRVENE
+                    [model] => M7031
+                    [quantity] => 1
+                    [price] => 71.2000
+                    [total] => 71.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 354
+                            [order_id] => 149
+                            [order_product_id] => 394
+                            [product_option_id] => 262
+                            [product_option_value_id] => 200
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 200
+                                    [product_option_id] => 262
+                                    [product_id] => 99
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7031.M
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 490
+                    [order_id] => 149
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 384.8000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 491
+                    [order_id] => 149
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 492
+                    [order_id] => 149
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 384.8000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2020-12-21 12:19:07 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR149
+            [DATUM_VRIJEME] => 21.12.2020 00:12:54
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mateahanzek@gmail.com
+            [NARUCITELJ_IME] => Matea
+            [NARUCITELJ_PREZIME] => Hanžek
+            [NARUCITELJ_ADRESA] => Sv Duh 104
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => +385915355750
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Matea Hanžek
+            [DOSTAVA_ADRESA] => Sv Duh 104
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 384.80
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7001.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7012.L
+                    [KOLICINA] => 2
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 142.40
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7028.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7031.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+        )
+
+)
+
+2020-12-21 12:19:09 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 108
+                    [STAVAKA] => 5
+                    [STAVKA] => 5
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-21 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

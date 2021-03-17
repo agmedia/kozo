@@ -1,0 +1,91 @@
+2021-02-05 9:16:59 - &idfirma=1
+2021-02-05 9:16:59 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR230
+            [DATUM_VRIJEME] => 04.02.2021 13:48:48
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ratkorac1989@gmail.com
+            [NARUCITELJ_IME] => Ratko
+            [NARUCITELJ_PREZIME] => Jovičić
+            [NARUCITELJ_ADRESA] => Grada Gualdo Tadino 4 
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 0989742488
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ratko Jovičić
+            [DOSTAVA_ADRESA] => Grada Gualdo Tadino 4 
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => Order Comments: Kontakt za dostavljača 0989742488
+Pozdrav
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 368.30
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7014.L
+                    [KOLICINA] => 2
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 175.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7050.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.80
+                    [RABAT] => 0
+                    [IZNOS] => 112.80
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7053.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+        )
+
+)
+
+2021-02-05 9:17:12 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 77
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-05 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

@@ -1,0 +1,232 @@
+2021-02-16 10:30:17 - Array
+(
+    [order_id] => 261
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 84
+    [customer_group_id] => 1
+    [firstname] => Sanja
+    [lastname] => Marinković
+    [email] => sanjamarink@gmail.com
+    [telephone] => 0958796386
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Sanja
+    [payment_lastname] => Marinković
+    [payment_company] => 
+    [payment_address_1] => Blage Zadre 12
+    [payment_address_2] => 
+    [payment_city] => Vukovar
+    [payment_postcode] => 32000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Sanja
+    [shipping_lastname] => Marinković
+    [shipping_company] => 
+    [shipping_address_1] => Blage Zadre 12
+    [shipping_address_2] => 
+    [shipping_city] => Vukovar
+    [shipping_postcode] => 32000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 159.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 83.178.235.255
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7,bs;q=0.6
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-02-16 09:05:22
+    [date_modified] => 2021-02-16 09:07:31
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 681
+                    [order_id] => 261
+                    [product_id] => 71
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5005
+                    [quantity] => 1
+                    [price] => 124.0000
+                    [total] => 124.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 607
+                            [order_id] => 261
+                            [order_product_id] => 681
+                            [product_option_id] => 234
+                            [product_option_value_id] => 45
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 45
+                                    [product_option_id] => 234
+                                    [product_id] => 71
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 42
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5005.M
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 856
+                    [order_id] => 261
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 124.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 857
+                    [order_id] => 261
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 858
+                    [order_id] => 261
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 159.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-02-16 10:30:17 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR261
+            [DATUM_VRIJEME] => 16.02.2021 09:07:31
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => sanjamarink@gmail.com
+            [NARUCITELJ_IME] => Sanja
+            [NARUCITELJ_PREZIME] => Marinković
+            [NARUCITELJ_ADRESA] => Blage Zadre 12
+            [NARUCITELJ_MJESTO] => Vukovar
+            [NARUCITELJ_POSTA] => 32000
+            [NARUCITELJ_TELEFON] => 0958796386
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Sanja Marinković
+            [DOSTAVA_ADRESA] => Blage Zadre 12
+            [DOSTAVA_MJESTO] => Vukovar
+            [DOSTAVA_POSTA] => 32000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 159.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5005.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 124.00
+                    [RABAT] => 0
+                    [IZNOS] => 124.00
+                )
+
+        )
+
+)
+
+2021-02-16 10:30:18 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 110
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-02-16 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

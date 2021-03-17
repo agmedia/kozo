@@ -1,0 +1,99 @@
+2021-02-05 9:21:40 - &idfirma=1
+2021-02-05 9:21:40 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR231
+            [DATUM_VRIJEME] => 04.02.2021 19:39:42
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => krunoslav.klaric@atalianworld.com
+            [NARUCITELJ_IME] => KRUNOSLAV
+            [NARUCITELJ_PREZIME] => KLARIĆ
+            [NARUCITELJ_ADRESA] => ILOVNJAK 1
+            [NARUCITELJ_MJESTO] => VELIKA GORICA
+            [NARUCITELJ_POSTA] => 10410
+            [NARUCITELJ_TELEFON] => 098380030
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => KRUNOSLAV KLARIĆ
+            [DOSTAVA_ADRESA] => ILOVNJAK 1
+            [DOSTAVA_MJESTO] => VELIKA GORICA
+            [DOSTAVA_POSTA] => 10410
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 622.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7072.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 161.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7076.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 161.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7084.XL
+                    [KOLICINA] => 4
+                    [CIJENA] => 75.00
+                    [RABAT] => 0
+                    [IZNOS] => 300.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8012
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2021-02-05 9:21:41 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 78
+            [STAVAKA] => 5
+            [STAVKA] => 5
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-05 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

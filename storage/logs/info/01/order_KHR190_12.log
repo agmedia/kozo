@@ -1,0 +1,72 @@
+2021-01-12 8:13:36 - &idfirma=1
+2021-01-12 8:13:36 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR190
+            [DATUM_VRIJEME] => 09.01.2021 11:54:44
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => alen@fastmail.com
+            [NARUCITELJ_IME] => Alen
+            [NARUCITELJ_PREZIME] => Perhat
+            [NARUCITELJ_ADRESA] => Sušik 8
+            [NARUCITELJ_MJESTO] => Tribalj
+            [NARUCITELJ_POSTA] => 51243
+            [NARUCITELJ_TELEFON] => 099 456 3040
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Alen Perhat
+            [DOSTAVA_ADRESA] => Sušik 8
+            [DOSTAVA_MJESTO] => Tribalj
+            [DOSTAVA_POSTA] => 51243
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 371.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7010.XL
+                    [KOLICINA] => 3
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 336.00
+                )
+
+        )
+
+)
+
+2021-01-12 8:13:37 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 13
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-12 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

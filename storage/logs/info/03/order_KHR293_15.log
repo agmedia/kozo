@@ -1,0 +1,108 @@
+2021-03-15 15:19:11 - &idfirma=1
+2021-03-15 15:19:11 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR293
+            [DATUM_VRIJEME] => 12.03.2021 17:32:56
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => Jviskota@yahoo.com
+            [NARUCITELJ_IME] => Jelena
+            [NARUCITELJ_PREZIME] => Culic-viskota
+            [NARUCITELJ_ADRESA] => Put znjana 44c
+            [NARUCITELJ_MJESTO] => Split
+            [NARUCITELJ_POSTA] => 21000
+            [NARUCITELJ_TELEFON] => 098266322
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Jelena Culic-viskota
+            [DOSTAVA_ADRESA] => Put znjana 44c
+            [DOSTAVA_MJESTO] => Split
+            [DOSTAVA_POSTA] => 21000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 503.72
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5004.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 167.00
+                    [RABAT] => 0
+                    [IZNOS] => 167.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7061.XXL
+                    [KOLICINA] => 2
+                    [CIJENA] => 78.60
+                    [RABAT] => 0
+                    [IZNOS] => 157.20
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7062.L
+                    [KOLICINA] => 2
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 161.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7075.XXL
+                    [KOLICINA] => 2
+                    [CIJENA] => 78.60
+                    [RABAT] => 0
+                    [IZNOS] => 157.20
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2021-03-15 15:19:12 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 46
+            [STAVAKA] => 6
+            [STAVKA] => 6
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-03-15 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

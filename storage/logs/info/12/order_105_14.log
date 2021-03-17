@@ -1,0 +1,590 @@
+2020-12-14 12:21:32 - Array
+(
+    [order_id] => 105
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 30
+    [customer_group_id] => 1
+    [firstname] => Kristina
+    [lastname] => Kezele
+    [email] => kristina.kezele@oradian.com
+    [telephone] => 0914692510
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Kristina
+    [payment_lastname] => Kezele
+    [payment_company] => 
+    [payment_address_1] => Remete 84/1
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Oradian d.o.o.
+    [shipping_lastname] => Kristina Kezele
+    [shipping_company] => 
+    [shipping_address_1] => Hebrangova 32
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 728.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 88.207.86.10
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-11 20:45:49
+    [date_modified] => 2020-12-11 20:47:34
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 287
+                    [order_id] => 105
+                    [product_id] => 66
+                    [name] => MUŠKA MAJICA V IZREZ BIJELA
+                    [model] => M7010
+                    [quantity] => 1
+                    [price] => 112.0000
+                    [total] => 112.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 254
+                            [order_id] => 105
+                            [order_product_id] => 287
+                            [product_option_id] => 228
+                            [product_option_value_id] => 528
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 528
+                                    [product_option_id] => 228
+                                    [product_id] => 66
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7010.L
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 288
+                    [order_id] => 105
+                    [product_id] => 82
+                    [name] => MUŠKE BOKSERICE HIPSTER CRNE
+                    [model] => M7013
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 255
+                            [order_id] => 105
+                            [order_product_id] => 288
+                            [product_option_id] => 245
+                            [product_option_value_id] => 111
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 111
+                                    [product_option_id] => 245
+                                    [product_id] => 82
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7013.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 289
+                    [order_id] => 105
+                    [product_id] => 90
+                    [name] => MUŠKE BOKSERICE HIPSTER SIVE
+                    [model] => M7024
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 256
+                            [order_id] => 105
+                            [order_product_id] => 289
+                            [product_option_id] => 253
+                            [product_option_value_id] => 157
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 157
+                                    [product_option_id] => 253
+                                    [product_id] => 90
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7024.XL
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 290
+                    [order_id] => 105
+                    [product_id] => 91
+                    [name] => MUŠKA POTKOŠULJA UŽA RAMENICA SIVA
+                    [model] => M7026
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 257
+                            [order_id] => 105
+                            [order_product_id] => 290
+                            [product_option_id] => 254
+                            [product_option_value_id] => 158
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 158
+                                    [product_option_id] => 254
+                                    [product_id] => 91
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7026.L
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [order_product_id] => 291
+                    [order_id] => 105
+                    [product_id] => 96
+                    [name] => MUŠKE BOKSERICE HIPSTER TAMNO PLAVE
+                    [model] => M7028
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 258
+                            [order_id] => 105
+                            [order_product_id] => 291
+                            [product_option_id] => 259
+                            [product_option_value_id] => 185
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 185
+                                    [product_option_id] => 259
+                                    [product_id] => 96
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7028.XL
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [order_product_id] => 292
+                    [order_id] => 105
+                    [product_id] => 108
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT GEOMETRIC
+                    [model] => M7040
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 259
+                            [order_id] => 105
+                            [order_product_id] => 292
+                            [product_option_id] => 271
+                            [product_option_value_id] => 242
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 242
+                                    [product_option_id] => 271
+                                    [product_id] => 108
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7040.XL
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [order_product_id] => 293
+                    [order_id] => 105
+                    [product_id] => 110
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT WEB
+                    [model] => M7043
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 260
+                            [order_id] => 105
+                            [order_product_id] => 293
+                            [product_option_id] => 273
+                            [product_option_value_id] => 250
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 250
+                                    [product_option_id] => 273
+                                    [product_id] => 110
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7043.XL
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [order_product_id] => 294
+                    [order_id] => 105
+                    [product_id] => 167
+                    [name] => WEB MASKA ZA LICE
+                    [model] => P8013
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 353
+                    [order_id] => 105
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 779.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 354
+                    [order_id] => 105
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - WEB MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 355
+                    [order_id] => 105
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 356
+                    [order_id] => 105
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 728.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2020-12-14 12:21:32 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR105
+            [DATUM_VRIJEME] => 11.12.2020 20:47:34
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => kristina.kezele@oradian.com
+            [NARUCITELJ_IME] => Kristina
+            [NARUCITELJ_PREZIME] => Kezele
+            [NARUCITELJ_ADRESA] => Remete 84/1
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 0914692510
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Oradian d.o.o. Kristina Kezele
+            [DOSTAVA_ADRESA] => Hebrangova 32
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 728.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7010.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 112.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7013.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7024.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7026.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M7028.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => M7040.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [7] => Array
+                (
+                    [IDROBA] => M7043.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [8] => Array
+                (
+                    [IDROBA] => P8013
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2020-12-14 12:21:34 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 79
+                    [STAVAKA] => 9
+                    [STAVKA] => 9
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-14 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

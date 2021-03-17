@@ -1,0 +1,81 @@
+2020-12-08 11:51:39 - &idfirma=1
+2020-12-08 11:51:39 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR75
+            [DATUM_VRIJEME] => 08.12.2020 10:33:31
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => katarinajel@gmail.com
+            [NARUCITELJ_IME] => Katarina
+            [NARUCITELJ_PREZIME] => Brkljačić
+            [NARUCITELJ_ADRESA] => Donja Kaniža 50
+            [NARUCITELJ_MJESTO] => Gospić
+            [NARUCITELJ_POSTA] => 53000
+            [NARUCITELJ_TELEFON] => 0995032360
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Katarina Brkljačić
+            [DOSTAVA_ADRESA] => Donja Kaniža 50
+            [DOSTAVA_MJESTO] => Gospić
+            [DOSTAVA_POSTA] => 53000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 364.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7029.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5011.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2020-12-08 11:51:40 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 57
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-08 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

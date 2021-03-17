@@ -1,0 +1,126 @@
+2021-02-09 9:17:13 - &idfirma=1
+2021-02-09 9:17:13 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR239
+            [DATUM_VRIJEME] => 08.02.2021 11:49:47
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => damir_leljak@a1net.hr
+            [NARUCITELJ_IME] => Damir
+            [NARUCITELJ_PREZIME] => Leljak
+            [NARUCITELJ_ADRESA] => Antuna Šoljana 11
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10090
+            [NARUCITELJ_TELEFON] => 0913866026
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Damir Leljak
+            [DOSTAVA_ADRESA] => Antuna Šoljana 11
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10090
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 824.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5002.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 177.60
+                    [RABAT] => 0
+                    [IZNOS] => 177.60
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5005.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 124.00
+                    [RABAT] => 0
+                    [IZNOS] => 124.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M5003.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 118.40
+                    [RABAT] => 0
+                    [IZNOS] => 118.40
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M5006.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 148.00
+                    [RABAT] => 0
+                    [IZNOS] => 148.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M5004.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 140.00
+                    [RABAT] => 0
+                    [IZNOS] => 140.00
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => M5007.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 116.00
+                    [RABAT] => 0
+                    [IZNOS] => 116.00
+                )
+
+            [7] => Array
+                (
+                    [IDROBA] => M7085.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 75.00
+                    [RABAT] => 0
+                    [IZNOS] => 75.00
+                )
+
+        )
+
+)
+
+2021-02-09 9:17:15 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 87
+            [STAVAKA] => 8
+            [STAVKA] => 8
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-09 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

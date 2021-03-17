@@ -1,0 +1,72 @@
+2020-12-07 6:10:25 - &idfirma=1
+2020-12-07 6:10:25 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR68
+            [DATUM_VRIJEME] => 04.12.2020 07:50:45
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => Anamarija.berkovic@gmail.com
+            [NARUCITELJ_IME] => Anamarija
+            [NARUCITELJ_PREZIME] => Marušić
+            [NARUCITELJ_ADRESA] => Galići 45j
+            [NARUCITELJ_MJESTO] => Umag
+            [NARUCITELJ_POSTA] => 52470
+            [NARUCITELJ_TELEFON] => 0915503412
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Anamarija Marušić
+            [DOSTAVA_ADRESA] => Galići 45j
+            [DOSTAVA_MJESTO] => Umag
+            [DOSTAVA_POSTA] => 52470
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 135.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7024.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+        )
+
+)
+
+2020-12-07 6:10:26 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 48
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-07 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

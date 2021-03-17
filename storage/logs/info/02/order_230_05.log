@@ -1,0 +1,342 @@
+2021-02-05 9:16:59 - Array
+(
+    [order_id] => 230
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 170
+    [customer_group_id] => 1
+    [firstname] => Ratko
+    [lastname] => Jovičić
+    [email] => ratkorac1989@gmail.com
+    [telephone] => 0989742488
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Ratko
+    [payment_lastname] => Jovičić
+    [payment_company] => 
+    [payment_address_1] => Grada Gualdo Tadino 4 
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Ratko
+    [shipping_lastname] => Jovičić
+    [shipping_company] => 
+    [shipping_address_1] => Grada Gualdo Tadino 4 
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => Order Comments: Kontakt za dostavljača 0989742488
+Pozdrav
+    [total] => 368.3000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 95.168.116.8
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; LYA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-02-04 13:48:42
+    [date_modified] => 2021-02-04 13:48:48
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 592
+                    [order_id] => 230
+                    [product_id] => 84
+                    [name] => MUŠKE BOKSERICE TRUNKS CRNE
+                    [model] => M7014
+                    [quantity] => 2
+                    [price] => 87.5000
+                    [total] => 175.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 525
+                            [order_id] => 230
+                            [order_product_id] => 592
+                            [product_option_id] => 247
+                            [product_option_value_id] => 119
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 119
+                                    [product_option_id] => 247
+                                    [product_id] => 84
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 42
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7014.L
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 593
+                    [order_id] => 230
+                    [product_id] => 116
+                    [name] => MUŠKE BOKSERICE PRINT KOKOS
+                    [model] => M7050
+                    [quantity] => 1
+                    [price] => 112.8000
+                    [total] => 112.8000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 526
+                            [order_id] => 230
+                            [order_product_id] => 593
+                            [product_option_id] => 279
+                            [product_option_value_id] => 276
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 276
+                                    [product_option_id] => 279
+                                    [product_id] => 116
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 47
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7050.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 594
+                    [order_id] => 230
+                    [product_id] => 121
+                    [name] => MUŠKE BOKSERICE TRUNKS BIJELE
+                    [model] => M7053
+                    [quantity] => 1
+                    [price] => 80.5000
+                    [total] => 80.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 527
+                            [order_id] => 230
+                            [order_product_id] => 594
+                            [product_option_id] => 284
+                            [product_option_value_id] => 304
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 304
+                                    [product_option_id] => 284
+                                    [product_id] => 121
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 22
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7053.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 757
+                    [order_id] => 230
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 368.3000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 758
+                    [order_id] => 230
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 759
+                    [order_id] => 230
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 368.3000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-02-05 9:16:59 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR230
+            [DATUM_VRIJEME] => 04.02.2021 13:48:48
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ratkorac1989@gmail.com
+            [NARUCITELJ_IME] => Ratko
+            [NARUCITELJ_PREZIME] => Jovičić
+            [NARUCITELJ_ADRESA] => Grada Gualdo Tadino 4 
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 0989742488
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ratko Jovičić
+            [DOSTAVA_ADRESA] => Grada Gualdo Tadino 4 
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => Order Comments: Kontakt za dostavljača 0989742488
+Pozdrav
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 368.30
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7014.L
+                    [KOLICINA] => 2
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 175.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7050.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.80
+                    [RABAT] => 0
+                    [IZNOS] => 112.80
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7053.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+        )
+
+)
+
+2021-02-05 9:17:12 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 77
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-02-05 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

@@ -1,0 +1,286 @@
+2021-01-29 7:33:37 - Array
+(
+    [order_id] => 225
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 164
+    [customer_group_id] => 1
+    [firstname] => Bojan
+    [lastname] => Peruško
+    [email] => bojanperusko123@gmail.com
+    [telephone] => 098535576
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Bojan
+    [payment_lastname] => Peruško
+    [payment_company] => 
+    [payment_address_1] => Peruški 52/A
+    [payment_address_2] => 
+    [payment_city] => Krnica
+    [payment_postcode] => 52208
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Bojan
+    [shipping_lastname] => Peruško
+    [shipping_company] => 
+    [shipping_address_1] => Peruški 52/A
+    [shipping_address_2] => 
+    [shipping_city] => Krnica
+    [shipping_postcode] => 52208
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 218.6000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 31.217.2.170
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-G975F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/300.2.0.58.129;]
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-01-28 04:18:32
+    [date_modified] => 2021-01-28 04:18:45
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 577
+                    [order_id] => 225
+                    [product_id] => 105
+                    [name] => MUŠKE GAĆE SLIP PRINT GEOMETRIC
+                    [model] => M7039
+                    [quantity] => 1
+                    [price] => 91.8000
+                    [total] => 91.8000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 512
+                            [order_id] => 225
+                            [order_product_id] => 577
+                            [product_option_id] => 268
+                            [product_option_value_id] => 227
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 227
+                                    [product_option_id] => 268
+                                    [product_id] => 105
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 12
+                                    [subtract] => 1
+                                    [price] => 15.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7039.XXL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 578
+                    [order_id] => 225
+                    [product_id] => 114
+                    [name] => MUŠKE GAĆE SLIP PRINT SQUARES
+                    [model] => M7045
+                    [quantity] => 1
+                    [price] => 91.8000
+                    [total] => 91.8000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 513
+                            [order_id] => 225
+                            [order_product_id] => 578
+                            [product_option_id] => 277
+                            [product_option_value_id] => 267
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 267
+                                    [product_option_id] => 277
+                                    [product_id] => 114
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 7
+                                    [subtract] => 1
+                                    [price] => 15.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7045.XXL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 741
+                    [order_id] => 225
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 183.6000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 742
+                    [order_id] => 225
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 743
+                    [order_id] => 225
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 218.6000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-29 7:33:37 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR225
+            [DATUM_VRIJEME] => 28.01.2021 04:18:45
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => bojanperusko123@gmail.com
+            [NARUCITELJ_IME] => Bojan
+            [NARUCITELJ_PREZIME] => Peruško
+            [NARUCITELJ_ADRESA] => Peruški 52/A
+            [NARUCITELJ_MJESTO] => Krnica
+            [NARUCITELJ_POSTA] => 52208
+            [NARUCITELJ_TELEFON] => 098535576
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Bojan Peruško
+            [DOSTAVA_ADRESA] => Peruški 52/A
+            [DOSTAVA_MJESTO] => Krnica
+            [DOSTAVA_POSTA] => 52208
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 218.60
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7039.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 91.80
+                    [RABAT] => 0
+                    [IZNOS] => 91.80
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7045.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 91.80
+                    [RABAT] => 0
+                    [IZNOS] => 91.80
+                )
+
+        )
+
+)
+
+2021-01-29 7:33:38 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 58
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-29 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

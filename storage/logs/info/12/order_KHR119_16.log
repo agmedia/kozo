@@ -1,0 +1,81 @@
+2020-12-16 12:24:21 - &idfirma=1
+2020-12-16 12:24:21 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR119
+            [DATUM_VRIJEME] => 15.12.2020 17:46:06
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => nives@igl.hr
+            [NARUCITELJ_IME] => Nives
+            [NARUCITELJ_PREZIME] => Šumberac Matošević
+            [NARUCITELJ_ADRESA] => Nedešćina 45a
+            [NARUCITELJ_MJESTO] => Nedešćina
+            [NARUCITELJ_POSTA] => 52231
+            [NARUCITELJ_TELEFON] => 0911856037
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Nives Šumberac Matošević
+            [DOSTAVA_ADRESA] => Nedešćina 45a
+            [DOSTAVA_MJESTO] => Nedešćina
+            [DOSTAVA_POSTA] => 52231
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 219.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7076.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7080.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+        )
+
+)
+
+2020-12-16 12:24:22 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 99
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-16 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

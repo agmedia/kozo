@@ -1,0 +1,72 @@
+2021-02-16 10:30:17 - &idfirma=1
+2021-02-16 10:30:17 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR261
+            [DATUM_VRIJEME] => 16.02.2021 09:07:31
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => sanjamarink@gmail.com
+            [NARUCITELJ_IME] => Sanja
+            [NARUCITELJ_PREZIME] => Marinković
+            [NARUCITELJ_ADRESA] => Blage Zadre 12
+            [NARUCITELJ_MJESTO] => Vukovar
+            [NARUCITELJ_POSTA] => 32000
+            [NARUCITELJ_TELEFON] => 0958796386
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Sanja Marinković
+            [DOSTAVA_ADRESA] => Blage Zadre 12
+            [DOSTAVA_MJESTO] => Vukovar
+            [DOSTAVA_POSTA] => 32000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 159.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5005.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 124.00
+                    [RABAT] => 0
+                    [IZNOS] => 124.00
+                )
+
+        )
+
+)
+
+2021-02-16 10:30:18 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 110
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-16 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

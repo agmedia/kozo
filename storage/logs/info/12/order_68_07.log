@@ -1,0 +1,232 @@
+2020-12-07 6:10:25 - Array
+(
+    [order_id] => 68
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 50
+    [customer_group_id] => 1
+    [firstname] => Anamarija
+    [lastname] => Marušić
+    [email] => Anamarija.berkovic@gmail.com
+    [telephone] => 0915503412
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Anamarija
+    [payment_lastname] => Marušić
+    [payment_company] => 
+    [payment_address_1] => Galići 45j
+    [payment_address_2] => 
+    [payment_city] => Umag
+    [payment_postcode] => 52470
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Anamarija
+    [shipping_lastname] => Marušić
+    [shipping_company] => 
+    [shipping_address_1] => Galići 45j
+    [shipping_address_2] => 
+    [shipping_city] => Umag
+    [shipping_postcode] => 52470
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 135.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.137.197.188
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-04 07:50:41
+    [date_modified] => 2020-12-04 07:50:45
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 172
+                    [order_id] => 68
+                    [product_id] => 90
+                    [name] => MUŠKE BOKSERICE HIPSTER SIVE
+                    [model] => M7024
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 154
+                            [order_id] => 68
+                            [order_product_id] => 172
+                            [product_option_id] => 253
+                            [product_option_value_id] => 157
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 157
+                                    [product_option_id] => 253
+                                    [product_id] => 90
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7024.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 222
+                    [order_id] => 68
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 100.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 223
+                    [order_id] => 68
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 224
+                    [order_id] => 68
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 135.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-07 6:10:25 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR68
+            [DATUM_VRIJEME] => 04.12.2020 07:50:45
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => Anamarija.berkovic@gmail.com
+            [NARUCITELJ_IME] => Anamarija
+            [NARUCITELJ_PREZIME] => Marušić
+            [NARUCITELJ_ADRESA] => Galići 45j
+            [NARUCITELJ_MJESTO] => Umag
+            [NARUCITELJ_POSTA] => 52470
+            [NARUCITELJ_TELEFON] => 0915503412
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Anamarija Marušić
+            [DOSTAVA_ADRESA] => Galići 45j
+            [DOSTAVA_MJESTO] => Umag
+            [DOSTAVA_POSTA] => 52470
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 135.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7024.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+        )
+
+)
+
+2020-12-07 6:10:26 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 48
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-07 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

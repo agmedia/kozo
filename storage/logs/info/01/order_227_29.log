@@ -1,0 +1,394 @@
+2021-01-29 14:16:03 - Array
+(
+    [order_id] => 227
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 166
+    [customer_group_id] => 1
+    [firstname] => Marijana
+    [lastname] => Ciglenečki
+    [email] => marijana@ciglenecki.com
+    [telephone] => +4998491103
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Marijana
+    [payment_lastname] => Ciglenečki
+    [payment_company] => 
+    [payment_address_1] => Ciglenica Zagorska 24D
+    [payment_address_2] => 
+    [payment_city] => Sveti Križ Začretje
+    [payment_postcode] => 49223
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Marijana
+    [shipping_lastname] => Ciglenečki
+    [shipping_company] => 
+    [shipping_address_1] => Ciglenica Zagorska 24D
+    [shipping_address_2] => 
+    [shipping_city] => Sveti Križ Začretje
+    [shipping_postcode] => 49223
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 391.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 62.157.92.10
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+    [accept_language] => de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-01-29 11:34:02
+    [date_modified] => 2021-01-29 11:35:34
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 580
+                    [order_id] => 227
+                    [product_id] => 67
+                    [name] => MUŠKA MAJICA OKRUGLI IZREZ BIJELA
+                    [model] => M7009
+                    [quantity] => 1
+                    [price] => 112.0000
+                    [total] => 112.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 515
+                            [order_id] => 227
+                            [order_product_id] => 580
+                            [product_option_id] => 336
+                            [product_option_value_id] => 523
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 523
+                                    [product_option_id] => 336
+                                    [product_id] => 67
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 3
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7009.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 581
+                    [order_id] => 227
+                    [product_id] => 76
+                    [name] => MUŠKA POTKOŠULJA REBRASTA BIJELA
+                    [model] => M7011
+                    [quantity] => 1
+                    [price] => 104.0000
+                    [total] => 104.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 516
+                            [order_id] => 227
+                            [order_product_id] => 581
+                            [product_option_id] => 239
+                            [product_option_value_id] => 77
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 77
+                                    [product_option_id] => 239
+                                    [product_id] => 76
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 114
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7011.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 582
+                    [order_id] => 227
+                    [product_id] => 77
+                    [name] => MUŠKE BOKSERICE BIJELE
+                    [model] => M7005
+                    [quantity] => 1
+                    [price] => 87.5000
+                    [total] => 87.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 517
+                            [order_id] => 227
+                            [order_product_id] => 582
+                            [product_option_id] => 240
+                            [product_option_value_id] => 83
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 83
+                                    [product_option_id] => 240
+                                    [product_id] => 77
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 108
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7005.XL
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 583
+                    [order_id] => 227
+                    [product_id] => 98
+                    [name] => MUŠKE BOKSERICE TAMNO PLAVE
+                    [model] => M7029
+                    [quantity] => 1
+                    [price] => 87.5000
+                    [total] => 87.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 518
+                            [order_id] => 227
+                            [order_product_id] => 583
+                            [product_option_id] => 261
+                            [product_option_value_id] => 196
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 196
+                                    [product_option_id] => 261
+                                    [product_id] => 98
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 14
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7029.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 747
+                    [order_id] => 227
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 391.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 748
+                    [order_id] => 227
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 749
+                    [order_id] => 227
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 391.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-29 14:16:03 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR227
+            [DATUM_VRIJEME] => 29.01.2021 11:35:34
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => marijana@ciglenecki.com
+            [NARUCITELJ_IME] => Marijana
+            [NARUCITELJ_PREZIME] => Ciglenečki
+            [NARUCITELJ_ADRESA] => Ciglenica Zagorska 24D
+            [NARUCITELJ_MJESTO] => Sveti Križ Začretje
+            [NARUCITELJ_POSTA] => 49223
+            [NARUCITELJ_TELEFON] => +4998491103
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Marijana Ciglenečki
+            [DOSTAVA_ADRESA] => Ciglenica Zagorska 24D
+            [DOSTAVA_MJESTO] => Sveti Križ Začretje
+            [DOSTAVA_POSTA] => 49223
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 391.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7009.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 112.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7011.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 104.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7005.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7029.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+        )
+
+)
+
+2021-01-29 14:16:05 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 61
+                    [STAVAKA] => 5
+                    [STAVKA] => 5
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-29 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

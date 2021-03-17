@@ -1,0 +1,340 @@
+2021-01-19 9:43:07 - Array
+(
+    [order_id] => 210
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 153
+    [customer_group_id] => 1
+    [firstname] => PETAR
+    [lastname] => STANIČIĆ
+    [email] => pstanici@inet.hr
+    [telephone] => 0919074544
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => PETAR
+    [payment_lastname] => STANIČIĆ
+    [payment_company] => 
+    [payment_address_1] => FRANKOPANSKA 32
+    [payment_address_2] => 
+    [payment_city] => BRELA
+    [payment_postcode] => 21322
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Bankovna transakcija (internet bankarstvo)
+    [payment_code] => bank_transfer
+    [shipping_firstname] => PETAR
+    [shipping_lastname] => STANIČIĆ
+    [shipping_company] => 
+    [shipping_address_1] => FRANKOPANSKA 32
+    [shipping_address_2] => 
+    [shipping_city] => BRELA
+    [shipping_postcode] => 21322
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 377.6000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.141.14.176
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (iPad; CPU OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/86.0.4240.93 Mobile/15E148 Safari/604.1
+    [accept_language] => en-us
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-01-17 17:44:03
+    [date_modified] => 2021-01-17 17:44:44
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 536
+                    [order_id] => 210
+                    [product_id] => 93
+                    [name] => MUŠKE GAĆE SLIP SIVE
+                    [model] => M7023
+                    [quantity] => 2
+                    [price] => 71.2000
+                    [total] => 142.4000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 476
+                            [order_id] => 210
+                            [order_product_id] => 536
+                            [product_option_id] => 256
+                            [product_option_value_id] => 171
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 171
+                                    [product_option_id] => 256
+                                    [product_id] => 93
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 13
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7023.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 537
+                    [order_id] => 210
+                    [product_id] => 127
+                    [name] => MUŠKA MAJICA V IZREZ BIJELA
+                    [model] => M7060
+                    [quantity] => 1
+                    [price] => 104.0000
+                    [total] => 104.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 477
+                            [order_id] => 210
+                            [order_product_id] => 537
+                            [product_option_id] => 290
+                            [product_option_value_id] => 339
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 339
+                                    [product_option_id] => 290
+                                    [product_id] => 127
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 6
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7060.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 538
+                    [order_id] => 210
+                    [product_id] => 136
+                    [name] => MUŠKE GAĆE SLIP SIVE
+                    [model] => M7071
+                    [quantity] => 2
+                    [price] => 65.6000
+                    [total] => 131.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 478
+                            [order_id] => 210
+                            [order_product_id] => 538
+                            [product_option_id] => 299
+                            [product_option_value_id] => 392
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 392
+                                    [product_option_id] => 299
+                                    [product_id] => 136
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 8
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7071.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 691
+                    [order_id] => 210
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 377.6000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 692
+                    [order_id] => 210
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 693
+                    [order_id] => 210
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 377.6000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2021-01-19 9:43:07 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR210
+            [DATUM_VRIJEME] => 17.01.2021 17:44:44
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => pstanici@inet.hr
+            [NARUCITELJ_IME] => PETAR
+            [NARUCITELJ_PREZIME] => STANIČIĆ
+            [NARUCITELJ_ADRESA] => FRANKOPANSKA 32
+            [NARUCITELJ_MJESTO] => BRELA
+            [NARUCITELJ_POSTA] => 21322
+            [NARUCITELJ_TELEFON] => 0919074544
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => PETAR STANIČIĆ
+            [DOSTAVA_ADRESA] => FRANKOPANSKA 32
+            [DOSTAVA_MJESTO] => BRELA
+            [DOSTAVA_POSTA] => 21322
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 377.60
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7023.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 142.40
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7060.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 104.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7071.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 131.20
+                )
+
+        )
+
+)
+
+2021-01-19 9:43:08 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 28
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-19 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

@@ -1,0 +1,232 @@
+2021-02-22 14:03:42 - Array
+(
+    [order_id] => 269
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 143
+    [customer_group_id] => 1
+    [firstname] => Hanja
+    [lastname] => Miler
+    [email] => Hanja.miler@gmail.com
+    [telephone] => 0989363023
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Hanja
+    [payment_lastname] => Miler
+    [payment_company] => 
+    [payment_address_1] => Andrije Hebranga 6/15
+    [payment_address_2] => 
+    [payment_city] => Pakrac
+    [payment_postcode] => 34550
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Hanja
+    [shipping_lastname] => Miler
+    [shipping_company] => 
+    [shipping_address_1] => Andrije Hebranga 6/15
+    [shipping_address_2] => 
+    [shipping_city] => Pakrac
+    [shipping_postcode] => 34550
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 371.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 31.217.5.121
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-A505FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-02-21 22:25:55
+    [date_modified] => 2021-02-21 22:26:04
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 696
+                    [order_id] => 269
+                    [product_id] => 87
+                    [name] => MUŠKA MAJICA OKRUGLI IZREZ CRNA
+                    [model] => M7020
+                    [quantity] => 3
+                    [price] => 112.0000
+                    [total] => 336.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 621
+                            [order_id] => 269
+                            [order_product_id] => 696
+                            [product_option_id] => 250
+                            [product_option_value_id] => 136
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 136
+                                    [product_option_id] => 250
+                                    [product_id] => 87
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 0
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7020.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 880
+                    [order_id] => 269
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 336.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 881
+                    [order_id] => 269
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 882
+                    [order_id] => 269
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 371.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-02-22 14:03:42 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR269
+            [DATUM_VRIJEME] => 21.02.2021 22:26:04
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => Hanja.miler@gmail.com
+            [NARUCITELJ_IME] => Hanja
+            [NARUCITELJ_PREZIME] => Miler
+            [NARUCITELJ_ADRESA] => Andrije Hebranga 6/15
+            [NARUCITELJ_MJESTO] => Pakrac
+            [NARUCITELJ_POSTA] => 34550
+            [NARUCITELJ_TELEFON] => 0989363023
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Hanja Miler
+            [DOSTAVA_ADRESA] => Andrije Hebranga 6/15
+            [DOSTAVA_MJESTO] => Pakrac
+            [DOSTAVA_POSTA] => 34550
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 371.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7020.L
+                    [KOLICINA] => 3
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 336.00
+                )
+
+        )
+
+)
+
+2021-02-22 14:03:43 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 121
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-02-22 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

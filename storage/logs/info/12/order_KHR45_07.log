@@ -1,0 +1,126 @@
+2020-12-07 13:29:53 - &idfirma=1
+2020-12-07 13:29:53 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR45
+            [DATUM_VRIJEME] => 28.11.2020 14:52:01
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => friscic95@gmail.com
+            [NARUCITELJ_IME] => Dajana
+            [NARUCITELJ_PREZIME] => Friščić
+            [NARUCITELJ_ADRESA] => Matije Gupca 100
+            [NARUCITELJ_MJESTO] => Donji Vidovec
+            [NARUCITELJ_POSTA] => 40327
+            [NARUCITELJ_TELEFON] => 0996913297
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Dajana Friščić
+            [DOSTAVA_ADRESA] => Matije Gupca 100
+            [DOSTAVA_MJESTO] => Donji Vidovec
+            [DOSTAVA_POSTA] => 40327
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 830.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7007.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7033.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7041.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7050.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 150.40
+                    [RABAT] => 0
+                    [IZNOS] => 150.40
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M7047.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 40.80
+                    [RABAT] => 0
+                    [IZNOS] => 40.80
+                )
+
+            [7] => Array
+                (
+                    [IDROBA] => M5011.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2020-12-07 13:29:55 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 50
+            [STAVAKA] => 8
+            [STAVKA] => 8
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-07 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

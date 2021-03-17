@@ -1,0 +1,90 @@
+2020-12-18 12:24:35 - &idfirma=1
+2020-12-18 12:24:35 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR140
+            [DATUM_VRIJEME] => 18.12.2020 11:12:21
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => kovacm88@gmail.com
+            [NARUCITELJ_IME] => Martina
+            [NARUCITELJ_PREZIME] => Kovač Radmanić
+            [NARUCITELJ_ADRESA] => R. Šoštarića 10
+            [NARUCITELJ_MJESTO] => Donja Dubrava
+            [NARUCITELJ_POSTA] => 40328
+            [NARUCITELJ_TELEFON] => 0913235143
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Martina Kovač Radmanić
+            [DOSTAVA_ADRESA] => R. Šoštarića 10
+            [DOSTAVA_MJESTO] => Donja Dubrava
+            [DOSTAVA_POSTA] => 40328
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 265.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7062.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7076.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7085.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 81.00
+                    [RABAT] => 0
+                    [IZNOS] => 81.00
+                )
+
+        )
+
+)
+
+2020-12-18 12:24:37 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 104
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-18 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

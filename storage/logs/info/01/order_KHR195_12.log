@@ -1,0 +1,90 @@
+2021-01-12 8:13:52 - &idfirma=1
+2021-01-12 8:13:52 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR195
+            [DATUM_VRIJEME] => 11.01.2021 14:32:16
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mhorvat1703@yahoo.com
+            [NARUCITELJ_IME] => Marina
+            [NARUCITELJ_PREZIME] => Horvat
+            [NARUCITELJ_ADRESA] => Međimurske čete16
+            [NARUCITELJ_MJESTO] => DONJA DUBRAVA
+            [NARUCITELJ_POSTA] => 40328
+            [NARUCITELJ_TELEFON] => 098/560-855
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Marina Horvat
+            [DOSTAVA_ADRESA] => Međimurske čete16
+            [DOSTAVA_MJESTO] => DONJA DUBRAVA
+            [DOSTAVA_POSTA] => 40328
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 296.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7020.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 112.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7059.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 104.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7076.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+        )
+
+)
+
+2021-01-12 8:13:54 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 14
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-12 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

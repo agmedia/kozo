@@ -1,0 +1,81 @@
+2021-03-09 8:47:14 - &idfirma=1
+2021-03-09 8:47:14 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR286
+            [DATUM_VRIJEME] => 06.03.2021 16:57:42
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => andri.batistic@gmail.com
+            [NARUCITELJ_IME] => Andrijana
+            [NARUCITELJ_PREZIME] => Batistić
+            [NARUCITELJ_ADRESA] => Žrnovo200a
+            [NARUCITELJ_MJESTO] => Žrnovo
+            [NARUCITELJ_POSTA] => 20275
+            [NARUCITELJ_TELEFON] => 0993090363
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Andrijana Batistić
+            [DOSTAVA_ADRESA] => Žrnovo200a
+            [DOSTAVA_MJESTO] => Žrnovo
+            [DOSTAVA_POSTA] => 20275
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 318.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7044.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 94.50
+                    [RABAT] => 0
+                    [IZNOS] => 94.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7047.M
+                    [KOLICINA] => 2
+                    [CIJENA] => 94.50
+                    [RABAT] => 0
+                    [IZNOS] => 189.00
+                )
+
+        )
+
+)
+
+2021-03-09 8:47:15 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 38
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-03-09 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

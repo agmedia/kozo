@@ -1,0 +1,81 @@
+2020-12-03 12:42:22 - &idfirma=1
+2020-12-03 12:42:22 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR62
+            [DATUM_VRIJEME] => 02.12.2020 10:06:38
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => helena.magdic@gmail.com
+            [NARUCITELJ_IME] => Helena
+            [NARUCITELJ_PREZIME] => Magdic
+            [NARUCITELJ_ADRESA] => Kralja Zvonimira 87
+            [NARUCITELJ_MJESTO] => Cerna
+            [NARUCITELJ_POSTA] => 32272
+            [NARUCITELJ_TELEFON] => 0992164331
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Helena Magdic 
+            [DOSTAVA_ADRESA] => Kralja Zvonimira 87
+            [DOSTAVA_MJESTO] => Cerna
+            [DOSTAVA_POSTA] => 32272
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 187.20
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7001.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7015.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 81.00
+                    [RABAT] => 0
+                    [IZNOS] => 81.00
+                )
+
+        )
+
+)
+
+2020-12-03 12:42:24 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 43
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-03 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

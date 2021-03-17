@@ -1,0 +1,340 @@
+2021-02-08 8:07:38 - Array
+(
+    [order_id] => 234
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 65
+    [customer_group_id] => 1
+    [firstname] => Kristijan
+    [lastname] => Brčić
+    [email] => kristijan.brcic@gmail.com
+    [telephone] => 0917882605
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Kristijan
+    [payment_lastname] => Brčić
+    [payment_company] => 
+    [payment_address_1] => 8. dalmatinske udarne brigade br. 4
+    [payment_address_2] => 
+    [payment_city] => Šibenik
+    [payment_postcode] => 22000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Adriatic
+    [shipping_lastname] => osiguranje d.d.
+    [shipping_company] => 
+    [shipping_address_1] => Put Bioca 27
+    [shipping_address_2] => 
+    [shipping_city] => Šibenik
+    [shipping_postcode] => 22000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 256.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 91.212.44.254
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363
+    [accept_language] => hr-HR,hr;q=0.5
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-02-05 14:37:27
+    [date_modified] => 2021-02-05 14:37:34
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 605
+                    [order_id] => 234
+                    [product_id] => 115
+                    [name] => MUŠKE GAĆE SLIP PRINT KOKOS
+                    [model] => M7048
+                    [quantity] => 1
+                    [price] => 93.1000
+                    [total] => 93.1000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 536
+                            [order_id] => 234
+                            [order_product_id] => 605
+                            [product_option_id] => 278
+                            [product_option_value_id] => 272
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 272
+                                    [product_option_id] => 278
+                                    [product_id] => 115
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 17
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7048.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 606
+                    [order_id] => 234
+                    [product_id] => 149
+                    [name] => MUŠKE GAĆE SLIP CRVENE
+                    [model] => M7079
+                    [quantity] => 1
+                    [price] => 65.6000
+                    [total] => 65.6000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 537
+                            [order_id] => 234
+                            [order_product_id] => 606
+                            [product_option_id] => 312
+                            [product_option_value_id] => 457
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 457
+                                    [product_option_id] => 312
+                                    [product_id] => 149
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 14
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7079.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 607
+                    [order_id] => 234
+                    [product_id] => 150
+                    [name] => MUŠKE GAĆE SLIP PRINT HOHOHO
+                    [model] => M7083
+                    [quantity] => 1
+                    [price] => 62.3000
+                    [total] => 62.3000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 538
+                            [order_id] => 234
+                            [order_product_id] => 607
+                            [product_option_id] => 313
+                            [product_option_value_id] => 461
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 461
+                                    [product_option_id] => 313
+                                    [product_id] => 150
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 14
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7083.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 771
+                    [order_id] => 234
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 221.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 772
+                    [order_id] => 234
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 773
+                    [order_id] => 234
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 256.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-02-08 8:07:38 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR234
+            [DATUM_VRIJEME] => 05.02.2021 14:37:34
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => kristijan.brcic@gmail.com
+            [NARUCITELJ_IME] => Kristijan
+            [NARUCITELJ_PREZIME] => Brčić
+            [NARUCITELJ_ADRESA] => 8. dalmatinske udarne brigade br. 4
+            [NARUCITELJ_MJESTO] => Šibenik
+            [NARUCITELJ_POSTA] => 22000
+            [NARUCITELJ_TELEFON] => 0917882605
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Adriatic osiguranje d.d.
+            [DOSTAVA_ADRESA] => Put Bioca 27
+            [DOSTAVA_MJESTO] => Šibenik
+            [DOSTAVA_POSTA] => 22000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 256.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7048.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 93.10
+                    [RABAT] => 0
+                    [IZNOS] => 93.10
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7079.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 65.60
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7083.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 62.30
+                    [RABAT] => 0
+                    [IZNOS] => 62.30
+                )
+
+        )
+
+)
+
+2021-02-08 8:07:39 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 82
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-02-08 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

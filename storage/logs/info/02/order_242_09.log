@@ -1,0 +1,296 @@
+2021-02-09 9:17:31 - Array
+(
+    [order_id] => 242
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 169
+    [customer_group_id] => 1
+    [firstname] => Siniša
+    [lastname] => Haček
+    [email] => sinisa@kvantum-gradnja.hr
+    [telephone] => 098 178 88 56
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Sinisa
+    [payment_lastname] => Haček
+    [payment_company] => 
+    [payment_address_1] => Domovinskih Žrtava 4
+    [payment_address_2] => 
+    [payment_city] => Čakovec
+    [payment_postcode] => 40000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Bankovna transakcija (internet bankarstvo)
+    [payment_code] => bank_transfer
+    [shipping_firstname] => Sinisa
+    [shipping_lastname] => Haček
+    [shipping_company] => 
+    [shipping_address_1] => Domovinskih Žrtava 4
+    [shipping_address_2] => 
+    [shipping_city] => Čakovec
+    [shipping_postcode] => 40000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Preuzmi kod nas - Trg republike 3, 40328 Donja Dubrava, Međimurska županija
+    [shipping_code] => pickup.pickup
+    [comment] => 
+    [total] => 0.3000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.142.7.125
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63
+    [accept_language] => hr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 
+    [date_added] => 2021-02-08 15:52:31
+    [date_modified] => 2021-02-08 15:54:35
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 630
+                    [order_id] => 242
+                    [product_id] => 100
+                    [name] => MUŠKE BOKSERICE HIPSTER CRVENE
+                    [model] => M7032
+                    [quantity] => 1
+                    [price] => 87.5000
+                    [total] => 87.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 561
+                            [order_id] => 242
+                            [order_product_id] => 630
+                            [product_option_id] => 263
+                            [product_option_value_id] => 206
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 206
+                                    [product_option_id] => 263
+                                    [product_id] => 100
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 22
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7032.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 631
+                    [order_id] => 242
+                    [product_id] => 117
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT KOKOS
+                    [model] => M7049
+                    [quantity] => 1
+                    [price] => 112.8000
+                    [total] => 112.8000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 562
+                            [order_id] => 242
+                            [order_product_id] => 631
+                            [product_option_id] => 280
+                            [product_option_value_id] => 285
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 285
+                                    [product_option_id] => 280
+                                    [product_id] => 117
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 29
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7049.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 796
+                    [order_id] => 242
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 200.3000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 797
+                    [order_id] => 242
+                    [code] => shipping
+                    [title] => Preuzmi kod nas - Trg republike 3, 40328 Donja Dubrava, Međimurska županija
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 798
+                    [order_id] => 242
+                    [code] => coupon
+                    [title] => Kupon za popust (A0hsp6)
+                    [value] => -200.0000
+                    [sort_order] => 4
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 799
+                    [order_id] => 242
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 0.3000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2021-02-09 9:17:31 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR242
+            [DATUM_VRIJEME] => 08.02.2021 15:54:35
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => sinisa@kvantum-gradnja.hr
+            [NARUCITELJ_IME] => Sinisa
+            [NARUCITELJ_PREZIME] => Haček
+            [NARUCITELJ_ADRESA] => Domovinskih Žrtava 4
+            [NARUCITELJ_MJESTO] => Čakovec
+            [NARUCITELJ_POSTA] => 40000
+            [NARUCITELJ_TELEFON] => 098 178 88 56
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Sinisa Haček
+            [DOSTAVA_ADRESA] => Domovinskih Žrtava 4
+            [DOSTAVA_MJESTO] => Čakovec
+            [DOSTAVA_POSTA] => 40000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 0.30
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7032.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7049.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.80
+                    [RABAT] => 0
+                    [IZNOS] => 112.80
+                )
+
+        )
+
+)
+
+2021-02-09 9:17:32 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 88
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-02-09 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

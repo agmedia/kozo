@@ -1,0 +1,266 @@
+2021-03-12 14:55:58 - Array
+(
+    [order_id] => 291
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 201
+    [customer_group_id] => 1
+    [firstname] => Dubravka
+    [lastname] => Holjevac
+    [email] => dholjevac@gmail.com
+    [telephone] => +38598868777
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Dubravka
+    [payment_lastname] => Holjevac
+    [payment_company] => 
+    [payment_address_1] => J.J. Strossmyera  50
+    [payment_address_2] => 
+    [payment_city] => Valpovo
+    [payment_postcode] => 31550
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Dubravka
+    [shipping_lastname] => Holjevac
+    [shipping_company] => 
+    [shipping_address_1] => J.J. Strossmyera  50
+    [shipping_address_2] => 
+    [shipping_city] => Valpovo
+    [shipping_postcode] => 31550
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 552.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 95.168.121.162
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-03-12 08:37:11
+    [date_modified] => 2021-03-12 08:38:27
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 747
+                    [order_id] => 291
+                    [product_id] => 75
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5007
+                    [quantity] => 4
+                    [price] => 138.0000
+                    [total] => 552.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 664
+                            [order_id] => 291
+                            [order_product_id] => 747
+                            [product_option_id] => 238
+                            [product_option_value_id] => 72
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 72
+                                    [product_option_id] => 238
+                                    [product_id] => 75
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 2
+                                    [subtract] => 1
+                                    [price] => 22.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5007.XXL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 748
+                    [order_id] => 291
+                    [product_id] => 170
+                    [name] => NAVY MASKA ZA LICE
+                    [model] => P8010
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 949
+                    [order_id] => 291
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 603.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 950
+                    [order_id] => 291
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - NAVY MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 951
+                    [order_id] => 291
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 952
+                    [order_id] => 291
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 552.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-03-12 14:55:58 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR291
+            [DATUM_VRIJEME] => 12.03.2021 08:38:27
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => dholjevac@gmail.com
+            [NARUCITELJ_IME] => Dubravka
+            [NARUCITELJ_PREZIME] => Holjevac
+            [NARUCITELJ_ADRESA] => J.J. Strossmyera  50
+            [NARUCITELJ_MJESTO] => Valpovo
+            [NARUCITELJ_POSTA] => 31550
+            [NARUCITELJ_TELEFON] => +38598868777
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Dubravka Holjevac
+            [DOSTAVA_ADRESA] => J.J. Strossmyera  50
+            [DOSTAVA_MJESTO] => Valpovo
+            [DOSTAVA_POSTA] => 31550
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 552.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5007.XXL
+                    [KOLICINA] => 4
+                    [CIJENA] => 138.00
+                    [RABAT] => 0
+                    [IZNOS] => 552.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2021-03-12 14:56:04 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 44
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-03-12 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

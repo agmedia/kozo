@@ -1,0 +1,394 @@
+2020-12-10 11:57:38 - Array
+(
+    [order_id] => 83
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 64
+    [customer_group_id] => 1
+    [firstname] => LJERKA
+    [lastname] => BOŠNJAK
+    [email] => ljerkabosnjak@gmail.com
+    [telephone] => 0989896496
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => LJERKA
+    [payment_lastname] => BOŠNJAK
+    [payment_company] => 
+    [payment_address_1] => MATIJE GUPCA 39
+    [payment_address_2] => 
+    [payment_city] => JOSIPOVAC,OSJEČKO-BARANJSKA
+    [payment_postcode] => 31221
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Bankovna transakcija (internet bankarstvo)
+    [payment_code] => bank_transfer
+    [shipping_firstname] => LJERKA
+    [shipping_lastname] => BOŠNJAK
+    [shipping_company] => 
+    [shipping_address_1] => MATIJE GUPCA 39
+    [shipping_address_2] => 
+    [shipping_city] => JOSIPOVAC,OSJEČKO-BARANJSKA
+    [shipping_postcode] => 31221
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 355.2000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.143.231.88
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+    [accept_language] => en-US,en;q=0.9
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-09 10:30:46
+    [date_modified] => 2020-12-09 10:32:30
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 209
+                    [order_id] => 83
+                    [product_id] => 60
+                    [name] => MUŠKA POTKOŠULJA UŽA RAMENICA BIJELA
+                    [model] => M7007
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 186
+                            [order_id] => 83
+                            [order_product_id] => 209
+                            [product_option_id] => 230
+                            [product_option_value_id] => 505
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 505
+                                    [product_option_id] => 230
+                                    [product_id] => 60
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 100
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7007.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 210
+                    [order_id] => 83
+                    [product_id] => 95
+                    [name] => MUŠKE GAĆE SLIP TAMNO PLAVE
+                    [model] => M7027
+                    [quantity] => 1
+                    [price] => 71.2000
+                    [total] => 71.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 187
+                            [order_id] => 83
+                            [order_product_id] => 210
+                            [product_option_id] => 258
+                            [product_option_value_id] => 176
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 176
+                                    [product_option_id] => 258
+                                    [product_id] => 95
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 100
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7027.L
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 211
+                    [order_id] => 83
+                    [product_id] => 142
+                    [name] => MUŠKE BOKSERICE HIPSTER TAMNO PLAVE
+                    [model] => M7076
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 188
+                            [order_id] => 83
+                            [order_product_id] => 211
+                            [product_option_id] => 305
+                            [product_option_value_id] => 419
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 419
+                                    [product_option_id] => 305
+                                    [product_id] => 142
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7076.L
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 212
+                    [order_id] => 83
+                    [product_id] => 148
+                    [name] => MUŠKA POTKOŠULJA UŽA RAMENICA TAMNO PLAVA
+                    [model] => M7078
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 189
+                            [order_id] => 83
+                            [order_product_id] => 212
+                            [product_option_id] => 311
+                            [product_option_value_id] => 452
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 452
+                                    [product_option_id] => 311
+                                    [product_id] => 148
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 100
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7078.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 271
+                    [order_id] => 83
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 355.2000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 272
+                    [order_id] => 83
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 273
+                    [order_id] => 83
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 355.2000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-10 11:57:38 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR83
+            [DATUM_VRIJEME] => 09.12.2020 10:32:30
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ljerkabosnjak@gmail.com
+            [NARUCITELJ_IME] => LJERKA
+            [NARUCITELJ_PREZIME] => BOŠNJAK
+            [NARUCITELJ_ADRESA] => MATIJE GUPCA 39
+            [NARUCITELJ_MJESTO] => JOSIPOVAC,OSJEČKO-BARANJSKA
+            [NARUCITELJ_POSTA] => 31221
+            [NARUCITELJ_TELEFON] => 0989896496
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => LJERKA BOŠNJAK
+            [DOSTAVA_ADRESA] => MATIJE GUPCA 39
+            [DOSTAVA_MJESTO] => JOSIPOVAC,OSJEČKO-BARANJSKA
+            [DOSTAVA_POSTA] => 31221
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 355.20
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7007.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7027.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7076.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7078.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+        )
+
+)
+
+2020-12-10 11:57:40 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 68
+                    [STAVAKA] => 5
+                    [STAVKA] => 5
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-10 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

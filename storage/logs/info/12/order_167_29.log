@@ -1,0 +1,340 @@
+2020-12-29 10:29:39 - Array
+(
+    [order_id] => 167
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 127
+    [customer_group_id] => 1
+    [firstname] => Danko
+    [lastname] => Šimon
+    [email] => kimdanko2000@gmail.com
+    [telephone] => 0977333818
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Danko
+    [payment_lastname] => Šimon
+    [payment_company] => 
+    [payment_address_1] => Palih boraca 9, Strahoninec
+    [payment_address_2] => 
+    [payment_city] => Čakovec
+    [payment_postcode] => 40000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Danko
+    [shipping_lastname] => Šimon
+    [shipping_company] => 
+    [shipping_address_1] => Palih boraca 9, Strahoninec
+    [shipping_address_2] => 
+    [shipping_city] => Čakovec
+    [shipping_postcode] => 40000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 362.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 141.136.238.214
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66
+    [accept_language] => en-US,en;q=0.9,hr;q=0.8
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-28 15:25:11
+    [date_modified] => 2020-12-28 15:25:38
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 436
+                    [order_id] => 167
+                    [product_id] => 84
+                    [name] => MUŠKE BOKSERICE TRUNKS CRNE
+                    [model] => M7014
+                    [quantity] => 1
+                    [price] => 119.0000
+                    [total] => 119.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 393
+                            [order_id] => 167
+                            [order_product_id] => 436
+                            [product_option_id] => 247
+                            [product_option_value_id] => 123
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 123
+                                    [product_option_id] => 247
+                                    [product_id] => 84
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 4
+                                    [subtract] => 1
+                                    [price] => 19.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7014.XXL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 437
+                    [order_id] => 167
+                    [product_id] => 87
+                    [name] => MUŠKA MAJICA OKRUGLI IZREZ CRNA
+                    [model] => M7020
+                    [quantity] => 1
+                    [price] => 133.0000
+                    [total] => 133.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 394
+                            [order_id] => 167
+                            [order_product_id] => 437
+                            [product_option_id] => 250
+                            [product_option_value_id] => 140
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 140
+                                    [product_option_id] => 250
+                                    [product_id] => 87
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 4
+                                    [subtract] => 1
+                                    [price] => 21.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7020.XXL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 438
+                    [order_id] => 167
+                    [product_id] => 130
+                    [name] => MUŠKE BOKSERICE TRUNKS CRNE
+                    [model] => M7063
+                    [quantity] => 1
+                    [price] => 110.0000
+                    [total] => 110.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 395
+                            [order_id] => 167
+                            [order_product_id] => 438
+                            [product_option_id] => 293
+                            [product_option_value_id] => 358
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 358
+                                    [product_option_id] => 293
+                                    [product_id] => 130
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 9
+                                    [subtract] => 1
+                                    [price] => 18.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7063.XXL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 547
+                    [order_id] => 167
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 362.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 548
+                    [order_id] => 167
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 549
+                    [order_id] => 167
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 362.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-29 10:29:39 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR167
+            [DATUM_VRIJEME] => 28.12.2020 15:25:38
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => kimdanko2000@gmail.com
+            [NARUCITELJ_IME] => Danko
+            [NARUCITELJ_PREZIME] => Šimon
+            [NARUCITELJ_ADRESA] => Palih boraca 9, Strahoninec
+            [NARUCITELJ_MJESTO] => Čakovec
+            [NARUCITELJ_POSTA] => 40000
+            [NARUCITELJ_TELEFON] => 0977333818
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Danko Šimon
+            [DOSTAVA_ADRESA] => Palih boraca 9, Strahoninec
+            [DOSTAVA_MJESTO] => Čakovec
+            [DOSTAVA_POSTA] => 40000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 362.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7014.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 119.00
+                    [RABAT] => 0
+                    [IZNOS] => 119.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7020.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 133.00
+                    [RABAT] => 0
+                    [IZNOS] => 133.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7063.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 110.00
+                    [RABAT] => 0
+                    [IZNOS] => 110.00
+                )
+
+        )
+
+)
+
+2020-12-29 10:29:40 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 129
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-29 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

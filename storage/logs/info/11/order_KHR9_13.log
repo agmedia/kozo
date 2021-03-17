@@ -1,0 +1,72 @@
+2020-11-13 10:00:33 - &idfirma=1
+2020-11-13 10:00:33 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR9
+            [DATUM_VRIJEME] => 13.11.2020 07:31:06
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => djurkovic27@gmail.com
+            [NARUCITELJ_IME] => Ivan Branimir
+            [NARUCITELJ_PREZIME] => Jurković
+            [NARUCITELJ_ADRESA] => Antuna Šoljana 39
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 098323152
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ivan Branimir Jurković
+            [DOSTAVA_ADRESA] => Antuna Šoljana 39
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => Order Comments: Nazvati sat vremena prije dostave na br. 098 323152.
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 150.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7072.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 115.00
+                    [RABAT] => 0
+                    [IZNOS] => 115.00
+                )
+
+        )
+
+)
+
+2020-11-13 10:00:34 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 5
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-11-13 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

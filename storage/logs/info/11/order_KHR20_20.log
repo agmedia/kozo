@@ -1,0 +1,99 @@
+2020-11-20 9:25:32 - &idfirma=1
+2020-11-20 9:25:32 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR20
+            [DATUM_VRIJEME] => 18.11.2020 11:20:51
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => edi.prijic@pu.t-com.hr
+            [NARUCITELJ_IME] => Edi
+            [NARUCITELJ_PREZIME] => Prijić
+            [NARUCITELJ_ADRESA] => Boškovićev uspon 10
+            [NARUCITELJ_MJESTO] => Pula
+            [NARUCITELJ_POSTA] => 52100
+            [NARUCITELJ_TELEFON] => +385 98 464 732
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Edi Prijić
+            [DOSTAVA_ADRESA] => Boškovićev uspon 10
+            [DOSTAVA_MJESTO] => Pula
+            [DOSTAVA_POSTA] => 52100
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 357.80
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7004.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 76.50
+                    [RABAT] => 0
+                    [IZNOS] => 76.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7001.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 93.10
+                    [RABAT] => 0
+                    [IZNOS] => 93.10
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7039.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 101.40
+                    [RABAT] => 0
+                    [IZNOS] => 101.40
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7051.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 86.80
+                    [RABAT] => 0
+                    [IZNOS] => 86.80
+                )
+
+        )
+
+)
+
+2020-11-20 9:25:33 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 16
+            [STAVAKA] => 5
+            [STAVKA] => 5
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-11-20 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

@@ -1,0 +1,90 @@
+2021-02-08 8:08:09 - &idfirma=1
+2021-02-08 8:08:09 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR237
+            [DATUM_VRIJEME] => 07.02.2021 22:48:23
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => miho.lucic@gmail.com
+            [NARUCITELJ_IME] => Mihovil
+            [NARUCITELJ_PREZIME] => Lucic
+            [NARUCITELJ_ADRESA] => Galovićeva 8
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => +385918829483
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Mihovil Lucic
+            [DOSTAVA_ADRESA] => Galovićeva 8
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 416.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7046.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 94.50
+                    [RABAT] => 0
+                    [IZNOS] => 94.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7062.M
+                    [KOLICINA] => 2
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 161.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7080.M
+                    [KOLICINA] => 2
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 161.00
+                )
+
+        )
+
+)
+
+2021-02-08 8:08:10 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 85
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-08 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

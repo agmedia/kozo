@@ -1,0 +1,81 @@
+2020-12-29 10:29:28 - &idfirma=1
+2020-12-29 10:29:28 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR166
+            [DATUM_VRIJEME] => 28.12.2020 11:16:55
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => martina.mekic@gmail.com
+            [NARUCITELJ_IME] => Martina
+            [NARUCITELJ_PREZIME] => Mekic
+            [NARUCITELJ_ADRESA] => Ulica kneza Borne 14
+            [NARUCITELJ_MJESTO] => Osijek
+            [NARUCITELJ_POSTA] => 31000
+            [NARUCITELJ_TELEFON] => 0955252639
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Martina Mekic
+            [DOSTAVA_ADRESA] => Ulica kneza Borne 14
+            [DOSTAVA_MJESTO] => Osijek
+            [DOSTAVA_POSTA] => 31000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 299.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5005.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 124.00
+                    [RABAT] => 0
+                    [IZNOS] => 124.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5004.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 140.00
+                    [RABAT] => 0
+                    [IZNOS] => 140.00
+                )
+
+        )
+
+)
+
+2020-12-29 10:29:30 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 128
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-29 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

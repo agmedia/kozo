@@ -1,0 +1,81 @@
+2020-12-17 13:06:38 - &idfirma=1
+2020-12-17 13:06:38 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR125
+            [DATUM_VRIJEME] => 17.12.2020 00:35:33
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => rayan1967@op.pl
+            [NARUCITELJ_IME] => Željko
+            [NARUCITELJ_PREZIME] => Kutnjak
+            [NARUCITELJ_ADRESA] => Pobjenik 210
+            [NARUCITELJ_MJESTO] => Ćazma
+            [NARUCITELJ_POSTA] => 43-240
+            [NARUCITELJ_TELEFON] => 0977602757
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Željko Kutnjak
+            [DOSTAVA_ADRESA] => Pobjenik 210
+            [DOSTAVA_MJESTO] => Ćazma
+            [DOSTAVA_POSTA] => 43-240
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 208.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7080.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7084.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 81.00
+                    [RABAT] => 0
+                    [IZNOS] => 81.00
+                )
+
+        )
+
+)
+
+2020-12-17 13:06:39 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 102
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-17 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

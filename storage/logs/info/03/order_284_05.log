@@ -1,0 +1,320 @@
+2021-03-05 14:44:52 - Array
+(
+    [order_id] => 284
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 30
+    [customer_group_id] => 1
+    [firstname] => Kristina
+    [lastname] => Kezele
+    [email] => kristina.kezele@oradian.com
+    [telephone] => 0914692510
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Kristina
+    [payment_lastname] => Kezele
+    [payment_company] => 
+    [payment_address_1] => Remete 84/1
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Oradian d.o.o.
+    [shipping_lastname] => Kristina Kezele
+    [shipping_company] => 
+    [shipping_address_1] => Hebrangova 32 / 3kat
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 560.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 188.252.246.204
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-03-04 20:58:50
+    [date_modified] => 2021-03-04 21:01:01
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 732
+                    [order_id] => 284
+                    [product_id] => 170
+                    [name] => NAVY MASKA ZA LICE
+                    [model] => P8010
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 733
+                    [order_id] => 284
+                    [product_id] => 179
+                    [name] => MUŠKA PIDŽAMA
+                    [model] => M5011
+                    [quantity] => 1
+                    [price] => 264.0000
+                    [total] => 264.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 651
+                            [order_id] => 284
+                            [order_product_id] => 733
+                            [product_option_id] => 343
+                            [product_option_value_id] => 569
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 569
+                                    [product_option_id] => 343
+                                    [product_id] => 179
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 18
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5011.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 734
+                    [order_id] => 284
+                    [product_id] => 183
+                    [name] => MUŠKA PIDŽAMA
+                    [model] => M5009
+                    [quantity] => 1
+                    [price] => 296.0000
+                    [total] => 296.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 652
+                            [order_id] => 284
+                            [order_product_id] => 734
+                            [product_option_id] => 345
+                            [product_option_value_id] => 581
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 581
+                                    [product_option_id] => 345
+                                    [product_id] => 183
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 19
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5009.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 926
+                    [order_id] => 284
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 611.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 927
+                    [order_id] => 284
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - NAVY MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 928
+                    [order_id] => 284
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 929
+                    [order_id] => 284
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 560.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-03-05 14:44:52 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR284
+            [DATUM_VRIJEME] => 04.03.2021 21:01:01
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => kristina.kezele@oradian.com
+            [NARUCITELJ_IME] => Kristina
+            [NARUCITELJ_PREZIME] => Kezele
+            [NARUCITELJ_ADRESA] => Remete 84/1
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 0914692510
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Oradian d.o.o. Kristina Kezele
+            [DOSTAVA_ADRESA] => Hebrangova 32 / 3kat
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 560.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5011.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M5009.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 296.00
+                    [RABAT] => 0
+                    [IZNOS] => 296.00
+                )
+
+        )
+
+)
+
+2021-03-05 14:44:53 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 37
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-03-05 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

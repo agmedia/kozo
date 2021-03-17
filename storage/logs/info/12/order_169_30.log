@@ -1,0 +1,232 @@
+2020-12-30 9:56:01 - Array
+(
+    [order_id] => 169
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 129
+    [customer_group_id] => 1
+    [firstname] => Anita
+    [lastname] => Cepanec
+    [email] => anita.cepanec@gmail.com
+    [telephone] => 0915189545
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Anita
+    [payment_lastname] => Cepanec
+    [payment_company] => 
+    [payment_address_1] => Zagrebačka 19
+    [payment_address_2] => 
+    [payment_city] => Varaždin
+    [payment_postcode] => 42000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Anita
+    [shipping_lastname] => Cepanec
+    [shipping_company] => 
+    [shipping_address_1] => Zagrebačka 19
+    [shipping_address_2] => 
+    [shipping_city] => Varaždin
+    [shipping_postcode] => 42000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 151.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 141.138.44.80
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; WAS-LX1A Build/HUAWEIWAS-LX1A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.198 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/300.1.0.57.129;]
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-30 09:18:09
+    [date_modified] => 2020-12-30 09:18:18
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 443
+                    [order_id] => 169
+                    [product_id] => 75
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5007
+                    [quantity] => 1
+                    [price] => 116.0000
+                    [total] => 116.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 400
+                            [order_id] => 169
+                            [order_product_id] => 443
+                            [product_option_id] => 238
+                            [product_option_value_id] => 68
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 68
+                                    [product_option_id] => 238
+                                    [product_id] => 75
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 22
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5007.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 553
+                    [order_id] => 169
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 116.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 554
+                    [order_id] => 169
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 555
+                    [order_id] => 169
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 151.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-30 9:56:01 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR169
+            [DATUM_VRIJEME] => 30.12.2020 09:18:18
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => anita.cepanec@gmail.com
+            [NARUCITELJ_IME] => Anita
+            [NARUCITELJ_PREZIME] => Cepanec
+            [NARUCITELJ_ADRESA] => Zagrebačka 19
+            [NARUCITELJ_MJESTO] => Varaždin
+            [NARUCITELJ_POSTA] => 42000
+            [NARUCITELJ_TELEFON] => 0915189545
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Anita Cepanec
+            [DOSTAVA_ADRESA] => Zagrebačka 19
+            [DOSTAVA_MJESTO] => Varaždin
+            [DOSTAVA_POSTA] => 42000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 151.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5007.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 116.00
+                    [RABAT] => 0
+                    [IZNOS] => 116.00
+                )
+
+        )
+
+)
+
+2020-12-30 9:56:03 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 131
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-30 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

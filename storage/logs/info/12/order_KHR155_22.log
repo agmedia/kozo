@@ -1,0 +1,81 @@
+2020-12-22 12:31:14 - &idfirma=1
+2020-12-22 12:31:14 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR155
+            [DATUM_VRIJEME] => 22.12.2020 11:47:36
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => kulusiclucia@gmail.com
+            [NARUCITELJ_IME] => Lucia
+            [NARUCITELJ_PREZIME] => Kulusic
+            [NARUCITELJ_ADRESA] => Prokljanska 20
+            [NARUCITELJ_MJESTO] => Šibenik
+            [NARUCITELJ_POSTA] => 22000
+            [NARUCITELJ_TELEFON] => +385913022049
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Lucia Kulusic
+            [DOSTAVA_ADRESA] => Prokljanska 20
+            [DOSTAVA_MJESTO] => Šibenik
+            [DOSTAVA_POSTA] => 22000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 291.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5004.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 140.00
+                    [RABAT] => 0
+                    [IZNOS] => 140.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5007.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 116.00
+                    [RABAT] => 0
+                    [IZNOS] => 116.00
+                )
+
+        )
+
+)
+
+2020-12-22 12:31:15 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 118
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-22 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

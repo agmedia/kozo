@@ -1,0 +1,81 @@
+2020-12-22 12:31:05 - &idfirma=1
+2020-12-22 12:31:05 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR154
+            [DATUM_VRIJEME] => 22.12.2020 11:42:35
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => vidovic.ivan30@gmail.com
+            [NARUCITELJ_IME] => ivan
+            [NARUCITELJ_PREZIME] => Vidovic
+            [NARUCITELJ_ADRESA] => lovacki put 13a
+            [NARUCITELJ_MJESTO] => Split
+            [NARUCITELJ_POSTA] => 21000
+            [NARUCITELJ_TELEFON] => 0915404546
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => ivan Vidovic
+            [DOSTAVA_ADRESA] => lovacki put 13a
+            [DOSTAVA_MJESTO] => Split
+            [DOSTAVA_POSTA] => 21000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 209.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7015.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 68.00
+                    [RABAT] => 0
+                    [IZNOS] => 68.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7048.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 106.40
+                    [RABAT] => 0
+                    [IZNOS] => 106.40
+                )
+
+        )
+
+)
+
+2020-12-22 12:31:07 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 117
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-22 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

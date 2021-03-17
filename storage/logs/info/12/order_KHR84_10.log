@@ -1,0 +1,90 @@
+2020-12-10 11:57:08 - &idfirma=1
+2020-12-10 11:57:08 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR84
+            [DATUM_VRIJEME] => 09.12.2020 13:20:00
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => kristijan.brcic@gmail.com
+            [NARUCITELJ_IME] => Kristijan
+            [NARUCITELJ_PREZIME] => Brčić
+            [NARUCITELJ_ADRESA] => 8. dalmatinske udarne brigade br. 4
+            [NARUCITELJ_MJESTO] => Šibenik
+            [NARUCITELJ_POSTA] => 22000
+            [NARUCITELJ_TELEFON] => 0917882605
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Kristijan Brčić
+            [DOSTAVA_ADRESA] => 8. dalmatinske udarne brigade br. 4
+            [DOSTAVA_MJESTO] => Šibenik
+            [DOSTAVA_POSTA] => 22000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 283.80
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7045.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 76.80
+                    [RABAT] => 0
+                    [IZNOS] => 76.80
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7048.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 106.40
+                    [RABAT] => 0
+                    [IZNOS] => 106.40
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7075.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 65.60
+                )
+
+        )
+
+)
+
+2020-12-10 11:57:09 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 65
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-10 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

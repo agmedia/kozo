@@ -1,0 +1,72 @@
+2021-03-11 13:41:22 - &idfirma=1
+2021-03-11 13:41:22 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR290
+            [DATUM_VRIJEME] => 09.03.2021 21:43:45
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => dholjevac@gmail.com
+            [NARUCITELJ_IME] => Dubravka
+            [NARUCITELJ_PREZIME] => Holjevac
+            [NARUCITELJ_ADRESA] => J.J. Strossmyera  50
+            [NARUCITELJ_MJESTO] => Valpovo
+            [NARUCITELJ_POSTA] => 31550
+            [NARUCITELJ_TELEFON] => +38598868777
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Dubravka Holjevac
+            [DOSTAVA_ADRESA] => J.J. Strossmyera  50
+            [DOSTAVA_MJESTO] => Valpovo
+            [DOSTAVA_POSTA] => 31550
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 414.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5007.XXL
+                    [KOLICINA] => 3
+                    [CIJENA] => 138.00
+                    [RABAT] => 0
+                    [IZNOS] => 414.00
+                )
+
+        )
+
+)
+
+2021-03-11 13:41:24 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 43
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-03-11 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

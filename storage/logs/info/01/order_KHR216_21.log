@@ -1,0 +1,90 @@
+2021-01-21 11:01:36 - &idfirma=1
+2021-01-21 11:01:36 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR216
+            [DATUM_VRIJEME] => 20.01.2021 17:56:15
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => taki.rudic@gmail.com
+            [NARUCITELJ_IME] => Taki
+            [NARUCITELJ_PREZIME] => Rudić
+            [NARUCITELJ_ADRESA] => Mulina 6
+            [NARUCITELJ_MJESTO] => Tkon
+            [NARUCITELJ_POSTA] => 23212
+            [NARUCITELJ_TELEFON] => 0981664735
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Taki Rudić
+            [DOSTAVA_ADRESA] => Mulina 6
+            [DOSTAVA_MJESTO] => Tkon
+            [DOSTAVA_POSTA] => 23212
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 312.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5007.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 116.00
+                    [RABAT] => 0
+                    [IZNOS] => 116.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7073.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7077.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+        )
+
+)
+
+2021-01-21 11:01:38 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 32
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-21 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

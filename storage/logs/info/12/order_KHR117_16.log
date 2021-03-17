@@ -1,0 +1,72 @@
+2020-12-16 12:24:11 - &idfirma=1
+2020-12-16 12:24:11 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR117
+            [DATUM_VRIJEME] => 15.12.2020 10:52:23
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ida.hitrec0@gmail.com
+            [NARUCITELJ_IME] => Ida
+            [NARUCITELJ_PREZIME] => Hitrec
+            [NARUCITELJ_ADRESA] => Mokrice 212
+            [NARUCITELJ_MJESTO] => Oroslavje
+            [NARUCITELJ_POSTA] => 49243
+            [NARUCITELJ_TELEFON] => 0993202804
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ida Hitrec
+            [DOSTAVA_ADRESA] => Mokrice 212
+            [DOSTAVA_MJESTO] => Oroslavje
+            [DOSTAVA_POSTA] => 49243
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 135.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7013.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+        )
+
+)
+
+2020-12-16 12:24:12 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 98
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-16 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

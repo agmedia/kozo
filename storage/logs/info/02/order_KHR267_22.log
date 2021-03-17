@@ -1,0 +1,90 @@
+2021-02-22 14:02:54 - &idfirma=1
+2021-02-22 14:02:54 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR267
+            [DATUM_VRIJEME] => 19.02.2021 13:58:41
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => stefic.lucijaa@gmail.com
+            [NARUCITELJ_IME] => Lucija
+            [NARUCITELJ_PREZIME] => Štefić
+            [NARUCITELJ_ADRESA] => M. Pavleka Miškine 26
+            [NARUCITELJ_MJESTO] => Donja Dubrava
+            [NARUCITELJ_POSTA] => 40328
+            [NARUCITELJ_TELEFON] => 0996688717
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Lucija Štefić
+            [DOSTAVA_ADRESA] => M. Pavleka Miškine 26
+            [DOSTAVA_MJESTO] => Donja Dubrava
+            [DOSTAVA_POSTA] => 40328
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 192.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7077.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7078.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => P0018
+                    [KOLICINA] => 1
+                    [CIJENA] => 20.00
+                    [RABAT] => 0
+                    [IZNOS] => 20.00
+                )
+
+        )
+
+)
+
+2021-02-22 14:02:55 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 120
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-22 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

@@ -1,0 +1,340 @@
+2020-11-16 11:08:40 - Array
+(
+    [order_id] => 11
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 0
+    [customer_group_id] => 1
+    [firstname] => Robert
+    [lastname] => Musollaj
+    [email] => musollaj72@gmail.com
+    [telephone] => 098231037
+    [fax] => 
+    [custom_field] => []
+    [payment_firstname] => Robert
+    [payment_lastname] => Musollaj
+    [payment_company] => 
+    [payment_address_1] => Aleja tišine 2
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10040
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => []
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Robert
+    [shipping_lastname] => Musollaj
+    [shipping_company] => 
+    [shipping_address_1] => Aleja tišine 2
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10040
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => []
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 385.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 109.60.19.95
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 14_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+    [accept_language] => en-us
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-11-14 17:26:20
+    [date_modified] => 2020-11-14 17:26:46
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 19
+                    [order_id] => 11
+                    [product_id] => 90
+                    [name] => MUŠKE BOKSERICE HIPSTER SIVE
+                    [model] => M7024
+                    [quantity] => 1
+                    [price] => 125.0000
+                    [total] => 125.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 18
+                            [order_id] => 11
+                            [order_product_id] => 19
+                            [product_option_id] => 253
+                            [product_option_value_id] => 157
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 157
+                                    [product_option_id] => 253
+                                    [product_id] => 90
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7024.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 20
+                    [order_id] => 11
+                    [product_id] => 109
+                    [name] => MUŠKE BOKSERICE BOJA KOŽE
+                    [model] => M7037
+                    [quantity] => 1
+                    [price] => 125.0000
+                    [total] => 125.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 19
+                            [order_id] => 11
+                            [order_product_id] => 20
+                            [product_option_id] => 272
+                            [product_option_value_id] => 246
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 246
+                                    [product_option_id] => 272
+                                    [product_id] => 109
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7037.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 21
+                    [order_id] => 11
+                    [product_id] => 110
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT WEB
+                    [model] => M7043
+                    [quantity] => 1
+                    [price] => 135.0000
+                    [total] => 135.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 20
+                            [order_id] => 11
+                            [order_product_id] => 21
+                            [product_option_id] => 273
+                            [product_option_value_id] => 250
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 250
+                                    [product_option_id] => 273
+                                    [product_id] => 110
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7043.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 34
+                    [order_id] => 11
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 385.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 35
+                    [order_id] => 11
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 36
+                    [order_id] => 11
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 385.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-11-16 11:08:40 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR11
+            [DATUM_VRIJEME] => 14.11.2020 17:26:46
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => musollaj72@gmail.com
+            [NARUCITELJ_IME] => Robert
+            [NARUCITELJ_PREZIME] => Musollaj
+            [NARUCITELJ_ADRESA] => Aleja tišine 2
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10040
+            [NARUCITELJ_TELEFON] => 098231037
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Robert Musollaj
+            [DOSTAVA_ADRESA] => Aleja tišine 2
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10040
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 385.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7024.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 125.00
+                    [RABAT] => 0
+                    [IZNOS] => 125.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7037.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 125.00
+                    [RABAT] => 0
+                    [IZNOS] => 125.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7043.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 135.00
+                    [RABAT] => 0
+                    [IZNOS] => 135.00
+                )
+
+        )
+
+)
+
+2020-11-16 11:08:41 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 6
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-11-16 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

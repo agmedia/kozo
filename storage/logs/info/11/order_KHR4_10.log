@@ -1,0 +1,72 @@
+2020-11-10 11:34:42 - &idfirma=1
+2020-11-10 11:34:42 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR4
+            [DATUM_VRIJEME] => 09.11.2020 18:12:53
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ante.rosandic@gmail.com
+            [NARUCITELJ_IME] => Ante
+            [NARUCITELJ_PREZIME] => Rosandic
+            [NARUCITELJ_ADRESA] => Drage Šćitara 2
+            [NARUCITELJ_MJESTO] => Rijeka
+            [NARUCITELJ_POSTA] => 51000
+            [NARUCITELJ_TELEFON] => +385959108049
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ante Rosandic
+            [DOSTAVA_ADRESA] => Drage Šćitara 2
+            [DOSTAVA_MJESTO] => Rijeka
+            [DOSTAVA_POSTA] => 51000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 160.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7036.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 125.00
+                    [RABAT] => 0
+                    [IZNOS] => 125.00
+                )
+
+        )
+
+)
+
+2020-11-10 11:34:44 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 1
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-11-10 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

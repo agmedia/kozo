@@ -1,0 +1,320 @@
+2020-12-07 13:30:19 - Array
+(
+    [order_id] => 65
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 46
+    [customer_group_id] => 1
+    [firstname] => Petar
+    [lastname] => Krešić
+    [email] => pekillerster@gmail.com
+    [telephone] => +385913655768
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Petar
+    [payment_lastname] => Krešić
+    [payment_company] => 
+    [payment_address_1] => Tijardovićeva 6
+    [payment_address_2] => 
+    [payment_city] => Split
+    [payment_postcode] => 21000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Bankovna transakcija (internet bankarstvo)
+    [payment_code] => bank_transfer
+    [shipping_firstname] => Petar
+    [shipping_lastname] => Krešić
+    [shipping_company] => 
+    [shipping_address_1] => Tijardovićeva 6
+    [shipping_address_2] => 
+    [shipping_city] => Split
+    [shipping_postcode] => 21000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 560.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 194.24.231.9
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
+    [accept_language] => en-US,en;q=0.5
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-03 16:10:35
+    [date_modified] => 2020-12-03 16:13:49
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 159
+                    [order_id] => 65
+                    [product_id] => 168
+                    [name] => GEOMETRIC MASKA ZA LICE
+                    [model] => P8011
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 160
+                    [order_id] => 65
+                    [product_id] => 180
+                    [name] => M5010 MUŠKA PIDŽAMA
+                    [model] => M5010
+                    [quantity] => 1
+                    [price] => 264.0000
+                    [total] => 264.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 143
+                            [order_id] => 65
+                            [order_product_id] => 160
+                            [product_option_id] => 344
+                            [product_option_value_id] => 575
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 575
+                                    [product_option_id] => 344
+                                    [product_id] => 180
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5010.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 161
+                    [order_id] => 65
+                    [product_id] => 183
+                    [name] => MUŠKA PIDŽAMA
+                    [model] => M5009
+                    [quantity] => 1
+                    [price] => 296.0000
+                    [total] => 296.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 144
+                            [order_id] => 65
+                            [order_product_id] => 161
+                            [product_option_id] => 345
+                            [product_option_value_id] => 581
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 581
+                                    [product_option_id] => 345
+                                    [product_id] => 183
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5009.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 211
+                    [order_id] => 65
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 611.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 212
+                    [order_id] => 65
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - GEOMETRIC MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 213
+                    [order_id] => 65
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 214
+                    [order_id] => 65
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 560.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-07 13:30:19 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR65
+            [DATUM_VRIJEME] => 03.12.2020 16:13:49
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => pekillerster@gmail.com
+            [NARUCITELJ_IME] => Petar
+            [NARUCITELJ_PREZIME] => Krešić
+            [NARUCITELJ_ADRESA] => Tijardovićeva 6
+            [NARUCITELJ_MJESTO] => Split
+            [NARUCITELJ_POSTA] => 21000
+            [NARUCITELJ_TELEFON] => +385913655768
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Petar Krešić
+            [DOSTAVA_ADRESA] => Tijardovićeva 6
+            [DOSTAVA_MJESTO] => Split
+            [DOSTAVA_POSTA] => 21000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 560.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => P8011
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5010.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M5009.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 296.00
+                    [RABAT] => 0
+                    [IZNOS] => 296.00
+                )
+
+        )
+
+)
+
+2020-12-07 13:30:21 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 51
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-07 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

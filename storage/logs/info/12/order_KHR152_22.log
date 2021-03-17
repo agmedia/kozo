@@ -1,0 +1,108 @@
+2020-12-22 11:32:40 - &idfirma=1
+2020-12-22 11:32:40 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR152
+            [DATUM_VRIJEME] => 21.12.2020 14:15:50
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => bozidar.canjuga@vz.t-com.hr
+            [NARUCITELJ_IME] => Božidar
+            [NARUCITELJ_PREZIME] => Canjuga
+            [NARUCITELJ_ADRESA] => Zagrebačka 15
+            [NARUCITELJ_MJESTO] => Varaždin
+            [NARUCITELJ_POSTA] => 42000
+            [NARUCITELJ_TELEFON] => 0994352838
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Božidar Canjuga
+            [DOSTAVA_ADRESA] => Zagrebačka 15
+            [DOSTAVA_MJESTO] => Varaždin
+            [DOSTAVA_POSTA] => 42000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 536.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7035.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 142.40
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7051.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 131.20
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7071.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 131.20
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7075.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 131.20
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2020-12-22 11:32:42 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 115
+            [STAVAKA] => 6
+            [STAVKA] => 6
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-22 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

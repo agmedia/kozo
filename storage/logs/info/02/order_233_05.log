@@ -1,0 +1,374 @@
+2021-02-05 9:25:45 - Array
+(
+    [order_id] => 233
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 173
+    [customer_group_id] => 1
+    [firstname] => Jelena
+    [lastname] => Culic-viskota
+    [email] => Jviskota@yahoo.com
+    [telephone] => 098266322
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Jelena
+    [payment_lastname] => Culic-viskota
+    [payment_company] => 
+    [payment_address_1] => Put znjana 44c
+    [payment_address_2] => 
+    [payment_city] => Split
+    [payment_postcode] => 21000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Jelena
+    [shipping_lastname] => Culic-viskota
+    [shipping_company] => 
+    [shipping_address_1] => Put znjana 44c
+    [shipping_address_2] => 
+    [shipping_city] => Split
+    [shipping_postcode] => 21000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 587.8000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.142.157.152
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 9; SM-G960U1 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.141 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/304.0.0.39.118;]
+    [accept_language] => en-US,en;q=0.9
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-02-04 20:37:20
+    [date_modified] => 2021-02-04 20:38:12
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 601
+                    [order_id] => 233
+                    [product_id] => 72
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5003
+                    [quantity] => 2
+                    [price] => 141.4000
+                    [total] => 282.8000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 533
+                            [order_id] => 233
+                            [order_product_id] => 601
+                            [product_option_id] => 235
+                            [product_option_value_id] => 58
+                            [name] => Veličina
+                            [value] => XXXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 58
+                                    [product_option_id] => 235
+                                    [product_id] => 72
+                                    [option_id] => 13
+                                    [option_value_id] => 54
+                                    [quantity] => 8
+                                    [subtract] => 1
+                                    [price] => 23.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5003.XXXL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 602
+                    [order_id] => 233
+                    [product_id] => 74
+                    [name] => MUŠKA PIDŽAMA GORNJI DIO
+                    [model] => M5004
+                    [quantity] => 1
+                    [price] => 167.0000
+                    [total] => 167.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 534
+                            [order_id] => 233
+                            [order_product_id] => 602
+                            [product_option_id] => 237
+                            [product_option_value_id] => 67
+                            [name] => Veličina
+                            [value] => XXXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 67
+                                    [product_option_id] => 237
+                                    [product_id] => 74
+                                    [option_id] => 13
+                                    [option_value_id] => 54
+                                    [quantity] => 9
+                                    [subtract] => 1
+                                    [price] => 27.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5004.XXXL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 603
+                    [order_id] => 233
+                    [product_id] => 75
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5007
+                    [quantity] => 1
+                    [price] => 138.0000
+                    [total] => 138.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 535
+                            [order_id] => 233
+                            [order_product_id] => 603
+                            [product_option_id] => 238
+                            [product_option_value_id] => 73
+                            [name] => Veličina
+                            [value] => XXXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 73
+                                    [product_option_id] => 238
+                                    [product_id] => 75
+                                    [option_id] => 13
+                                    [option_value_id] => 54
+                                    [quantity] => 9
+                                    [subtract] => 1
+                                    [price] => 22.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5007.XXXL
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 604
+                    [order_id] => 233
+                    [product_id] => 167
+                    [name] => WEB MASKA ZA LICE
+                    [model] => P8013
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 767
+                    [order_id] => 233
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 638.8000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 768
+                    [order_id] => 233
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - WEB MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 769
+                    [order_id] => 233
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 770
+                    [order_id] => 233
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 587.8000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-02-05 9:25:45 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR233
+            [DATUM_VRIJEME] => 04.02.2021 20:38:12
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => Jviskota@yahoo.com
+            [NARUCITELJ_IME] => Jelena
+            [NARUCITELJ_PREZIME] => Culic-viskota
+            [NARUCITELJ_ADRESA] => Put znjana 44c
+            [NARUCITELJ_MJESTO] => Split
+            [NARUCITELJ_POSTA] => 21000
+            [NARUCITELJ_TELEFON] => 098266322
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Jelena Culic-viskota
+            [DOSTAVA_ADRESA] => Put znjana 44c
+            [DOSTAVA_MJESTO] => Split
+            [DOSTAVA_POSTA] => 21000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 587.80
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5003.XXXL
+                    [KOLICINA] => 2
+                    [CIJENA] => 141.40
+                    [RABAT] => 0
+                    [IZNOS] => 282.80
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5004.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 167.00
+                    [RABAT] => 0
+                    [IZNOS] => 167.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M5007.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 138.00
+                    [RABAT] => 0
+                    [IZNOS] => 138.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8013
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2021-02-05 9:25:47 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 79
+                    [STAVAKA] => 5
+                    [STAVKA] => 5
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-02-05 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

@@ -1,0 +1,286 @@
+2020-12-17 13:06:25 - Array
+(
+    [order_id] => 124
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 97
+    [customer_group_id] => 1
+    [firstname] => Silvija
+    [lastname] => Đerek
+    [email] => sillvac@gmail.com
+    [telephone] => 0989966451
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Silvija
+    [payment_lastname] => Đerek
+    [payment_company] => 
+    [payment_address_1] => Vilima Korajca 19
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Silvija
+    [shipping_lastname] => Đerek
+    [shipping_company] => 
+    [shipping_address_1] => Vilima Korajca 19
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 307.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 188.252.199.104
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-A315G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7,bs;q=0.6,sl;q=0.5,pl;q=0.4,de;q=0.3
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-16 20:02:13
+    [date_modified] => 2020-12-16 20:04:45
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 342
+                    [order_id] => 124
+                    [product_id] => 71
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5005
+                    [quantity] => 1
+                    [price] => 148.0000
+                    [total] => 148.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 303
+                            [order_id] => 124
+                            [order_product_id] => 342
+                            [product_option_id] => 234
+                            [product_option_value_id] => 48
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 48
+                                    [product_option_id] => 234
+                                    [product_id] => 71
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 24.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5005.XXL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 343
+                    [order_id] => 124
+                    [product_id] => 139
+                    [name] => MUŠKA MAJICA OKRUGLI IZREZ CRNA
+                    [model] => M7069
+                    [quantity] => 1
+                    [price] => 124.0000
+                    [total] => 124.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 304
+                            [order_id] => 124
+                            [order_product_id] => 343
+                            [product_option_id] => 302
+                            [product_option_value_id] => 409
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 409
+                                    [product_option_id] => 302
+                                    [product_id] => 139
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 20.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7069.XXL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 414
+                    [order_id] => 124
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 272.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 415
+                    [order_id] => 124
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 416
+                    [order_id] => 124
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 307.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2020-12-17 13:06:25 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR124
+            [DATUM_VRIJEME] => 16.12.2020 20:04:45
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => sillvac@gmail.com
+            [NARUCITELJ_IME] => Silvija
+            [NARUCITELJ_PREZIME] => Đerek
+            [NARUCITELJ_ADRESA] => Vilima Korajca 19
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 0989966451
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Silvija Đerek
+            [DOSTAVA_ADRESA] => Vilima Korajca 19
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 307.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5005.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 148.00
+                    [RABAT] => 0
+                    [IZNOS] => 148.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7069.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 124.00
+                    [RABAT] => 0
+                    [IZNOS] => 124.00
+                )
+
+        )
+
+)
+
+2020-12-17 13:06:26 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 101
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-17 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

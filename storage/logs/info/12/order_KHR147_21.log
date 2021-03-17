@@ -1,0 +1,82 @@
+2020-12-21 12:20:37 - &idfirma=1
+2020-12-21 12:20:37 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR147
+            [DATUM_VRIJEME] => 20.12.2020 23:46:38
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => heleanic@gmail.com
+            [NARUCITELJ_IME] => HELENA 
+            [NARUCITELJ_PREZIME] => ANIĆ KOREN
+            [NARUCITELJ_ADRESA] => Ive Senjanina 10b
+            [NARUCITELJ_MJESTO] => Zadar
+            [NARUCITELJ_POSTA] => 23000
+            [NARUCITELJ_TELEFON] => +385955343098
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => HELENA  ANIĆ KOREN
+            [DOSTAVA_ADRESA] => Ive Senjanina 10b
+            [DOSTAVA_MJESTO] => Zadar
+            [DOSTAVA_POSTA] => 23000
+            [NAPOMENA] => Order Comments: molim Vas da pošiljka dođe prije Božića...
+puno hvala i sretan Božić!
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 360.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7058.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 96.00
+                    [RABAT] => 0
+                    [IZNOS] => 96.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5011.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2020-12-21 12:20:38 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 110
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-21 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

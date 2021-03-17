@@ -1,0 +1,81 @@
+2020-12-21 12:21:06 - &idfirma=1
+2020-12-21 12:21:06 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR146
+            [DATUM_VRIJEME] => 20.12.2020 22:11:29
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => dragica.baraban@zd.t-com.hr
+            [NARUCITELJ_IME] => Dragica
+            [NARUCITELJ_PREZIME] => Baraban
+            [NARUCITELJ_ADRESA] => Otokara Kersovanija 40a
+            [NARUCITELJ_MJESTO] => Zadar
+            [NARUCITELJ_POSTA] => 23000
+            [NARUCITELJ_TELEFON] => 00989958094
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Dragica Baraban
+            [DOSTAVA_ADRESA] => Otokara Kersovanija 40a
+            [DOSTAVA_MJESTO] => Zadar
+            [DOSTAVA_POSTA] => 23000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 257.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7021.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 112.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7062.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 110.00
+                    [RABAT] => 0
+                    [IZNOS] => 110.00
+                )
+
+        )
+
+)
+
+2020-12-21 12:21:07 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 113
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-21 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

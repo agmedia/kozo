@@ -1,0 +1,90 @@
+2021-02-10 13:42:01 - &idfirma=1
+2021-02-10 13:42:01 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR247
+            [DATUM_VRIJEME] => 10.02.2021 10:31:13
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ana.budiscak@gmail.com
+            [NARUCITELJ_IME] => Ana
+            [NARUCITELJ_PREZIME] => Budiscak
+            [NARUCITELJ_ADRESA] => Petra Svacica 4, Donja Zdencina
+            [NARUCITELJ_MJESTO] => Klinca Sela
+            [NARUCITELJ_POSTA] => 10452
+            [NARUCITELJ_TELEFON] => 098746911
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ana Budiscak
+            [DOSTAVA_ADRESA] => Petra Svacica 4, Donja Zdencina
+            [DOSTAVA_MJESTO] => Klinca Sela
+            [DOSTAVA_POSTA] => 10452
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 276.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7062.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7072.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7076.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+        )
+
+)
+
+2021-02-10 13:42:02 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 94
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-10 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

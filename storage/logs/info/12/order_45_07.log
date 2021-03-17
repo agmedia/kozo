@@ -1,0 +1,536 @@
+2020-12-07 13:29:53 - Array
+(
+    [order_id] => 45
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 33
+    [customer_group_id] => 1
+    [firstname] => Dajana
+    [lastname] => Friščić
+    [email] => friscic95@gmail.com
+    [telephone] => 0996913297
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Dajana
+    [payment_lastname] => Friščić
+    [payment_company] => 
+    [payment_address_1] => Matije Gupca 100
+    [payment_address_2] => 
+    [payment_city] => Donji Vidovec
+    [payment_postcode] => 40327
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Bankovna transakcija (internet bankarstvo)
+    [payment_code] => bank_transfer
+    [shipping_firstname] => Dajana
+    [shipping_lastname] => Friščić
+    [shipping_company] => 
+    [shipping_address_1] => Matije Gupca 100
+    [shipping_address_2] => 
+    [shipping_city] => Donji Vidovec
+    [shipping_postcode] => 40327
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Preuzmi kod nas - Trg republike 3, 40328 Donja Dubrava, Međimurska županija
+    [shipping_code] => pickup.pickup
+    [comment] => 
+    [total] => 830.4000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.139.13.93
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
+    [accept_language] => hr,hr-HR;q=0.8,en-US;q=0.5,en;q=0.3
+    [paid_order] => 0
+    [intereuropa] => 
+    [date_added] => 2020-11-28 14:51:47
+    [date_modified] => 2020-11-28 14:52:01
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 94
+                    [order_id] => 45
+                    [product_id] => 60
+                    [name] => MUŠKA POTKOŠULJA UŽA RAMENICA BIJELA
+                    [model] => M7007
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 87
+                            [order_id] => 45
+                            [order_product_id] => 94
+                            [product_option_id] => 230
+                            [product_option_value_id] => 505
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 505
+                                    [product_option_id] => 230
+                                    [product_id] => 60
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7007.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 95
+                    [order_id] => 45
+                    [product_id] => 101
+                    [name] => MUŠKE BOKSERICE CRVENE
+                    [model] => M7033
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 88
+                            [order_id] => 45
+                            [order_product_id] => 95
+                            [product_option_id] => 264
+                            [product_option_value_id] => 210
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 210
+                                    [product_option_id] => 264
+                                    [product_id] => 101
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7033.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 96
+                    [order_id] => 45
+                    [product_id] => 107
+                    [name] => MUŠKE BOKSERICE PRINT GEOMETRIC
+                    [model] => M7041
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 89
+                            [order_id] => 45
+                            [order_product_id] => 96
+                            [product_option_id] => 270
+                            [product_option_value_id] => 236
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 236
+                                    [product_option_id] => 270
+                                    [product_id] => 107
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7041.XL
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 97
+                    [order_id] => 45
+                    [product_id] => 116
+                    [name] => MUŠKE BOKSERICE PRINT KOKOS
+                    [model] => M7050
+                    [quantity] => 1
+                    [price] => 150.4000
+                    [total] => 150.4000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 90
+                            [order_id] => 45
+                            [order_product_id] => 97
+                            [product_option_id] => 279
+                            [product_option_value_id] => 274
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 274
+                                    [product_option_id] => 279
+                                    [product_id] => 116
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7050.M
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [order_product_id] => 98
+                    [order_id] => 45
+                    [product_id] => 118
+                    [name] => MUŠKE BOKSERICE PRINT SQUARES
+                    [model] => M7047
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 91
+                            [order_id] => 45
+                            [order_product_id] => 98
+                            [product_option_id] => 281
+                            [product_option_value_id] => 286
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 286
+                                    [product_option_id] => 281
+                                    [product_id] => 118
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7047.XL
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [order_product_id] => 99
+                    [order_id] => 45
+                    [product_id] => 170
+                    [name] => NAVY MASKA ZA LICE
+                    [model] => P8010
+                    [quantity] => 1
+                    [price] => 40.8000
+                    [total] => 40.8000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+            [6] => Array
+                (
+                    [order_product_id] => 100
+                    [order_id] => 45
+                    [product_id] => 179
+                    [name] => M5011 MUŠKA PIDŽAMA
+                    [model] => M5011
+                    [quantity] => 1
+                    [price] => 264.0000
+                    [total] => 264.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 92
+                            [order_id] => 45
+                            [order_product_id] => 100
+                            [product_option_id] => 343
+                            [product_option_value_id] => 569
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 569
+                                    [product_option_id] => 343
+                                    [product_id] => 179
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5011.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 143
+                    [order_id] => 45
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 871.2000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 144
+                    [order_id] => 45
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - NAVY MASKA ZA LICE
+                    [value] => -40.8000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 145
+                    [order_id] => 45
+                    [code] => shipping
+                    [title] => Preuzmi kod nas - Trg republike 3, 40328 Donja Dubrava, Međimurska županija
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 146
+                    [order_id] => 45
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 830.4000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-07 13:29:53 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR45
+            [DATUM_VRIJEME] => 28.11.2020 14:52:01
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => friscic95@gmail.com
+            [NARUCITELJ_IME] => Dajana
+            [NARUCITELJ_PREZIME] => Friščić
+            [NARUCITELJ_ADRESA] => Matije Gupca 100
+            [NARUCITELJ_MJESTO] => Donji Vidovec
+            [NARUCITELJ_POSTA] => 40327
+            [NARUCITELJ_TELEFON] => 0996913297
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Dajana Friščić
+            [DOSTAVA_ADRESA] => Matije Gupca 100
+            [DOSTAVA_MJESTO] => Donji Vidovec
+            [DOSTAVA_POSTA] => 40327
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 830.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7007.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7033.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7041.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7050.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 150.40
+                    [RABAT] => 0
+                    [IZNOS] => 150.40
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M7047.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 40.80
+                    [RABAT] => 0
+                    [IZNOS] => 40.80
+                )
+
+            [7] => Array
+                (
+                    [IDROBA] => M5011.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2020-12-07 13:29:55 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 50
+                    [STAVAKA] => 8
+                    [STAVKA] => 8
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-07 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

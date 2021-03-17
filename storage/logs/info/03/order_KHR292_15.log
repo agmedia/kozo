@@ -1,0 +1,90 @@
+2021-03-15 15:19:03 - &idfirma=1
+2021-03-15 15:19:03 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR292
+            [DATUM_VRIJEME] => 12.03.2021 13:57:06
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => iva.pezer@krateks.hr
+            [NARUCITELJ_IME] => Iva
+            [NARUCITELJ_PREZIME] => Pezer
+            [NARUCITELJ_ADRESA] => Studeni breg 71
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 00 385 98 332 668
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Iva Pezer
+            [DOSTAVA_ADRESA] => Studeni breg 71
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 393.60
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7061.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 131.20
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7071.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 131.20
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7075.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 131.20
+                )
+
+        )
+
+)
+
+2021-03-15 15:19:04 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 45
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-03-15 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

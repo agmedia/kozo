@@ -1,0 +1,236 @@
+2020-12-10 11:57:55 - Array
+(
+    [order_id] => 85
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 66
+    [customer_group_id] => 1
+    [firstname] => Slađana
+    [lastname] => Glavinović
+    [email] => sladanaglavinovic@gmail.com
+    [telephone] => 098667731
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Slađana
+    [payment_lastname] => Glavinović
+    [payment_company] => 
+    [payment_address_1] => Velebitska 74
+    [payment_address_2] => 
+    [payment_city] => Split
+    [payment_postcode] => 21000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Slađana
+    [shipping_lastname] => Glavinović
+    [shipping_company] => 
+    [shipping_address_1] => Velebitska 74
+    [shipping_address_2] => 
+    [shipping_city] => Split
+    [shipping_postcode] => 21000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => Order Comments: Molim nazvati na mobitel prije dostave. Hvala 
+Lp
+Slađana Glavinović
+    [total] => 135.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.143.38.92
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-09 13:25:00
+    [date_modified] => 2020-12-09 13:25:08
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 216
+                    [order_id] => 85
+                    [product_id] => 102
+                    [name] => MUŠKE BOKSERICE HIPSTER BOJA KOŽE
+                    [model] => M7036
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 193
+                            [order_id] => 85
+                            [order_product_id] => 216
+                            [product_option_id] => 265
+                            [product_option_value_id] => 214
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 214
+                                    [product_option_id] => 265
+                                    [product_id] => 102
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7036.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 277
+                    [order_id] => 85
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 100.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 278
+                    [order_id] => 85
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 279
+                    [order_id] => 85
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 135.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-10 11:57:55 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR85
+            [DATUM_VRIJEME] => 09.12.2020 13:25:08
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => sladanaglavinovic@gmail.com
+            [NARUCITELJ_IME] => Slađana
+            [NARUCITELJ_PREZIME] => Glavinović
+            [NARUCITELJ_ADRESA] => Velebitska 74
+            [NARUCITELJ_MJESTO] => Split
+            [NARUCITELJ_POSTA] => 21000
+            [NARUCITELJ_TELEFON] => 098667731
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Slađana Glavinović
+            [DOSTAVA_ADRESA] => Velebitska 74
+            [DOSTAVA_MJESTO] => Split
+            [DOSTAVA_POSTA] => 21000
+            [NAPOMENA] => Order Comments: Molim nazvati na mobitel prije dostave. Hvala 
+Lp
+Slađana Glavinović
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 135.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7036.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+        )
+
+)
+
+2020-12-10 11:57:56 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 70
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-10 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

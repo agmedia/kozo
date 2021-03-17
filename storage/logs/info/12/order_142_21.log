@@ -1,0 +1,536 @@
+2020-12-21 12:20:27 - Array
+(
+    [order_id] => 142
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 107
+    [customer_group_id] => 1
+    [firstname] => Krunoslav
+    [lastname] => Vojković
+    [email] => tatakruno@gmail.com
+    [telephone] => 098255466
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Krunoslav
+    [payment_lastname] => Vojković
+    [payment_company] => 
+    [payment_address_1] => Vrbani 19
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Krunoslav
+    [shipping_lastname] => Vojković
+    [shipping_company] => 
+    [shipping_address_1] => Vrbani 19
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 526.4000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 90.144.45.36
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; ART-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-19 16:17:44
+    [date_modified] => 2020-12-19 16:18:09
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 372
+                    [order_id] => 142
+                    [product_id] => 120
+                    [name] => MUŠKE BOKSERICE BIJELE
+                    [model] => M7055
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 333
+                            [order_id] => 142
+                            [order_product_id] => 372
+                            [product_option_id] => 283
+                            [product_option_value_id] => 296
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 296
+                                    [product_option_id] => 283
+                                    [product_id] => 120
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7055.M
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 373
+                    [order_id] => 142
+                    [product_id] => 120
+                    [name] => MUŠKE BOKSERICE BIJELE
+                    [model] => M7055
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 334
+                            [order_id] => 142
+                            [order_product_id] => 373
+                            [product_option_id] => 283
+                            [product_option_value_id] => 295
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 295
+                                    [product_option_id] => 283
+                                    [product_id] => 120
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7055.L
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 374
+                    [order_id] => 142
+                    [product_id] => 122
+                    [name] => MUŠKE GAĆE SLIP BIJELE
+                    [model] => M7054
+                    [quantity] => 1
+                    [price] => 62.4000
+                    [total] => 62.4000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 335
+                            [order_id] => 142
+                            [order_product_id] => 374
+                            [product_option_id] => 285
+                            [product_option_value_id] => 307
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 307
+                                    [product_option_id] => 285
+                                    [product_id] => 122
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7054.L
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 375
+                    [order_id] => 142
+                    [product_id] => 125
+                    [name] => MUŠKA POTKOŠULJA UŽA RAMENICA BIJELA
+                    [model] => M7057
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 336
+                            [order_id] => 142
+                            [order_product_id] => 375
+                            [product_option_id] => 288
+                            [product_option_value_id] => 325
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 325
+                                    [product_option_id] => 288
+                                    [product_id] => 125
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7057.M
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [order_product_id] => 376
+                    [order_id] => 142
+                    [product_id] => 129
+                    [name] => MUŠKA POTKOŠULJA ŠIRA RAMENICA BIJELA
+                    [model] => M7058
+                    [quantity] => 1
+                    [price] => 96.0000
+                    [total] => 96.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 337
+                            [order_id] => 142
+                            [order_product_id] => 376
+                            [product_option_id] => 292
+                            [product_option_value_id] => 348
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 348
+                                    [product_option_id] => 292
+                                    [product_id] => 129
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7058.L
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [order_product_id] => 377
+                    [order_id] => 142
+                    [product_id] => 132
+                    [name] => MUŠKE BOKSERICE CRNE
+                    [model] => M7065
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 338
+                            [order_id] => 142
+                            [order_product_id] => 377
+                            [product_option_id] => 295
+                            [product_option_value_id] => 366
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 366
+                                    [product_option_id] => 295
+                                    [product_id] => 132
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7065.M
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [order_product_id] => 378
+                    [order_id] => 142
+                    [product_id] => 170
+                    [name] => NAVY MASKA ZA LICE
+                    [model] => P8010
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 468
+                    [order_id] => 142
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 577.4000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 469
+                    [order_id] => 142
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - NAVY MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 470
+                    [order_id] => 142
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 471
+                    [order_id] => 142
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 526.4000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-21 12:20:27 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR142
+            [DATUM_VRIJEME] => 19.12.2020 16:18:09
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => tatakruno@gmail.com
+            [NARUCITELJ_IME] => Krunoslav
+            [NARUCITELJ_PREZIME] => Vojković
+            [NARUCITELJ_ADRESA] => Vrbani 19
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 098255466
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Krunoslav Vojković
+            [DOSTAVA_ADRESA] => Vrbani 19
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 526.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7055.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7055.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7054.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 62.40
+                    [RABAT] => 0
+                    [IZNOS] => 62.40
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7057.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M7058.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 96.00
+                    [RABAT] => 0
+                    [IZNOS] => 96.00
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => M7065.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [7] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2020-12-21 12:20:28 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 109
+                    [STAVAKA] => 8
+                    [STAVKA] => 8
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-21 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

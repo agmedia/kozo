@@ -1,0 +1,81 @@
+2020-12-09 13:39:34 - &idfirma=1
+2020-12-09 13:39:34 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR77
+            [DATUM_VRIJEME] => 08.12.2020 12:02:57
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => anamarija.courage@gmail.com
+            [NARUCITELJ_IME] => Ana Marija
+            [NARUCITELJ_PREZIME] => Horvat
+            [NARUCITELJ_ADRESA] => Janka Slogara 2
+            [NARUCITELJ_MJESTO] => ČAKOVEC
+            [NARUCITELJ_POSTA] => 40000
+            [NARUCITELJ_TELEFON] => 0912410874
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ana Marija Horvat
+            [DOSTAVA_ADRESA] => Janka Slogara 2
+            [DOSTAVA_MJESTO] => ČAKOVEC
+            [DOSTAVA_POSTA] => 40000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 223.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7068.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 96.00
+                    [RABAT] => 0
+                    [IZNOS] => 96.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7067.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+        )
+
+)
+
+2020-12-09 13:39:43 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 60
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-09 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

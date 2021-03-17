@@ -1,0 +1,296 @@
+2020-12-14 12:22:41 - Array
+(
+    [order_id] => 101
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 77
+    [customer_group_id] => 1
+    [firstname] => Silvija
+    [lastname] => Kumek Možanić
+    [email] => vz.kuma@gmail.com
+    [telephone] => 0989098850
+    [fax] => 
+    [custom_field] => []
+    [payment_firstname] => Silvija
+    [payment_lastname] => Kumek Možanić
+    [payment_company] => 
+    [payment_address_1] => Donje Ladanje, Gustava Krkleca 2
+    [payment_address_2] => 
+    [payment_city] => Maruševec
+    [payment_postcode] => 42243
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Varaždinska
+    [payment_zone_id] => 863
+    [payment_address_format] => 
+    [payment_custom_field] => []
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Silvija
+    [shipping_lastname] => Kumek Možanić
+    [shipping_company] => 
+    [shipping_address_1] => Donje Ladanje, Gustava Krkleca 2
+    [shipping_address_2] => 
+    [shipping_city] => Maruševec
+    [shipping_postcode] => 42243
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Varaždinska
+    [shipping_zone_id] => 863
+    [shipping_address_format] => 
+    [shipping_custom_field] => []
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => Order Comments: Poštovani, s obzirom da sam naručila i proizvode Balidoo, da li možete oboje upakirati i dostaviti mi ih u jednom paketu? LP
+    [total] => 192.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 185.89.212.221
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-11 14:13:26
+    [date_modified] => 2020-12-11 14:39:53
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 278
+                    [order_id] => 101
+                    [product_id] => 145
+                    [name] => MUŠKE BOKSERICE HIPSTER CRVENE
+                    [model] => M7080
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 246
+                            [order_id] => 101
+                            [order_product_id] => 278
+                            [product_option_id] => 308
+                            [product_option_value_id] => 434
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => M7080.L
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 434
+                                    [product_option_id] => 308
+                                    [product_id] => 145
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 97
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7080.L
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 277
+                    [order_id] => 101
+                    [product_id] => 98
+                    [name] => MUŠKE BOKSERICE TAMNO PLAVE TAMNO PLAVE
+                    [model] => M7029
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 245
+                            [order_id] => 101
+                            [order_product_id] => 277
+                            [product_option_id] => 261
+                            [product_option_value_id] => 193
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => M7029.L
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 193
+                                    [product_option_id] => 261
+                                    [product_id] => 98
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7029.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 339
+                    [order_id] => 101
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 192.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 340
+                    [order_id] => 101
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 341
+                    [order_id] => 101
+                    [code] => coupon
+                    [title] => Kupon za popust (INTER35)
+                    [value] => -35.0000
+                    [sort_order] => 4
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 342
+                    [order_id] => 101
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 192.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-14 12:22:41 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR101
+            [DATUM_VRIJEME] => 11.12.2020 14:39:53
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => vz.kuma@gmail.com
+            [NARUCITELJ_IME] => Silvija
+            [NARUCITELJ_PREZIME] => Kumek Možanić
+            [NARUCITELJ_ADRESA] => Donje Ladanje, Gustava Krkleca 2
+            [NARUCITELJ_MJESTO] => Maruševec
+            [NARUCITELJ_POSTA] => 42243
+            [NARUCITELJ_TELEFON] => 0989098850
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Silvija Kumek Možanić
+            [DOSTAVA_ADRESA] => Donje Ladanje, Gustava Krkleca 2
+            [DOSTAVA_MJESTO] => Maruševec
+            [DOSTAVA_POSTA] => 42243
+            [NAPOMENA] => Order Comments: Poštovani, s obzirom da sam naručila i proizvode Balidoo, da li možete oboje upakirati i dostaviti mi ih u jednom paketu? LP
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 192.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7080.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7029.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+        )
+
+)
+
+2020-12-14 12:22:42 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 86
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-14 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

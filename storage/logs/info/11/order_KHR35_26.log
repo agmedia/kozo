@@ -1,0 +1,81 @@
+2020-11-26 13:17:04 - &idfirma=1
+2020-11-26 13:17:04 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR35
+            [DATUM_VRIJEME] => 25.11.2020 08:04:05
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => t.rubinic@gmail.com
+            [NARUCITELJ_IME] => Tonči
+            [NARUCITELJ_PREZIME] => Rubinić
+            [NARUCITELJ_ADRESA] => Zaheji 19
+            [NARUCITELJ_MJESTO] => Lovran
+            [NARUCITELJ_POSTA] => 51415
+            [NARUCITELJ_TELEFON] => 0915907045
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Tonči Rubinić
+            [DOSTAVA_ADRESA] => Zaheji 19
+            [DOSTAVA_MJESTO] => Lovran
+            [DOSTAVA_POSTA] => 51415
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 410.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7012.L
+                    [KOLICINA] => 3
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 213.60
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7061.L
+                    [KOLICINA] => 3
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 196.80
+                )
+
+        )
+
+)
+
+2020-11-26 13:17:05 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 27
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-11-26 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

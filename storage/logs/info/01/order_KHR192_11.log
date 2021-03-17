@@ -1,0 +1,90 @@
+2021-01-11 14:27:30 - &idfirma=1
+2021-01-11 14:27:30 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR192
+            [DATUM_VRIJEME] => 11.01.2021 08:35:11
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => hrascaneckarlo12@gmail.com
+            [NARUCITELJ_IME] => Karlo
+            [NARUCITELJ_PREZIME] => Hrascanec
+            [NARUCITELJ_ADRESA] => Matije Gupca 14 
+            [NARUCITELJ_MJESTO] => donja dubrava
+            [NARUCITELJ_POSTA] => 40328
+            [NARUCITELJ_TELEFON] => 0976138675
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Karlo Hrascanec
+            [DOSTAVA_ADRESA] => Matije Gupca 14 
+            [DOSTAVA_MJESTO] => donja dubrava
+            [DOSTAVA_POSTA] => 40328
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 0.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7081.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7013.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7070.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 104.00
+                )
+
+        )
+
+)
+
+2021-01-11 14:27:32 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 11
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-11 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

@@ -1,0 +1,135 @@
+2020-12-11 13:28:29 - &idfirma=1
+2020-12-11 13:28:29 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR98
+            [DATUM_VRIJEME] => 10.12.2020 23:43:26
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => iva.sljiva9@gmail.com
+            [NARUCITELJ_IME] => Iva
+            [NARUCITELJ_PREZIME] => Mrsic
+            [NARUCITELJ_ADRESA] => Zrneticeva 8
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10090
+            [NARUCITELJ_TELEFON] => 0992012982
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Iva Mrsic
+            [DOSTAVA_ADRESA] => Zrneticeva 8
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10090
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 623.20
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5008.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 156.00
+                    [RABAT] => 0
+                    [IZNOS] => 156.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7012.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7018.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7031.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M7042.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 76.80
+                    [RABAT] => 0
+                    [IZNOS] => 76.80
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => M7045.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 76.80
+                    [RABAT] => 0
+                    [IZNOS] => 76.80
+                )
+
+            [7] => Array
+                (
+                    [IDROBA] => M7083.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [8] => Array
+                (
+                    [IDROBA] => P8013
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2020-12-11 13:28:30 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 76
+            [STAVAKA] => 9
+            [STAVKA] => 9
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-11 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

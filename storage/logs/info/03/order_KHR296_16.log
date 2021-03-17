@@ -1,0 +1,81 @@
+2021-03-16 15:27:55 - &idfirma=1
+2021-03-16 15:27:55 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR296
+            [DATUM_VRIJEME] => 14.03.2021 15:57:44
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ivanaburic82@gmail.com
+            [NARUCITELJ_IME] => Ivana
+            [NARUCITELJ_PREZIME] => Burić
+            [NARUCITELJ_ADRESA] => Sisplac 6
+            [NARUCITELJ_MJESTO] => Pula
+            [NARUCITELJ_POSTA] => 52100
+            [NARUCITELJ_TELEFON] => 0989135998
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ivana Burić
+            [DOSTAVA_ADRESA] => Giardini 3, Pula, caffe bar Dvojka
+            [DOSTAVA_MJESTO] => Pula
+            [DOSTAVA_POSTA] => 52100
+            [NAPOMENA] => Order Comments: Molim napomenuti dostavljaču da je na adresi dostave caffe bar Dvojka, tako da lakše nađu. Hvala
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 320.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5006L.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 223.00
+                    [RABAT] => 0
+                    [IZNOS] => 223.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5007L.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 177.00
+                    [RABAT] => 0
+                    [IZNOS] => 177.00
+                )
+
+        )
+
+)
+
+2021-03-16 15:28:00 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 48
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-03-16 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

@@ -1,0 +1,340 @@
+2020-11-30 12:58:36 - Array
+(
+    [order_id] => 51
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 36
+    [customer_group_id] => 1
+    [firstname] => Janja
+    [lastname] => Zvonarek
+    [email] => janjaa.zvonarek@gmail.com
+    [telephone] => 0994070946
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Janja
+    [payment_lastname] => Zvonarek
+    [payment_company] => 
+    [payment_address_1] => Trg bana Jelacica 6
+    [payment_address_2] => 
+    [payment_city] => Prelog
+    [payment_postcode] => 40323
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Janja
+    [shipping_lastname] => Zvonarek
+    [shipping_company] => 
+    [shipping_address_1] => Trg bana Jelacica 6
+    [shipping_address_2] => 
+    [shipping_city] => Prelog
+    [shipping_postcode] => 40323
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 349.4000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 31.217.27.90
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
+    [accept_language] => hr-hr
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-11-29 16:09:13
+    [date_modified] => 2020-11-29 16:09:19
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 110
+                    [order_id] => 51
+                    [product_id] => 100
+                    [name] => MUŠKE BOKSERICE HIPSTER CRVENE
+                    [model] => M7032
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 100
+                            [order_id] => 51
+                            [order_product_id] => 110
+                            [product_option_id] => 263
+                            [product_option_value_id] => 205
+                            [name] => Veličina
+                            [value] => S
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 205
+                                    [product_option_id] => 263
+                                    [product_id] => 100
+                                    [option_id] => 13
+                                    [option_value_id] => 52
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7032.S
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 111
+                    [order_id] => 51
+                    [product_id] => 110
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT WEB
+                    [model] => M7043
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 101
+                            [order_id] => 51
+                            [order_product_id] => 111
+                            [product_option_id] => 273
+                            [product_option_value_id] => 249
+                            [name] => Veličina
+                            [value] => S
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 249
+                                    [product_option_id] => 273
+                                    [product_id] => 110
+                                    [option_id] => 13
+                                    [option_value_id] => 52
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7043.S
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 112
+                    [order_id] => 51
+                    [product_id] => 115
+                    [name] => MUŠKE GAĆE SLIP PRINT KOKOS
+                    [model] => M7048
+                    [quantity] => 1
+                    [price] => 106.4000
+                    [total] => 106.4000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 102
+                            [order_id] => 51
+                            [order_product_id] => 112
+                            [product_option_id] => 278
+                            [product_option_value_id] => 272
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 272
+                                    [product_option_id] => 278
+                                    [product_id] => 115
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7048.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 164
+                    [order_id] => 51
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 314.4000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 165
+                    [order_id] => 51
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 166
+                    [order_id] => 51
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 349.4000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-11-30 12:58:36 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR51
+            [DATUM_VRIJEME] => 29.11.2020 16:09:19
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => janjaa.zvonarek@gmail.com
+            [NARUCITELJ_IME] => Janja
+            [NARUCITELJ_PREZIME] => Zvonarek
+            [NARUCITELJ_ADRESA] => Trg bana Jelacica 6
+            [NARUCITELJ_MJESTO] => Prelog
+            [NARUCITELJ_POSTA] => 40323
+            [NARUCITELJ_TELEFON] => 0994070946
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Janja Zvonarek
+            [DOSTAVA_ADRESA] => Trg bana Jelacica 6
+            [DOSTAVA_MJESTO] => Prelog
+            [DOSTAVA_POSTA] => 40323
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 349.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7032.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7043.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7048.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 106.40
+                    [RABAT] => 0
+                    [IZNOS] => 106.40
+                )
+
+        )
+
+)
+
+2020-11-30 12:58:37 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 31
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-11-30 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

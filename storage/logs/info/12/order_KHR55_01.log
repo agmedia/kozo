@@ -1,0 +1,90 @@
+2020-12-01 12:43:37 - &idfirma=1
+2020-12-01 12:43:37 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR55
+            [DATUM_VRIJEME] => 30.11.2020 12:49:05
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => margeta.tomislav@gmail.com
+            [NARUCITELJ_IME] => Tomislav
+            [NARUCITELJ_PREZIME] => Margeta
+            [NARUCITELJ_ADRESA] => Ulica Karla Metikoša 9
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => +38598676386
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Tomislav Margeta
+            [DOSTAVA_ADRESA] => Ulica Karla Metikoša 9
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 243.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7027.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7031.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7075.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 65.60
+                )
+
+        )
+
+)
+
+2020-12-01 12:43:38 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 36
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-01 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

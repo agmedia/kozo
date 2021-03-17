@@ -1,0 +1,232 @@
+2020-12-10 11:58:03 - Array
+(
+    [order_id] => 92
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 70
+    [customer_group_id] => 1
+    [firstname] => Renata
+    [lastname] => Perčinlić
+    [email] => renatapercinlic1@gmail.com
+    [telephone] => 0959220955
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Renata 
+    [payment_lastname] => Perčinlić
+    [payment_company] => 
+    [payment_address_1] => Vukovarska 10
+    [payment_address_2] => 
+    [payment_city] => Vojnić 
+    [payment_postcode] => 47220
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Renata
+    [shipping_lastname] => Perčinlić
+    [shipping_company] => 
+    [shipping_address_1] => Vukovarska 10
+    [shipping_address_2] => 
+    [shipping_city] => Vojnić
+    [shipping_postcode] => 47220 
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 154.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 193.217.85.1
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SNE-LX1 Build/HUAWEISNE-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/295.0.0.36.119;]
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-10 08:12:02
+    [date_modified] => 2020-12-10 08:12:17
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 246
+                    [order_id] => 92
+                    [product_id] => 151
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT HOHOHO
+                    [model] => M7084
+                    [quantity] => 1
+                    [price] => 119.0000
+                    [total] => 119.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 217
+                            [order_id] => 92
+                            [order_product_id] => 246
+                            [product_option_id] => 314
+                            [product_option_value_id] => 466
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 466
+                                    [product_option_id] => 314
+                                    [product_id] => 151
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 19.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7084.XXL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 306
+                    [order_id] => 92
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 119.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 307
+                    [order_id] => 92
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 308
+                    [order_id] => 92
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 154.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-10 11:58:03 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR92
+            [DATUM_VRIJEME] => 10.12.2020 08:12:17
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => renatapercinlic1@gmail.com
+            [NARUCITELJ_IME] => Renata 
+            [NARUCITELJ_PREZIME] => Perčinlić
+            [NARUCITELJ_ADRESA] => Vukovarska 10
+            [NARUCITELJ_MJESTO] => Vojnić 
+            [NARUCITELJ_POSTA] => 47220
+            [NARUCITELJ_TELEFON] => 0959220955
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Renata Perčinlić
+            [DOSTAVA_ADRESA] => Vukovarska 10
+            [DOSTAVA_MJESTO] => Vojnić
+            [DOSTAVA_POSTA] => 47220 
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 154.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7084.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 119.00
+                    [RABAT] => 0
+                    [IZNOS] => 119.00
+                )
+
+        )
+
+)
+
+2020-12-10 11:58:04 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 71
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-10 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

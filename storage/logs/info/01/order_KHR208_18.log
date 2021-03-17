@@ -1,0 +1,81 @@
+2021-01-18 9:42:39 - &idfirma=1
+2021-01-18 9:42:39 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR208
+            [DATUM_VRIJEME] => 17.01.2021 11:14:34
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mfurac@gmail.com
+            [NARUCITELJ_IME] => Mario
+            [NARUCITELJ_PREZIME] => Furač
+            [NARUCITELJ_ADRESA] => Trsje 19
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 0919002199
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Mario Furač
+            [DOSTAVA_ADRESA] => Ljudevita Gaja 18B
+            [DOSTAVA_MJESTO] => Pojatno
+            [DOSTAVA_POSTA] => 10294
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 219.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7063.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7069.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 104.00
+                )
+
+        )
+
+)
+
+2021-01-18 9:42:40 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 25
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-18 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

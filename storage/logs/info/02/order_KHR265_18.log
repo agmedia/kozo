@@ -1,0 +1,81 @@
+2021-02-18 8:51:49 - &idfirma=1
+2021-02-18 8:51:49 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR265
+            [DATUM_VRIJEME] => 17.02.2021 21:13:10
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => gordan.ocic@gmail.com
+            [NARUCITELJ_IME] => Gordan
+            [NARUCITELJ_PREZIME] => Očić
+            [NARUCITELJ_ADRESA] => K.Š.Đalskog 18
+            [NARUCITELJ_MJESTO] => Zaprešić
+            [NARUCITELJ_POSTA] => 10290
+            [NARUCITELJ_TELEFON] => 0958901637
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Gordan Očić
+            [DOSTAVA_ADRESA] => K.Š.Đalskog 18
+            [DOSTAVA_MJESTO] => Zaprešić
+            [DOSTAVA_POSTA] => 10290
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 203.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7014.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7063.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+        )
+
+)
+
+2021-02-18 8:51:50 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 115
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-18 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

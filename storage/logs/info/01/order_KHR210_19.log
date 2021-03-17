@@ -1,0 +1,90 @@
+2021-01-19 9:43:07 - &idfirma=1
+2021-01-19 9:43:07 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR210
+            [DATUM_VRIJEME] => 17.01.2021 17:44:44
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => pstanici@inet.hr
+            [NARUCITELJ_IME] => PETAR
+            [NARUCITELJ_PREZIME] => STANIČIĆ
+            [NARUCITELJ_ADRESA] => FRANKOPANSKA 32
+            [NARUCITELJ_MJESTO] => BRELA
+            [NARUCITELJ_POSTA] => 21322
+            [NARUCITELJ_TELEFON] => 0919074544
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => PETAR STANIČIĆ
+            [DOSTAVA_ADRESA] => FRANKOPANSKA 32
+            [DOSTAVA_MJESTO] => BRELA
+            [DOSTAVA_POSTA] => 21322
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 377.60
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7023.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 142.40
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7060.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 104.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7071.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 131.20
+                )
+
+        )
+
+)
+
+2021-01-19 9:43:08 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 28
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-19 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

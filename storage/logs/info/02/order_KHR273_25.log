@@ -1,0 +1,81 @@
+2021-02-25 8:21:05 - &idfirma=1
+2021-02-25 8:21:05 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR273
+            [DATUM_VRIJEME] => 24.02.2021 21:07:51
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => daviddanica55@gmail.com
+            [NARUCITELJ_IME] => Danica
+            [NARUCITELJ_PREZIME] => David
+            [NARUCITELJ_ADRESA] => Zebanska 10 
+            [NARUCITELJ_MJESTO] => Selnica
+            [NARUCITELJ_POSTA] => 40314
+            [NARUCITELJ_TELEFON] => 0915809643
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Danica David
+            [DOSTAVA_ADRESA] => Zebanska 10 
+            [DOSTAVA_MJESTO] => Selnica
+            [DOSTAVA_POSTA] => 40314
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 211.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7062.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7068.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 96.00
+                    [RABAT] => 0
+                    [IZNOS] => 96.00
+                )
+
+        )
+
+)
+
+2021-02-25 8:21:07 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 133
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-25 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

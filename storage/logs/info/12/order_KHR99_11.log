@@ -1,0 +1,72 @@
+2020-12-11 13:26:30 - &idfirma=1
+2020-12-11 13:26:30 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR99
+            [DATUM_VRIJEME] => 11.12.2020 08:17:07
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => zdravkokolaric71@gmail.com
+            [NARUCITELJ_IME] => Zdravko
+            [NARUCITELJ_PREZIME] => Kolarić
+            [NARUCITELJ_ADRESA] => Novo Selo Rok, rade Končara 84
+            [NARUCITELJ_MJESTO] => Čakovec
+            [NARUCITELJ_POSTA] => 40000
+            [NARUCITELJ_TELEFON] => 0992113879
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Zdravko Kolarić
+            [DOSTAVA_ADRESA] => Novo Selo Rok, rade Končara 84
+            [DOSTAVA_MJESTO] => Čakovec
+            [DOSTAVA_POSTA] => 40000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 92.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7062.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+        )
+
+)
+
+2020-12-11 13:26:32 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 72
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-11 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

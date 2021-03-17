@@ -1,0 +1,232 @@
+2020-11-16 11:08:50 - Array
+(
+    [order_id] => 10
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 6
+    [customer_group_id] => 1
+    [firstname] => MIRJANA
+    [lastname] => JAMBROVIĆ
+    [email] => mirjanaj.70@hotmail.com
+    [telephone] => 0996714262
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => MIRJANA
+    [payment_lastname] => JAMBROVIĆ
+    [payment_company] => 
+    [payment_address_1] => ZEBANEC SELO 49
+    [payment_address_2] => 
+    [payment_city] => SELNICA
+    [payment_postcode] => 40314
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => MIRJANA
+    [shipping_lastname] => JAMBROVIĆ
+    [shipping_company] => 
+    [shipping_address_1] => ZEBANEC SELO 49
+    [shipping_address_2] => 
+    [shipping_city] => SELNICA
+    [shipping_postcode] => 40314
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 183.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.139.139.221
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-11-14 11:29:23
+    [date_modified] => 2020-11-14 11:29:32
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 18
+                    [order_id] => 10
+                    [product_id] => 72
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5003
+                    [quantity] => 1
+                    [price] => 148.0000
+                    [total] => 148.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 17
+                            [order_id] => 10
+                            [order_product_id] => 18
+                            [product_option_id] => 235
+                            [product_option_value_id] => 51
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 51
+                                    [product_option_id] => 235
+                                    [product_id] => 72
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5003.M
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 31
+                    [order_id] => 10
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 148.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 32
+                    [order_id] => 10
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 33
+                    [order_id] => 10
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 183.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-11-16 11:08:50 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR10
+            [DATUM_VRIJEME] => 14.11.2020 11:29:32
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mirjanaj.70@hotmail.com
+            [NARUCITELJ_IME] => MIRJANA
+            [NARUCITELJ_PREZIME] => JAMBROVIĆ
+            [NARUCITELJ_ADRESA] => ZEBANEC SELO 49
+            [NARUCITELJ_MJESTO] => SELNICA
+            [NARUCITELJ_POSTA] => 40314
+            [NARUCITELJ_TELEFON] => 0996714262
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => MIRJANA JAMBROVIĆ
+            [DOSTAVA_ADRESA] => ZEBANEC SELO 49
+            [DOSTAVA_MJESTO] => SELNICA
+            [DOSTAVA_POSTA] => 40314
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 183.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5003.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 148.00
+                    [RABAT] => 0
+                    [IZNOS] => 148.00
+                )
+
+        )
+
+)
+
+2020-11-16 11:08:51 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 7
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-11-16 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

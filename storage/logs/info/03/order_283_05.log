@@ -1,0 +1,286 @@
+2021-03-05 14:44:44 - Array
+(
+    [order_id] => 283
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 198
+    [customer_group_id] => 1
+    [firstname] => Mario
+    [lastname] => Kozić
+    [email] => mariokozic.em@gmail.com
+    [telephone] => 0993665976
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Mario
+    [payment_lastname] => Kozić
+    [payment_company] => 
+    [payment_address_1] => Vesne Parun 18
+    [payment_address_2] => 
+    [payment_city] => Samobor
+    [payment_postcode] => 10430
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Mario
+    [shipping_lastname] => Kozić
+    [shipping_company] => 
+    [shipping_address_1] => Vesne Parun 18
+    [shipping_address_2] => 
+    [shipping_city] => Samobor
+    [shipping_postcode] => 10430
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 470.5000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.138.145.185
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7,sl;q=0.6,tr;q=0.5,sr;q=0.4,de;q=0.3,bs;q=0.2
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-03-03 19:53:35
+    [date_modified] => 2021-03-03 19:54:08
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 730
+                    [order_id] => 283
+                    [product_id] => 62
+                    [name] => MUŠKA POTKOŠULJA ŠIRA RAMENICA BIJELA
+                    [model] => M7008
+                    [quantity] => 2
+                    [price] => 104.0000
+                    [total] => 208.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 649
+                            [order_id] => 283
+                            [order_product_id] => 730
+                            [product_option_id] => 335
+                            [product_option_value_id] => 517
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 517
+                                    [product_option_id] => 335
+                                    [product_id] => 62
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 103
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7008.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 731
+                    [order_id] => 283
+                    [product_id] => 64
+                    [name] => MUŠKE BOKSERICE HIPSTER BIJELE
+                    [model] => M7002
+                    [quantity] => 3
+                    [price] => 87.5000
+                    [total] => 262.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 650
+                            [order_id] => 283
+                            [order_product_id] => 731
+                            [product_option_id] => 332
+                            [product_option_value_id] => 494
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 494
+                                    [product_option_id] => 332
+                                    [product_id] => 64
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 55
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7002.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 923
+                    [order_id] => 283
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 470.5000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 924
+                    [order_id] => 283
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 925
+                    [order_id] => 283
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 470.5000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-03-05 14:44:44 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR283
+            [DATUM_VRIJEME] => 03.03.2021 19:54:08
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mariokozic.em@gmail.com
+            [NARUCITELJ_IME] => Mario
+            [NARUCITELJ_PREZIME] => Kozić
+            [NARUCITELJ_ADRESA] => Vesne Parun 18
+            [NARUCITELJ_MJESTO] => Samobor
+            [NARUCITELJ_POSTA] => 10430
+            [NARUCITELJ_TELEFON] => 0993665976
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Mario Kozić
+            [DOSTAVA_ADRESA] => Vesne Parun 18
+            [DOSTAVA_MJESTO] => Samobor
+            [DOSTAVA_POSTA] => 10430
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 470.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7008.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 208.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7002.XL
+                    [KOLICINA] => 3
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 262.50
+                )
+
+        )
+
+)
+
+2021-03-05 14:44:45 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 36
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-03-05 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

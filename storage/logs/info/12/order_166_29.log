@@ -1,0 +1,286 @@
+2020-12-29 10:29:28 - Array
+(
+    [order_id] => 166
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 125
+    [customer_group_id] => 1
+    [firstname] => Martina
+    [lastname] => Mekić
+    [email] => martina.mekic@gmail.com
+    [telephone] => 0955252639
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Martina
+    [payment_lastname] => Mekic
+    [payment_company] => 
+    [payment_address_1] => Ulica kneza Borne 14
+    [payment_address_2] => 
+    [payment_city] => Osijek
+    [payment_postcode] => 31000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Martina
+    [shipping_lastname] => Mekic
+    [shipping_company] => 
+    [shipping_address_1] => Ulica kneza Borne 14
+    [shipping_address_2] => 
+    [shipping_city] => Osijek
+    [shipping_postcode] => 31000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 299.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 89.164.147.188
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+    [accept_language] => en-US,en;q=0.9
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-28 11:16:45
+    [date_modified] => 2020-12-28 11:16:55
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 434
+                    [order_id] => 166
+                    [product_id] => 71
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5005
+                    [quantity] => 1
+                    [price] => 124.0000
+                    [total] => 124.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 391
+                            [order_id] => 166
+                            [order_product_id] => 434
+                            [product_option_id] => 234
+                            [product_option_value_id] => 44
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 44
+                                    [product_option_id] => 234
+                                    [product_id] => 71
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 32
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5005.L
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 435
+                    [order_id] => 166
+                    [product_id] => 74
+                    [name] => MUŠKA PIDŽAMA GORNJI DIO
+                    [model] => M5004
+                    [quantity] => 1
+                    [price] => 140.0000
+                    [total] => 140.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 392
+                            [order_id] => 166
+                            [order_product_id] => 435
+                            [product_option_id] => 237
+                            [product_option_value_id] => 62
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 62
+                                    [product_option_id] => 237
+                                    [product_id] => 74
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 32
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5004.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 544
+                    [order_id] => 166
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 264.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 545
+                    [order_id] => 166
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 546
+                    [order_id] => 166
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 299.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-29 10:29:28 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR166
+            [DATUM_VRIJEME] => 28.12.2020 11:16:55
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => martina.mekic@gmail.com
+            [NARUCITELJ_IME] => Martina
+            [NARUCITELJ_PREZIME] => Mekic
+            [NARUCITELJ_ADRESA] => Ulica kneza Borne 14
+            [NARUCITELJ_MJESTO] => Osijek
+            [NARUCITELJ_POSTA] => 31000
+            [NARUCITELJ_TELEFON] => 0955252639
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Martina Mekic
+            [DOSTAVA_ADRESA] => Ulica kneza Borne 14
+            [DOSTAVA_MJESTO] => Osijek
+            [DOSTAVA_POSTA] => 31000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 299.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5005.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 124.00
+                    [RABAT] => 0
+                    [IZNOS] => 124.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5004.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 140.00
+                    [RABAT] => 0
+                    [IZNOS] => 140.00
+                )
+
+        )
+
+)
+
+2020-12-29 10:29:30 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 128
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-29 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

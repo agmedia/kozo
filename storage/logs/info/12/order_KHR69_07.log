@@ -1,0 +1,81 @@
+2020-12-07 6:10:34 - &idfirma=1
+2020-12-07 6:10:34 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR69
+            [DATUM_VRIJEME] => 04.12.2020 09:34:54
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => marija.dadic@os.t-com.hr
+            [NARUCITELJ_IME] => Marija
+            [NARUCITELJ_PREZIME] => Dadić
+            [NARUCITELJ_ADRESA] => Braće Radića 110
+            [NARUCITELJ_MJESTO] => Strizivojna
+            [NARUCITELJ_POSTA] => 31410
+            [NARUCITELJ_TELEFON] => 0981722753
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Marija Dadić
+            [DOSTAVA_ADRESA] => Braće Radića 110
+            [DOSTAVA_MJESTO] => Strizivojna
+            [DOSTAVA_POSTA] => 31410
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 920.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7062.L
+                    [KOLICINA] => 10
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 920.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2020-12-07 6:10:35 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 49
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-07 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

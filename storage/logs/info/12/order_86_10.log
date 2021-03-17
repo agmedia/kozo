@@ -1,0 +1,374 @@
+2020-12-10 11:56:48 - Array
+(
+    [order_id] => 86
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 54
+    [customer_group_id] => 1
+    [firstname] => Matija
+    [lastname] => Jerkovic
+    [email] => matija.jerkovic.jerac@gmail.com
+    [telephone] => 099 6074742
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Matija
+    [payment_lastname] => Jerkovic
+    [payment_company] => 
+    [payment_address_1] => Ede Murtica 7
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10000 
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Matija
+    [shipping_lastname] => Jerkovic
+    [shipping_company] => 
+    [shipping_address_1] => Ede Murtica 7
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10000 
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 1064.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 188.252.196.156
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 7.0; SM-A310F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-09 13:38:49
+    [date_modified] => 2020-12-09 13:40:43
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 217
+                    [order_id] => 86
+                    [product_id] => 66
+                    [name] => MUŠKA MAJICA V IZREZ BIJELA
+                    [model] => M7010
+                    [quantity] => 3
+                    [price] => 112.0000
+                    [total] => 336.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 194
+                            [order_id] => 86
+                            [order_product_id] => 217
+                            [product_option_id] => 228
+                            [product_option_value_id] => 527
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 527
+                                    [product_option_id] => 228
+                                    [product_id] => 66
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 97
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7010.M
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 218
+                    [order_id] => 86
+                    [product_id] => 127
+                    [name] => MUŠKA MAJICA V IZREZ BIJELA
+                    [model] => M7060
+                    [quantity] => 4
+                    [price] => 104.0000
+                    [total] => 416.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 195
+                            [order_id] => 86
+                            [order_product_id] => 218
+                            [product_option_id] => 290
+                            [product_option_value_id] => 337
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 337
+                                    [product_option_id] => 290
+                                    [product_id] => 127
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 96
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7060.M
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 219
+                    [order_id] => 86
+                    [product_id] => 138
+                    [name] => MUŠKA MAJICA V IZREZ CRNA
+                    [model] => M7070
+                    [quantity] => 3
+                    [price] => 104.0000
+                    [total] => 312.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 196
+                            [order_id] => 86
+                            [order_product_id] => 219
+                            [product_option_id] => 301
+                            [product_option_value_id] => 400
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 400
+                                    [product_option_id] => 301
+                                    [product_id] => 138
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 97
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7070.M
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 220
+                    [order_id] => 86
+                    [product_id] => 170
+                    [name] => NAVY MASKA ZA LICE
+                    [model] => P8010
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 280
+                    [order_id] => 86
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 1115.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 281
+                    [order_id] => 86
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - NAVY MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 282
+                    [order_id] => 86
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 283
+                    [order_id] => 86
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 1064.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2020-12-10 11:56:48 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR86
+            [DATUM_VRIJEME] => 09.12.2020 13:40:43
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => matija.jerkovic.jerac@gmail.com
+            [NARUCITELJ_IME] => Matija
+            [NARUCITELJ_PREZIME] => Jerkovic
+            [NARUCITELJ_ADRESA] => Ede Murtica 7
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000 
+            [NARUCITELJ_TELEFON] => 099 6074742
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Matija Jerkovic
+            [DOSTAVA_ADRESA] => Ede Murtica 7
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000 
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 1064.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7010.M
+                    [KOLICINA] => 3
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 336.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7060.M
+                    [KOLICINA] => 4
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 416.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7070.M
+                    [KOLICINA] => 3
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 312.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2020-12-10 11:56:49 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 63
+                    [STAVAKA] => 5
+                    [STAVKA] => 5
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-10 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

@@ -1,0 +1,72 @@
+2020-11-19 11:11:21 - &idfirma=1
+2020-11-19 11:11:21 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR21
+            [DATUM_VRIJEME] => 18.11.2020 11:16:17
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => jadranka.strmecki@gmail.com
+            [NARUCITELJ_IME] => Jadranka
+            [NARUCITELJ_PREZIME] => Strmecki
+            [NARUCITELJ_ADRESA] => Vlaška 61
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 098423939
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Tihana Strmecki
+            [DOSTAVA_ADRESA] => Nova cesta 180
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 260.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7014.L
+                    [KOLICINA] => 2
+                    [CIJENA] => 112.50
+                    [RABAT] => 0
+                    [IZNOS] => 225.00
+                )
+
+        )
+
+)
+
+2020-11-19 11:11:22 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 15
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-11-19 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

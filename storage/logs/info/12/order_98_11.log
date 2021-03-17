@@ -1,0 +1,590 @@
+2020-12-11 13:28:29 - Array
+(
+    [order_id] => 98
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 29
+    [customer_group_id] => 1
+    [firstname] => Iva
+    [lastname] => Mrsic
+    [email] => iva.sljiva9@gmail.com
+    [telephone] => 0992012982
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Iva
+    [payment_lastname] => Mrsic
+    [payment_company] => 
+    [payment_address_1] => Zrneticeva 8
+    [payment_address_2] => 
+    [payment_city] => Zagreb
+    [payment_postcode] => 10090
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Iva
+    [shipping_lastname] => Mrsic
+    [shipping_company] => 
+    [shipping_address_1] => Zrneticeva 8
+    [shipping_address_2] => 
+    [shipping_city] => Zagreb
+    [shipping_postcode] => 10090
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 623.2000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 188.252.197.45
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7,bs;q=0.6
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-10 23:40:04
+    [date_modified] => 2020-12-10 23:43:26
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 264
+                    [order_id] => 98
+                    [product_id] => 79
+                    [name] => MUŠKA PIDŽAMA DONJI DIO
+                    [model] => M5008
+                    [quantity] => 1
+                    [price] => 156.0000
+                    [total] => 156.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 233
+                            [order_id] => 98
+                            [order_product_id] => 264
+                            [product_option_id] => 242
+                            [product_option_value_id] => 92
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 92
+                                    [product_option_id] => 242
+                                    [product_id] => 79
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5008.M
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 265
+                    [order_id] => 98
+                    [product_id] => 80
+                    [name] => MUŠKE GAĆE SLIP CRNE
+                    [model] => M7012
+                    [quantity] => 1
+                    [price] => 71.2000
+                    [total] => 71.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 234
+                            [order_id] => 98
+                            [order_product_id] => 265
+                            [product_option_id] => 243
+                            [product_option_value_id] => 97
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 97
+                                    [product_option_id] => 243
+                                    [product_id] => 80
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7012.M
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 266
+                    [order_id] => 98
+                    [product_id] => 89
+                    [name] => MUŠKA POTKOŠULJA UŽA RAMENICA CRNA
+                    [model] => M7018
+                    [quantity] => 1
+                    [price] => 100.0000
+                    [total] => 100.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 235
+                            [order_id] => 98
+                            [order_product_id] => 266
+                            [product_option_id] => 252
+                            [product_option_value_id] => 150
+                            [name] => Veličina
+                            [value] => S
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 150
+                                    [product_option_id] => 252
+                                    [product_id] => 89
+                                    [option_id] => 13
+                                    [option_value_id] => 52
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7018.S
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 267
+                    [order_id] => 98
+                    [product_id] => 99
+                    [name] => MUŠKE GAĆE SLIP CRVENE
+                    [model] => M7031
+                    [quantity] => 1
+                    [price] => 71.2000
+                    [total] => 71.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 236
+                            [order_id] => 98
+                            [order_product_id] => 267
+                            [product_option_id] => 262
+                            [product_option_value_id] => 200
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 200
+                                    [product_option_id] => 262
+                                    [product_id] => 99
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7031.M
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [order_product_id] => 268
+                    [order_id] => 98
+                    [product_id] => 112
+                    [name] => MUŠKE GAĆE SLIP PRINT WEB
+                    [model] => M7042
+                    [quantity] => 1
+                    [price] => 76.8000
+                    [total] => 76.8000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 237
+                            [order_id] => 98
+                            [order_product_id] => 268
+                            [product_option_id] => 275
+                            [product_option_value_id] => 256
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 256
+                                    [product_option_id] => 275
+                                    [product_id] => 112
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7042.M
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [order_product_id] => 269
+                    [order_id] => 98
+                    [product_id] => 114
+                    [name] => MUŠKE GAĆE SLIP PRINT SQUARES
+                    [model] => M7045
+                    [quantity] => 1
+                    [price] => 76.8000
+                    [total] => 76.8000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 238
+                            [order_id] => 98
+                            [order_product_id] => 269
+                            [product_option_id] => 277
+                            [product_option_value_id] => 264
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 264
+                                    [product_option_id] => 277
+                                    [product_id] => 114
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7045.M
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [order_product_id] => 270
+                    [order_id] => 98
+                    [product_id] => 150
+                    [name] => MUŠKE GAĆE SLIP PRINT HOHOHO
+                    [model] => M7083
+                    [quantity] => 1
+                    [price] => 71.2000
+                    [total] => 71.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 239
+                            [order_id] => 98
+                            [order_product_id] => 270
+                            [product_option_id] => 313
+                            [product_option_value_id] => 459
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 459
+                                    [product_option_id] => 313
+                                    [product_id] => 150
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7083.M
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [order_product_id] => 271
+                    [order_id] => 98
+                    [product_id] => 167
+                    [name] => WEB MASKA ZA LICE
+                    [model] => P8013
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 326
+                    [order_id] => 98
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 674.2000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 327
+                    [order_id] => 98
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - WEB MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 328
+                    [order_id] => 98
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 329
+                    [order_id] => 98
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 623.2000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2020-12-11 13:28:29 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR98
+            [DATUM_VRIJEME] => 10.12.2020 23:43:26
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => iva.sljiva9@gmail.com
+            [NARUCITELJ_IME] => Iva
+            [NARUCITELJ_PREZIME] => Mrsic
+            [NARUCITELJ_ADRESA] => Zrneticeva 8
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10090
+            [NARUCITELJ_TELEFON] => 0992012982
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Iva Mrsic
+            [DOSTAVA_ADRESA] => Zrneticeva 8
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10090
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 623.20
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5008.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 156.00
+                    [RABAT] => 0
+                    [IZNOS] => 156.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7012.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7018.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7031.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M7042.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 76.80
+                    [RABAT] => 0
+                    [IZNOS] => 76.80
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => M7045.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 76.80
+                    [RABAT] => 0
+                    [IZNOS] => 76.80
+                )
+
+            [7] => Array
+                (
+                    [IDROBA] => M7083.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [8] => Array
+                (
+                    [IDROBA] => P8013
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2020-12-11 13:28:30 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 76
+                    [STAVAKA] => 9
+                    [STAVKA] => 9
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-11 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

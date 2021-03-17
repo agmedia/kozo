@@ -1,0 +1,72 @@
+2021-01-29 14:15:53 - &idfirma=1
+2021-01-29 14:15:53 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR226
+            [DATUM_VRIJEME] => 29.01.2021 09:31:33
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => icchuck@gmail.com
+            [NARUCITELJ_IME] => Ivica
+            [NARUCITELJ_PREZIME] => Čakširan
+            [NARUCITELJ_ADRESA] => Obala Ruđera Boškovića 2
+            [NARUCITELJ_MJESTO] => Sisak
+            [NARUCITELJ_POSTA] => 44000
+            [NARUCITELJ_TELEFON] => 0955902803
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ivica Čakširan
+            [DOSTAVA_ADRESA] => Obala Ruđera Boškovića 2
+            [DOSTAVA_MJESTO] => Sisak
+            [DOSTAVA_POSTA] => 44000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 416.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7022.XL
+                    [KOLICINA] => 4
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 416.00
+                )
+
+        )
+
+)
+
+2021-01-29 14:15:55 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 60
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-29 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

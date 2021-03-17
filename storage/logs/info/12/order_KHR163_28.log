@@ -1,0 +1,72 @@
+2020-12-28 12:55:10 - &idfirma=1
+2020-12-28 12:55:10 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR163
+            [DATUM_VRIJEME] => 25.12.2020 17:40:18
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => zeljko_jerecic@yahoo.com
+            [NARUCITELJ_IME] => Željko
+            [NARUCITELJ_PREZIME] => Jerečić
+            [NARUCITELJ_ADRESA] => Donji Desinec 84
+            [NARUCITELJ_MJESTO] => Jastrebarsko
+            [NARUCITELJ_POSTA] => 10450
+            [NARUCITELJ_TELEFON] => 0981630321
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Željko Jerečić
+            [DOSTAVA_ADRESA] => Donji Desinec 84
+            [DOSTAVA_MJESTO] => Jastrebarsko
+            [DOSTAVA_POSTA] => 10450
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 116.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7084.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 81.00
+                    [RABAT] => 0
+                    [IZNOS] => 81.00
+                )
+
+        )
+
+)
+
+2020-12-28 12:55:11 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 125
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-28 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

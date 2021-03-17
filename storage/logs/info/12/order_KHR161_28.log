@@ -1,0 +1,81 @@
+2020-12-28 12:54:47 - &idfirma=1
+2020-12-28 12:54:47 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR161
+            [DATUM_VRIJEME] => 23.12.2020 23:00:34
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ines.stojak@gmail.com
+            [NARUCITELJ_IME] => Ines
+            [NARUCITELJ_PREZIME] => Stojak
+            [NARUCITELJ_ADRESA] => Uz stari put 13
+            [NARUCITELJ_MJESTO] => Cavtat
+            [NARUCITELJ_POSTA] => 20210
+            [NARUCITELJ_TELEFON] => 0917235982
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ines Stojak
+            [DOSTAVA_ADRESA] => Uz stari put 13
+            [DOSTAVA_MJESTO] => Cavtat
+            [DOSTAVA_POSTA] => 20210
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 171.80
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7031.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7061.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 65.60
+                )
+
+        )
+
+)
+
+2020-12-28 12:54:48 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 123
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-28 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

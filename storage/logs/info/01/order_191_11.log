@@ -1,0 +1,340 @@
+2021-01-11 14:27:16 - Array
+(
+    [order_id] => 191
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 138
+    [customer_group_id] => 1
+    [firstname] => Grgo
+    [lastname] => Radoš
+    [email] => grgo.rados@3003gmail.com
+    [telephone] => +38598700701
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Grgo
+    [payment_lastname] => Radoš
+    [payment_company] => 
+    [payment_address_1] => Krste Frankopana 56A
+    [payment_address_2] => 
+    [payment_city] => BJELOVAR
+    [payment_postcode] => 43000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Grgo
+    [shipping_lastname] => Radoš
+    [shipping_company] => 
+    [shipping_address_1] => Antuna Mihanovića 8
+    [shipping_address_2] => 
+    [shipping_city] => BJELOVAR
+    [shipping_postcode] => 43000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 243.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 31.217.1.214
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A715F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-01-09 20:18:41
+    [date_modified] => 2021-01-09 20:18:58
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 486
+                    [order_id] => 191
+                    [product_id] => 144
+                    [name] => MUŠKE GAĆE SLIP TAMNO PLAVE
+                    [model] => M7075
+                    [quantity] => 1
+                    [price] => 65.6000
+                    [total] => 65.6000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 430
+                            [order_id] => 191
+                            [order_product_id] => 486
+                            [product_option_id] => 307
+                            [product_option_value_id] => 431
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 431
+                                    [product_option_id] => 307
+                                    [product_id] => 144
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 13
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7075.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 484
+                    [order_id] => 191
+                    [product_id] => 93
+                    [name] => MUŠKE GAĆE SLIP SIVE
+                    [model] => M7023
+                    [quantity] => 1
+                    [price] => 71.2000
+                    [total] => 71.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 428
+                            [order_id] => 191
+                            [order_product_id] => 484
+                            [product_option_id] => 256
+                            [product_option_value_id] => 171
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 171
+                                    [product_option_id] => 256
+                                    [product_id] => 93
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 15
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7023.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 485
+                    [order_id] => 191
+                    [product_id] => 103
+                    [name] => MUŠKE GAĆE SLIP BOJA KOŽE
+                    [model] => M7035
+                    [quantity] => 1
+                    [price] => 71.2000
+                    [total] => 71.2000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 429
+                            [order_id] => 191
+                            [order_product_id] => 485
+                            [product_option_id] => 266
+                            [product_option_value_id] => 218
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 218
+                                    [product_option_id] => 266
+                                    [product_id] => 103
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 13
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7035.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 621
+                    [order_id] => 191
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 208.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 622
+                    [order_id] => 191
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 623
+                    [order_id] => 191
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 243.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-11 14:27:16 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR191
+            [DATUM_VRIJEME] => 09.01.2021 20:18:58
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => grgo.rados@3003gmail.com
+            [NARUCITELJ_IME] => Grgo
+            [NARUCITELJ_PREZIME] => Radoš
+            [NARUCITELJ_ADRESA] => Krste Frankopana 56A
+            [NARUCITELJ_MJESTO] => BJELOVAR
+            [NARUCITELJ_POSTA] => 43000
+            [NARUCITELJ_TELEFON] => +38598700701
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Grgo Radoš
+            [DOSTAVA_ADRESA] => Antuna Mihanovića 8
+            [DOSTAVA_MJESTO] => BJELOVAR
+            [DOSTAVA_POSTA] => 43000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 243.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7075.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 65.60
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7023.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7035.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 71.20
+                )
+
+        )
+
+)
+
+2021-01-11 14:27:18 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 10
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-11 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

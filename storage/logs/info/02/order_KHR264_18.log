@@ -1,0 +1,72 @@
+2021-02-18 8:51:31 - &idfirma=1
+2021-02-18 8:51:31 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR264
+            [DATUM_VRIJEME] => 17.02.2021 17:03:34
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => edindzk@gmail.com
+            [NARUCITELJ_IME] => IGOR
+            [NARUCITELJ_PREZIME] => BABIĆ
+            [NARUCITELJ_ADRESA] => BARUNA TRENKA 164
+            [NARUCITELJ_MJESTO] => NOVA GRADIŠKA
+            [NARUCITELJ_POSTA] => 35400
+            [NARUCITELJ_TELEFON] => 0913612468
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => IGOR BABIĆ
+            [DOSTAVA_ADRESA] => BARUNA TRENKA 164
+            [DOSTAVA_MJESTO] => NOVA GRADIŠKA
+            [DOSTAVA_POSTA] => 35400
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 122.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7032.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+        )
+
+)
+
+2021-02-18 8:51:32 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 114
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-18 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

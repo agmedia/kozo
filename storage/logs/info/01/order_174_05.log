@@ -1,0 +1,482 @@
+2021-01-05 10:25:46 - Array
+(
+    [order_id] => 174
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 37
+    [customer_group_id] => 1
+    [firstname] => draženka
+    [lastname] => pavišić
+    [email] => dr_pavisic@yahoo.com
+    [telephone] => +38598735899
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => draženka
+    [payment_lastname] => pavišić
+    [payment_company] => 
+    [payment_address_1] => trstenjakova 14 A
+    [payment_address_2] => 
+    [payment_city] => varaždin
+    [payment_postcode] => 42000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => draženka
+    [shipping_lastname] => pavišić
+    [shipping_company] => 
+    [shipping_address_1] => trstenjakova 14 A
+    [shipping_address_2] => 
+    [shipping_city] => varaždin
+    [shipping_postcode] => 42000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 552.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.142.243.244
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+    [accept_language] => hr,hr-HR;q=0.8,en-US;q=0.5,en;q=0.3
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-01-05 08:43:37
+    [date_modified] => 2021-01-05 08:43:59
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 449
+                    [order_id] => 174
+                    [product_id] => 67
+                    [name] => MUŠKA MAJICA OKRUGLI IZREZ BIJELA
+                    [model] => M7009
+                    [quantity] => 1
+                    [price] => 112.0000
+                    [total] => 112.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 405
+                            [order_id] => 174
+                            [order_product_id] => 449
+                            [product_option_id] => 336
+                            [product_option_value_id] => 522
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 522
+                                    [product_option_id] => 336
+                                    [product_id] => 67
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 9
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7009.L
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 450
+                    [order_id] => 174
+                    [product_id] => 87
+                    [name] => MUŠKA MAJICA OKRUGLI IZREZ CRNA
+                    [model] => M7020
+                    [quantity] => 1
+                    [price] => 112.0000
+                    [total] => 112.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 406
+                            [order_id] => 174
+                            [order_product_id] => 450
+                            [product_option_id] => 250
+                            [product_option_value_id] => 136
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 136
+                                    [product_option_id] => 250
+                                    [product_id] => 87
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 4
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7020.L
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 451
+                    [order_id] => 174
+                    [product_id] => 87
+                    [name] => MUŠKA MAJICA OKRUGLI IZREZ CRNA
+                    [model] => M7020
+                    [quantity] => 1
+                    [price] => 112.0000
+                    [total] => 112.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 407
+                            [order_id] => 174
+                            [order_product_id] => 451
+                            [product_option_id] => 250
+                            [product_option_value_id] => 139
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 139
+                                    [product_option_id] => 250
+                                    [product_id] => 87
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 4
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7020.XL
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 452
+                    [order_id] => 174
+                    [product_id] => 110
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT WEB
+                    [model] => M7043
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 408
+                            [order_id] => 174
+                            [order_product_id] => 452
+                            [product_option_id] => 273
+                            [product_option_value_id] => 247
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 247
+                                    [product_option_id] => 273
+                                    [product_id] => 110
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 30
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7043.L
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [order_product_id] => 453
+                    [order_id] => 174
+                    [product_id] => 110
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT WEB
+                    [model] => M7043
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 409
+                            [order_id] => 174
+                            [order_product_id] => 453
+                            [product_option_id] => 273
+                            [product_option_value_id] => 250
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 250
+                                    [product_option_id] => 273
+                                    [product_id] => 110
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 19
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7043.XL
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [order_product_id] => 454
+                    [order_id] => 174
+                    [product_id] => 170
+                    [name] => NAVY MASKA ZA LICE
+                    [model] => P8010
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 569
+                    [order_id] => 174
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 603.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 570
+                    [order_id] => 174
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - NAVY MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 571
+                    [order_id] => 174
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 572
+                    [order_id] => 174
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 552.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-05 10:25:46 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR174
+            [DATUM_VRIJEME] => 05.01.2021 08:43:59
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => dr_pavisic@yahoo.com
+            [NARUCITELJ_IME] => draženka
+            [NARUCITELJ_PREZIME] => pavišić
+            [NARUCITELJ_ADRESA] => trstenjakova 14 A
+            [NARUCITELJ_MJESTO] => varaždin
+            [NARUCITELJ_POSTA] => 42000
+            [NARUCITELJ_TELEFON] => +38598735899
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => draženka pavišić
+            [DOSTAVA_ADRESA] => trstenjakova 14 A
+            [DOSTAVA_MJESTO] => varaždin
+            [DOSTAVA_POSTA] => 42000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 552.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7009.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 112.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7020.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 112.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7020.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 112.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7043.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M7043.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => P8010
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2021-01-05 10:25:47 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 5
+                    [STAVAKA] => 7
+                    [STAVKA] => 7
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-05 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

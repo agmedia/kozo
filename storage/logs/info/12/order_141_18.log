@@ -1,0 +1,340 @@
+2020-12-18 12:25:19 - Array
+(
+    [order_id] => 141
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 106
+    [customer_group_id] => 1
+    [firstname] => Zdenka 
+    [lastname] => Gregorec
+    [email] => zdenka.gregorec@gmail.com
+    [telephone] => 098 331258
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Zdenka 
+    [payment_lastname] => Gregorec
+    [payment_company] => 
+    [payment_address_1] => P.Preradovića 3
+    [payment_address_2] => 
+    [payment_city] => Čakovec
+    [payment_postcode] => 40000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => OBSIDO-BIRO 
+    [shipping_lastname] => J.D.O.O.
+    [shipping_company] => 
+    [shipping_address_1] => Zrinsko-frankopanska 12b
+    [shipping_address_2] => 
+    [shipping_city] => Čakovec
+    [shipping_postcode] => 40000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => Order Comments: Molim vrijeme dostave radnim danom od ponedjeljka do petka od 8h do 15h
+    [total] => 359.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.139.186.64
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-18 11:37:40
+    [date_modified] => 2020-12-18 11:37:50
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 369
+                    [order_id] => 141
+                    [product_id] => 108
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT GEOMETRIC
+                    [model] => M7040
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 330
+                            [order_id] => 141
+                            [order_product_id] => 369
+                            [product_option_id] => 271
+                            [product_option_value_id] => 239
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 239
+                                    [product_option_id] => 271
+                                    [product_id] => 108
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7040.L
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 370
+                    [order_id] => 141
+                    [product_id] => 110
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT WEB
+                    [model] => M7043
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 331
+                            [order_id] => 141
+                            [order_product_id] => 370
+                            [product_option_id] => 273
+                            [product_option_value_id] => 250
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 250
+                                    [product_option_id] => 273
+                                    [product_id] => 110
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7043.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 371
+                    [order_id] => 141
+                    [product_id] => 111
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT SQUARES
+                    [model] => M7046
+                    [quantity] => 1
+                    [price] => 108.0000
+                    [total] => 108.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 332
+                            [order_id] => 141
+                            [order_product_id] => 371
+                            [product_option_id] => 274
+                            [product_option_value_id] => 252
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 252
+                                    [product_option_id] => 274
+                                    [product_id] => 111
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7046.M
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 465
+                    [order_id] => 141
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 324.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 466
+                    [order_id] => 141
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 467
+                    [order_id] => 141
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 359.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-18 12:25:19 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR141
+            [DATUM_VRIJEME] => 18.12.2020 11:37:50
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => zdenka.gregorec@gmail.com
+            [NARUCITELJ_IME] => Zdenka 
+            [NARUCITELJ_PREZIME] => Gregorec
+            [NARUCITELJ_ADRESA] => P.Preradovića 3
+            [NARUCITELJ_MJESTO] => Čakovec
+            [NARUCITELJ_POSTA] => 40000
+            [NARUCITELJ_TELEFON] => 098 331258
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => OBSIDO-BIRO  J.D.O.O.
+            [DOSTAVA_ADRESA] => Zrinsko-frankopanska 12b
+            [DOSTAVA_MJESTO] => Čakovec
+            [DOSTAVA_POSTA] => 40000
+            [NAPOMENA] => Order Comments: Molim vrijeme dostave radnim danom od ponedjeljka do petka od 8h do 15h
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 359.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7040.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7043.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7046.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 108.00
+                    [RABAT] => 0
+                    [IZNOS] => 108.00
+                )
+
+        )
+
+)
+
+2020-12-18 12:25:20 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 105
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-18 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

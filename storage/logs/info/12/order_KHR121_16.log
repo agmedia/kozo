@@ -1,0 +1,81 @@
+2020-12-16 12:23:54 - &idfirma=1
+2020-12-16 12:23:54 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR121
+            [DATUM_VRIJEME] => 15.12.2020 22:19:28
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => frenkybb0606@gmail.com
+            [NARUCITELJ_IME] => Marija
+            [NARUCITELJ_PREZIME] => Radošević
+            [NARUCITELJ_ADRESA] => Doćine 4a
+            [NARUCITELJ_MJESTO] => Vodice
+            [NARUCITELJ_POSTA] => 22211
+            [NARUCITELJ_TELEFON] => 098623738
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Marija Radošević
+            [DOSTAVA_ADRESA] => Doćine 4a
+            [DOSTAVA_MJESTO] => Vodice
+            [DOSTAVA_POSTA] => 22211
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 192.60
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7076.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7075.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 65.60
+                    [RABAT] => 0
+                    [IZNOS] => 65.60
+                )
+
+        )
+
+)
+
+2020-12-16 12:23:55 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 97
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-16 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

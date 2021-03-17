@@ -1,0 +1,81 @@
+2020-12-10 11:57:47 - &idfirma=1
+2020-12-10 11:57:47 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR81
+            [DATUM_VRIJEME] => 09.12.2020 09:17:54
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => zvjezdana.orzes@gmail.com
+            [NARUCITELJ_IME] => Zvjezdana 
+            [NARUCITELJ_PREZIME] => Orzes
+            [NARUCITELJ_ADRESA] => Kneza Branimira 44
+            [NARUCITELJ_MJESTO] => Pakrac
+            [NARUCITELJ_POSTA] => 34550
+            [NARUCITELJ_TELEFON] => 0981722524
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Zvjezdana  Orzes
+            [DOSTAVA_ADRESA] => Kneza Branimira 44
+            [DOSTAVA_MJESTO] => Pakrac
+            [DOSTAVA_POSTA] => 34550
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 227.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7013.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7076.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+        )
+
+)
+
+2020-12-10 11:57:48 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 69
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-10 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

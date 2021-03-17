@@ -1,0 +1,232 @@
+2021-01-04 12:09:47 - Array
+(
+    [order_id] => 172
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 133
+    [customer_group_id] => 1
+    [firstname] => Gianfranco
+    [lastname] => Božac
+    [email] => lobodapula@gmail.com
+    [telephone] => 0981634655
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Gianfranco
+    [payment_lastname] => Božac
+    [payment_company] => 
+    [payment_address_1] => Bastianova 36
+    [payment_address_2] => 
+    [payment_city] => Pula
+    [payment_postcode] => 52100
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Gianfranco
+    [shipping_lastname] => Božac
+    [shipping_company] => 
+    [shipping_address_1] => Bastianova 36
+    [shipping_address_2] => 
+    [shipping_city] => Pula
+    [shipping_postcode] => 52100
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 410.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 78.1.80.175
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+    [accept_language] => hr,hr-HR;q=0.8,en-US;q=0.5,en;q=0.3
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-01-03 09:15:19
+    [date_modified] => 2021-01-03 09:16:58
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 446
+                    [order_id] => 172
+                    [product_id] => 119
+                    [name] => MUŠKE GAĆE SLIP BIJELE
+                    [model] => M7051
+                    [quantity] => 5
+                    [price] => 82.0000
+                    [total] => 410.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 403
+                            [order_id] => 172
+                            [order_product_id] => 446
+                            [product_option_id] => 282
+                            [product_option_value_id] => 292
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 292
+                                    [product_option_id] => 282
+                                    [product_id] => 119
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 5
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7051.XL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 562
+                    [order_id] => 172
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 410.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 563
+                    [order_id] => 172
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 564
+                    [order_id] => 172
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 410.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-04 12:09:47 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR172
+            [DATUM_VRIJEME] => 03.01.2021 09:16:58
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => lobodapula@gmail.com
+            [NARUCITELJ_IME] => Gianfranco
+            [NARUCITELJ_PREZIME] => Božac
+            [NARUCITELJ_ADRESA] => Bastianova 36
+            [NARUCITELJ_MJESTO] => Pula
+            [NARUCITELJ_POSTA] => 52100
+            [NARUCITELJ_TELEFON] => 0981634655
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Gianfranco Božac
+            [DOSTAVA_ADRESA] => Bastianova 36
+            [DOSTAVA_MJESTO] => Pula
+            [DOSTAVA_POSTA] => 52100
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 410.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7051.XL
+                    [KOLICINA] => 5
+                    [CIJENA] => 82.00
+                    [RABAT] => 0
+                    [IZNOS] => 410.00
+                )
+
+        )
+
+)
+
+2021-01-04 12:09:48 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 3
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-04 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

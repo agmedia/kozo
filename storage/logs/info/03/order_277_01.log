@@ -1,0 +1,232 @@
+2021-03-01 9:01:46 - Array
+(
+    [order_id] => 277
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 195
+    [customer_group_id] => 1
+    [firstname] => Goran 
+    [lastname] => Mališ 
+    [email] => goranmalis@gmail.com
+    [telephone] => 095 373 0909 
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Goran 
+    [payment_lastname] => Mališ 
+    [payment_company] => 
+    [payment_address_1] => Tina Ujevića 15
+    [payment_address_2] => 
+    [payment_city] => Varaždin 
+    [payment_postcode] => 42000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Goran 
+    [shipping_lastname] => Mališ 
+    [shipping_company] => 
+    [shipping_address_1] => Tina Ujevića 15
+    [shipping_address_2] => 
+    [shipping_city] => Varaždin 
+    [shipping_postcode] => 42000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 177.4000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 213.149.61.111
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 11; SM-G970F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.181 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7,bs;q=0.6,sl;q=0.5
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-02-27 22:17:45
+    [date_modified] => 2021-02-27 22:20:42
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 711
+                    [order_id] => 277
+                    [product_id] => 95
+                    [name] => MUŠKE GAĆE SLIP TAMNO PLAVE
+                    [model] => M7027
+                    [quantity] => 2
+                    [price] => 71.2000
+                    [total] => 142.4000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 636
+                            [order_id] => 277
+                            [order_product_id] => 711
+                            [product_option_id] => 258
+                            [product_option_value_id] => 176
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 176
+                                    [product_option_id] => 258
+                                    [product_id] => 95
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 25
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7027.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 904
+                    [order_id] => 277
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 142.4000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 905
+                    [order_id] => 277
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 906
+                    [order_id] => 277
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 177.4000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-03-01 9:01:46 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR277
+            [DATUM_VRIJEME] => 27.02.2021 22:20:42
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => goranmalis@gmail.com
+            [NARUCITELJ_IME] => Goran 
+            [NARUCITELJ_PREZIME] => Mališ 
+            [NARUCITELJ_ADRESA] => Tina Ujevića 15
+            [NARUCITELJ_MJESTO] => Varaždin 
+            [NARUCITELJ_POSTA] => 42000
+            [NARUCITELJ_TELEFON] => 095 373 0909 
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Goran  Mališ 
+            [DOSTAVA_ADRESA] => Tina Ujevića 15
+            [DOSTAVA_MJESTO] => Varaždin 
+            [DOSTAVA_POSTA] => 42000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 177.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7027.L
+                    [KOLICINA] => 2
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 142.40
+                )
+
+        )
+
+)
+
+2021-03-01 9:01:48 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 143
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-03-01 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

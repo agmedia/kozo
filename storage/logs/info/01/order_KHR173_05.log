@@ -1,0 +1,81 @@
+2021-01-05 10:25:32 - &idfirma=1
+2021-01-05 10:25:32 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR173
+            [DATUM_VRIJEME] => 04.01.2021 15:30:51
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => baraban.dragica@gmail.com
+            [NARUCITELJ_IME] => Dragica
+            [NARUCITELJ_PREZIME] => Baraban
+            [NARUCITELJ_ADRESA] => Otokara Keršovanija 40a
+            [NARUCITELJ_MJESTO] => Zadar
+            [NARUCITELJ_POSTA] => 23000
+            [NARUCITELJ_TELEFON] => 0989958094
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Dragica Baraban
+            [DOSTAVA_ADRESA] => Otokara Keršovanija 40a
+            [DOSTAVA_MJESTO] => Zadar
+            [DOSTAVA_POSTA] => 23000
+            [NAPOMENA] => Order Comments: Molim vas da budu sve crne gacice, ne vidim sta sam narucila.hvala
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 550.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7062.XXL
+                    [KOLICINA] => 5
+                    [CIJENA] => 110.00
+                    [RABAT] => 0
+                    [IZNOS] => 550.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => P8013
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2021-01-05 10:25:33 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 4
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-05 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

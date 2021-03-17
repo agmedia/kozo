@@ -1,0 +1,232 @@
+2021-01-04 12:09:22 - Array
+(
+    [order_id] => 170
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 130
+    [customer_group_id] => 1
+    [firstname] => Steven
+    [lastname] => Taliaferro
+    [email] => stevetaliaferro@yahoo.com
+    [telephone] => 0911555161
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Steven
+    [payment_lastname] => Taliaferro
+    [payment_company] => 
+    [payment_address_1] => Ivanska ulica 57, Jagnjić dol
+    [payment_address_2] => 
+    [payment_city] => Sveta Nedelja
+    [payment_postcode] => 10431
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Steven
+    [shipping_lastname] => Taliaferro
+    [shipping_company] => 
+    [shipping_address_1] => Ivanska ulica 57, Jagnjić dol
+    [shipping_address_2] => 
+    [shipping_city] => Sveta Nedelja
+    [shipping_postcode] => 10431
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 177.4000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 90.137.137.161
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+    [accept_language] => en-US,en;q=0.9
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-30 22:52:16
+    [date_modified] => 2020-12-30 22:54:03
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 444
+                    [order_id] => 170
+                    [product_id] => 80
+                    [name] => MUŠKE GAĆE SLIP CRNE
+                    [model] => M7012
+                    [quantity] => 2
+                    [price] => 71.2000
+                    [total] => 142.4000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 401
+                            [order_id] => 170
+                            [order_product_id] => 444
+                            [product_option_id] => 243
+                            [product_option_value_id] => 97
+                            [name] => Veličina
+                            [value] => M
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 97
+                                    [product_option_id] => 243
+                                    [product_id] => 80
+                                    [option_id] => 13
+                                    [option_value_id] => 51
+                                    [quantity] => 40
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7012.M
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 556
+                    [order_id] => 170
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 142.4000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 557
+                    [order_id] => 170
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 558
+                    [order_id] => 170
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 177.4000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-04 12:09:22 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR170
+            [DATUM_VRIJEME] => 30.12.2020 22:54:03
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => stevetaliaferro@yahoo.com
+            [NARUCITELJ_IME] => Steven
+            [NARUCITELJ_PREZIME] => Taliaferro
+            [NARUCITELJ_ADRESA] => Ivanska ulica 57, Jagnjić dol
+            [NARUCITELJ_MJESTO] => Sveta Nedelja
+            [NARUCITELJ_POSTA] => 10431
+            [NARUCITELJ_TELEFON] => 0911555161
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Steven Taliaferro
+            [DOSTAVA_ADRESA] => Ivanska ulica 57, Jagnjić dol
+            [DOSTAVA_MJESTO] => Sveta Nedelja
+            [DOSTAVA_POSTA] => 10431
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 177.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7012.M
+                    [KOLICINA] => 2
+                    [CIJENA] => 71.20
+                    [RABAT] => 0
+                    [IZNOS] => 142.40
+                )
+
+        )
+
+)
+
+2021-01-04 12:09:23 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 1
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-04 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

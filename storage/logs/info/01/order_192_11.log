@@ -1,0 +1,350 @@
+2021-01-11 14:27:30 - Array
+(
+    [order_id] => 192
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 139
+    [customer_group_id] => 1
+    [firstname] => Karlo
+    [lastname] => Hrascanec
+    [email] => hrascaneckarlo12@gmail.com
+    [telephone] => 0976138675
+    [fax] => 
+    [custom_field] => []
+    [payment_firstname] => Karlo
+    [payment_lastname] => Hrascanec
+    [payment_company] => 
+    [payment_address_1] => Matije Gupca 14 
+    [payment_address_2] => 
+    [payment_city] => donja dubrava
+    [payment_postcode] => 40328
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => []
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Karlo
+    [shipping_lastname] => Hrascanec
+    [shipping_company] => 
+    [shipping_address_1] => Matije Gupca 14 
+    [shipping_address_2] => 
+    [shipping_city] => donja dubrava
+    [shipping_postcode] => 40328
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => []
+    [shipping_method] => Preuzmi kod nas - Trg republike 3, 40328 Donja Dubrava, Međimurska županija
+    [shipping_code] => pickup.pickup
+    [comment] => 
+    [total] => 0.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 78.2.144.99
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-A415F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+    [paid_order] => 0
+    [intereuropa] => 
+    [date_added] => 2021-01-10 16:06:04
+    [date_modified] => 2021-01-11 08:35:11
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 495
+                    [order_id] => 192
+                    [product_id] => 147
+                    [name] => MUŠKE BOKSERICE CRVENE
+                    [model] => M7081
+                    [quantity] => 1
+                    [price] => 80.5000
+                    [total] => 80.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 439
+                            [order_id] => 192
+                            [order_product_id] => 495
+                            [product_option_id] => 310
+                            [product_option_value_id] => 446
+                            [name] => Veličina
+                            [value] => S
+                            [type] => radio
+                            [sku] => M7081.S
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 446
+                                    [product_option_id] => 310
+                                    [product_id] => 147
+                                    [option_id] => 13
+                                    [option_value_id] => 52
+                                    [quantity] => 19
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7081.S
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 493
+                    [order_id] => 192
+                    [product_id] => 82
+                    [name] => MUŠKE BOKSERICE HIPSTER CRNE
+                    [model] => M7013
+                    [quantity] => 1
+                    [price] => 87.5000
+                    [total] => 87.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 437
+                            [order_id] => 192
+                            [order_product_id] => 493
+                            [product_option_id] => 245
+                            [product_option_value_id] => 110
+                            [name] => Veličina
+                            [value] => S
+                            [type] => radio
+                            [sku] => M7013.S
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 110
+                                    [product_option_id] => 245
+                                    [product_id] => 82
+                                    [option_id] => 13
+                                    [option_value_id] => 52
+                                    [quantity] => 50
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7013.S
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 494
+                    [order_id] => 192
+                    [product_id] => 138
+                    [name] => MUŠKA MAJICA V IZREZ CRNA
+                    [model] => M7070
+                    [quantity] => 1
+                    [price] => 104.0000
+                    [total] => 104.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 438
+                            [order_id] => 192
+                            [order_product_id] => 494
+                            [product_option_id] => 301
+                            [product_option_value_id] => 401
+                            [name] => Veličina
+                            [value] => S
+                            [type] => radio
+                            [sku] => M7070.S
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 401
+                                    [product_option_id] => 301
+                                    [product_id] => 138
+                                    [option_id] => 13
+                                    [option_value_id] => 52
+                                    [quantity] => 11
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => 
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7070.S
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 631
+                    [order_id] => 192
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 272.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 632
+                    [order_id] => 192
+                    [code] => shipping
+                    [title] => Preuzmi kod nas - Trg republike 3, 40328 Donja Dubrava, Međimurska županija
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 633
+                    [order_id] => 192
+                    [code] => coupon
+                    [title] => Kupon za popust (ehlwAA)
+                    [value] => -272.0000
+                    [sort_order] => 4
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 634
+                    [order_id] => 192
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 0.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-11 14:27:30 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR192
+            [DATUM_VRIJEME] => 11.01.2021 08:35:11
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => hrascaneckarlo12@gmail.com
+            [NARUCITELJ_IME] => Karlo
+            [NARUCITELJ_PREZIME] => Hrascanec
+            [NARUCITELJ_ADRESA] => Matije Gupca 14 
+            [NARUCITELJ_MJESTO] => donja dubrava
+            [NARUCITELJ_POSTA] => 40328
+            [NARUCITELJ_TELEFON] => 0976138675
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Karlo Hrascanec
+            [DOSTAVA_ADRESA] => Matije Gupca 14 
+            [DOSTAVA_MJESTO] => donja dubrava
+            [DOSTAVA_POSTA] => 40328
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 0.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7081.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7013.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7070.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 104.00
+                )
+
+        )
+
+)
+
+2021-01-11 14:27:32 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 11
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-11 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

@@ -1,0 +1,81 @@
+2021-03-05 14:44:01 - &idfirma=1
+2021-03-05 14:44:01 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR281
+            [DATUM_VRIJEME] => 02.03.2021 18:34:21
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => skrobo.stanko1@gmail.com
+            [NARUCITELJ_IME] => Stanko
+            [NARUCITELJ_PREZIME] => Škrobo
+            [NARUCITELJ_ADRESA] => kaštelanska 41
+            [NARUCITELJ_MJESTO] => osijek
+            [NARUCITELJ_POSTA] => 31000
+            [NARUCITELJ_TELEFON] => +385989375950
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Stanko Škrobo
+            [DOSTAVA_ADRESA] => kaštelanska 41
+            [DOSTAVA_MJESTO] => osijek
+            [DOSTAVA_POSTA] => 31000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 203.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7014.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7063.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+        )
+
+)
+
+2021-03-05 14:44:03 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 34
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-03-05 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

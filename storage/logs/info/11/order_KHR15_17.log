@@ -1,0 +1,99 @@
+2020-11-17 11:33:07 - &idfirma=1
+2020-11-17 11:33:07 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR15
+            [DATUM_VRIJEME] => 16.11.2020 09:54:24
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => sandrorukavina@gmail.com
+            [NARUCITELJ_IME] => Sandro
+            [NARUCITELJ_PREZIME] => Rukavina
+            [NARUCITELJ_ADRESA] => Krasica 263
+            [NARUCITELJ_MJESTO] => Krasica
+            [NARUCITELJ_POSTA] => 51224
+            [NARUCITELJ_TELEFON] => 0911805974
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Sandro Rukavina
+            [DOSTAVA_ADRESA] => Krasica 263
+            [DOSTAVA_MJESTO] => Krasica
+            [DOSTAVA_POSTA] => 51224
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 458.60
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7012.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 93.10
+                    [RABAT] => 0
+                    [IZNOS] => 93.10
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7016.XXXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 131.50
+                    [RABAT] => 0
+                    [IZNOS] => 131.50
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7029.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.50
+                    [RABAT] => 0
+                    [IZNOS] => 112.50
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7057.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 121.50
+                    [RABAT] => 0
+                    [IZNOS] => 121.50
+                )
+
+        )
+
+)
+
+2020-11-17 11:33:08 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 12
+            [STAVAKA] => 5
+            [STAVKA] => 5
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-11-17 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

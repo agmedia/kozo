@@ -1,0 +1,108 @@
+2021-01-29 7:33:24 - &idfirma=1
+2021-01-29 7:33:24 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR223
+            [DATUM_VRIJEME] => 27.01.2021 12:31:17
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => stefi.horvat@gmail.com
+            [NARUCITELJ_IME] => Štefica
+            [NARUCITELJ_PREZIME] => Bermanec
+            [NARUCITELJ_ADRESA] => Ulica Dragutina Tadijanovića 5
+            [NARUCITELJ_MJESTO] => PRELOG
+            [NARUCITELJ_POSTA] => 40323
+            [NARUCITELJ_TELEFON] => +385981686302
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Štefica Bermanec
+            [DOSTAVA_ADRESA] => Ulica Dragutina Tadijanovića 5
+            [DOSTAVA_MJESTO] => PRELOG
+            [DOSTAVA_POSTA] => 40323
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 551.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7013.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7032.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7077.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8012
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M5009.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 296.00
+                    [RABAT] => 0
+                    [IZNOS] => 296.00
+                )
+
+        )
+
+)
+
+2021-01-29 7:33:25 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 57
+            [STAVAKA] => 6
+            [STAVKA] => 6
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-29 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

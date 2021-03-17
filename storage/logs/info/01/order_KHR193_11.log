@@ -1,0 +1,90 @@
+2021-01-11 14:27:40 - &idfirma=1
+2021-01-11 14:27:40 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR193
+            [DATUM_VRIJEME] => 11.01.2021 10:16:12
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => katarina.pavlovic10@gmail.com
+            [NARUCITELJ_IME] => Katarina
+            [NARUCITELJ_PREZIME] => Pavlović Njire
+            [NARUCITELJ_ADRESA] => Vatroslava Lisinskog 15A
+            [NARUCITELJ_MJESTO] => Dubrovnik
+            [NARUCITELJ_POSTA] => 20000
+            [NARUCITELJ_TELEFON] => +385 91 356 1045
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Katarina Pavlović Njire
+            [DOSTAVA_ADRESA] => Vatroslava Lisinskog 15A
+            [DOSTAVA_MJESTO] => Dubrovnik
+            [DOSTAVA_POSTA] => 20000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 271.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7084.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 75.00
+                    [RABAT] => 0
+                    [IZNOS] => 75.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7076.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7062.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 80.50
+                )
+
+        )
+
+)
+
+2021-01-11 14:27:41 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 12
+            [STAVAKA] => 4
+            [STAVKA] => 4
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-11 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

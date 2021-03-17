@@ -1,0 +1,232 @@
+2020-12-03 12:40:55 - Array
+(
+    [order_id] => 63
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 44
+    [customer_group_id] => 1
+    [firstname] => Matija
+    [lastname] => Slani
+    [email] => matijaslani@gmail.com
+    [telephone] => 0989467305
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Matija
+    [payment_lastname] => Slani
+    [payment_company] => 
+    [payment_address_1] => Ratka Petrovića 60
+    [payment_address_2] => 
+    [payment_city] => rijeka
+    [payment_postcode] => 51000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Kreditne kartice / Debitne Kartice (CorvusPay)
+    [payment_code] => corvuspay
+    [shipping_firstname] => Borka
+    [shipping_lastname] => Slani
+    [shipping_company] => 
+    [shipping_address_1] => Maršala Tita 210
+    [shipping_address_2] => 
+    [shipping_city] => opatija
+    [shipping_postcode] => 51410
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 127.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 213.149.61.221
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-02 10:12:40
+    [date_modified] => 2020-12-02 10:14:27
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 157
+                    [order_id] => 63
+                    [product_id] => 121
+                    [name] => MUŠKE BOKSERICE TRUNKS BIJELE
+                    [model] => M7053
+                    [quantity] => 1
+                    [price] => 92.0000
+                    [total] => 92.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 141
+                            [order_id] => 63
+                            [order_product_id] => 157
+                            [product_option_id] => 284
+                            [product_option_value_id] => 301
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 301
+                                    [product_option_id] => 284
+                                    [product_id] => 121
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7053.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 205
+                    [order_id] => 63
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 92.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 206
+                    [order_id] => 63
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 207
+                    [order_id] => 63
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 127.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2020-12-03 12:40:55 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR63
+            [DATUM_VRIJEME] => 02.12.2020 10:14:27
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => matijaslani@gmail.com
+            [NARUCITELJ_IME] => Matija
+            [NARUCITELJ_PREZIME] => Slani
+            [NARUCITELJ_ADRESA] => Ratka Petrovića 60
+            [NARUCITELJ_MJESTO] => rijeka
+            [NARUCITELJ_POSTA] => 51000
+            [NARUCITELJ_TELEFON] => 0989467305
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Borka Slani
+            [DOSTAVA_ADRESA] => Maršala Tita 210
+            [DOSTAVA_MJESTO] => opatija
+            [DOSTAVA_POSTA] => 51410
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 127.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7053.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 92.00
+                    [RABAT] => 0
+                    [IZNOS] => 92.00
+                )
+
+        )
+
+)
+
+2020-12-03 12:40:57 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 42
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-03 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

@@ -1,0 +1,117 @@
+2020-12-01 12:43:46 - &idfirma=1
+2020-12-01 12:43:46 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR56
+            [DATUM_VRIJEME] => 30.11.2020 13:14:53
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => jugovicdu@gmail.com
+            [NARUCITELJ_IME] => Dubravka
+            [NARUCITELJ_PREZIME] => Jugović
+            [NARUCITELJ_ADRESA] => Antuna Mihanovića 24
+            [NARUCITELJ_MJESTO] => Križevci
+            [NARUCITELJ_POSTA] => 48260
+            [NARUCITELJ_TELEFON] => 0981359990
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Dubravka Jugović
+            [DOSTAVA_ADRESA] => Milovana Muževića 212
+            [DOSTAVA_MJESTO] => Dramalj
+            [DOSTAVA_POSTA] => 51265
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 524.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7002.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7010.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 112.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7009.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.00
+                    [RABAT] => 0
+                    [IZNOS] => 112.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => M7030.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => M7029.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 100.00
+                    [RABAT] => 0
+                    [IZNOS] => 100.00
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => P8013
+                    [KOLICINA] => 1
+                    [CIJENA] => 40.80
+                    [RABAT] => 0
+                    [IZNOS] => 40.80
+                )
+
+        )
+
+)
+
+2020-12-01 12:43:48 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 37
+            [STAVAKA] => 7
+            [STAVKA] => 7
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-01 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

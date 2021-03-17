@@ -1,0 +1,81 @@
+2021-02-05 10:29:44 - &idfirma=1
+2021-02-05 10:29:44 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR232
+            [DATUM_VRIJEME] => 04.02.2021 20:09:41
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => martina.sedlar.mag.art@gmail.com
+            [NARUCITELJ_IME] => Martina 
+            [NARUCITELJ_PREZIME] => Sedlar
+            [NARUCITELJ_ADRESA] => Dudovec 53
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10090
+            [NARUCITELJ_TELEFON] => 0914411277
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Martina Sedlar
+            [DOSTAVA_ADRESA] => Dudovec 53
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10090
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 392.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7058.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 96.00
+                    [RABAT] => 0
+                    [IZNOS] => 96.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5009.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 296.00
+                    [RABAT] => 0
+                    [IZNOS] => 296.00
+                )
+
+        )
+
+)
+
+2021-02-05 10:29:45 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 80
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-05 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

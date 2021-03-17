@@ -1,0 +1,286 @@
+2020-12-07 13:30:54 - Array
+(
+    [order_id] => 72
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 53
+    [customer_group_id] => 1
+    [firstname] => Zlatko
+    [lastname] => Skopljak
+    [email] => zskopljak1@gmail.com
+    [telephone] => 098697084
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Zlatko
+    [payment_lastname] => Skopljak
+    [payment_company] => 
+    [payment_address_1] => Kaštanjer 59B
+    [payment_address_2] => 
+    [payment_city] => Pula
+    [payment_postcode] => 52100
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Zlatko
+    [shipping_lastname] => Skopljak
+    [shipping_company] => 
+    [shipping_address_1] => Kaštanjer 59B
+    [shipping_address_2] => 
+    [shipping_city] => Pula
+    [shipping_postcode] => 52100
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 476.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 212.15.178.44
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-06 17:27:36
+    [date_modified] => 2020-12-06 17:27:42
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 180
+                    [order_id] => 72
+                    [product_id] => 128
+                    [name] => MUŠKA MAJICA OKRUGLI IZREZ BIJELA
+                    [model] => M7059
+                    [quantity] => 2
+                    [price] => 124.0000
+                    [total] => 248.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 160
+                            [order_id] => 72
+                            [order_product_id] => 180
+                            [product_option_id] => 291
+                            [product_option_value_id] => 347
+                            [name] => Veličina
+                            [value] => XXXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 347
+                                    [product_option_id] => 291
+                                    [product_id] => 128
+                                    [option_id] => 13
+                                    [option_value_id] => 54
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 20.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7059.XXXL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 181
+                    [order_id] => 72
+                    [product_id] => 129
+                    [name] => MUŠKA POTKOŠULJA ŠIRA RAMENICA BIJELA
+                    [model] => M7058
+                    [quantity] => 2
+                    [price] => 114.0000
+                    [total] => 228.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 161
+                            [order_id] => 72
+                            [order_product_id] => 181
+                            [product_option_id] => 292
+                            [product_option_value_id] => 353
+                            [name] => Veličina
+                            [value] => XXXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 353
+                                    [product_option_id] => 292
+                                    [product_id] => 129
+                                    [option_id] => 13
+                                    [option_value_id] => 54
+                                    [quantity] => 98
+                                    [subtract] => 1
+                                    [price] => 18.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7058.XXXL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 236
+                    [order_id] => 72
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 476.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 237
+                    [order_id] => 72
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 238
+                    [order_id] => 72
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 476.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-07 13:30:54 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR72
+            [DATUM_VRIJEME] => 06.12.2020 17:27:42
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => zskopljak1@gmail.com
+            [NARUCITELJ_IME] => Zlatko
+            [NARUCITELJ_PREZIME] => Skopljak
+            [NARUCITELJ_ADRESA] => Kaštanjer 59B
+            [NARUCITELJ_MJESTO] => Pula
+            [NARUCITELJ_POSTA] => 52100
+            [NARUCITELJ_TELEFON] => 098697084
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Zlatko Skopljak
+            [DOSTAVA_ADRESA] => Kaštanjer 59B
+            [DOSTAVA_MJESTO] => Pula
+            [DOSTAVA_POSTA] => 52100
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 476.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7059.XXXL
+                    [KOLICINA] => 2
+                    [CIJENA] => 124.00
+                    [RABAT] => 0
+                    [IZNOS] => 248.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7058.XXXL
+                    [KOLICINA] => 2
+                    [CIJENA] => 114.00
+                    [RABAT] => 0
+                    [IZNOS] => 228.00
+                )
+
+        )
+
+)
+
+2020-12-07 13:30:55 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 53
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-07 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

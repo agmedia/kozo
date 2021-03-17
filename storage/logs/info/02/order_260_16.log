@@ -1,0 +1,320 @@
+2021-02-16 10:30:01 - Array
+(
+    [order_id] => 260
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 188
+    [customer_group_id] => 1
+    [firstname] => Biserka
+    [lastname] => Zvonarek
+    [email] => biserka@zvonarek.hr
+    [telephone] => 0989932123
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Biserka
+    [payment_lastname] => Zvonarek
+    [payment_company] => 
+    [payment_address_1] => Trg bana J. Jelačića 6
+    [payment_address_2] => 
+    [payment_city] => Prelog
+    [payment_postcode] => 40323
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Biserka
+    [shipping_lastname] => Zvonarek
+    [shipping_company] => 
+    [shipping_address_1] => Trg bana J. Jelačića 6
+    [shipping_address_2] => 
+    [shipping_city] => Prelog
+    [shipping_postcode] => 40323
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 528.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 93.139.198.81
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1
+    [accept_language] => hr-hr
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-02-15 12:01:40
+    [date_modified] => 2021-02-15 12:01:49
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 678
+                    [order_id] => 260
+                    [product_id] => 169
+                    [name] => SQUARES MASKA ZA LICE
+                    [model] => P8012
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 679
+                    [order_id] => 260
+                    [product_id] => 179
+                    [name] => MUŠKA PIDŽAMA
+                    [model] => M5011
+                    [quantity] => 1
+                    [price] => 264.0000
+                    [total] => 264.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 605
+                            [order_id] => 260
+                            [order_product_id] => 679
+                            [product_option_id] => 343
+                            [product_option_value_id] => 568
+                            [name] => Veličina
+                            [value] => S
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 568
+                                    [product_option_id] => 343
+                                    [product_id] => 179
+                                    [option_id] => 13
+                                    [option_value_id] => 52
+                                    [quantity] => 18
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5011.S
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 680
+                    [order_id] => 260
+                    [product_id] => 180
+                    [name] => MUŠKA PIDŽAMA
+                    [model] => M5010
+                    [quantity] => 1
+                    [price] => 264.0000
+                    [total] => 264.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 606
+                            [order_id] => 260
+                            [order_product_id] => 680
+                            [product_option_id] => 344
+                            [product_option_value_id] => 574
+                            [name] => Veličina
+                            [value] => S
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 574
+                                    [product_option_id] => 344
+                                    [product_id] => 180
+                                    [option_id] => 13
+                                    [option_value_id] => 52
+                                    [quantity] => 19
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5010.S
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 852
+                    [order_id] => 260
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 579.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 853
+                    [order_id] => 260
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - SQUARES MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 854
+                    [order_id] => 260
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 855
+                    [order_id] => 260
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 528.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-02-16 10:30:01 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR260
+            [DATUM_VRIJEME] => 15.02.2021 12:01:49
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => biserka@zvonarek.hr
+            [NARUCITELJ_IME] => Biserka
+            [NARUCITELJ_PREZIME] => Zvonarek
+            [NARUCITELJ_ADRESA] => Trg bana J. Jelačića 6
+            [NARUCITELJ_MJESTO] => Prelog
+            [NARUCITELJ_POSTA] => 40323
+            [NARUCITELJ_TELEFON] => 0989932123
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Biserka Zvonarek
+            [DOSTAVA_ADRESA] => Trg bana J. Jelačića 6
+            [DOSTAVA_MJESTO] => Prelog
+            [DOSTAVA_POSTA] => 40323
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 528.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => P8012
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5011.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M5010.S
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2021-02-16 10:30:02 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 109
+                    [STAVAKA] => 4
+                    [STAVKA] => 4
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-02-16 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

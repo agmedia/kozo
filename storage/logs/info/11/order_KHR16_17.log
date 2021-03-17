@@ -1,0 +1,81 @@
+2020-11-17 11:32:58 - &idfirma=1
+2020-11-17 11:32:58 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR16
+            [DATUM_VRIJEME] => 16.11.2020 11:50:25
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => dubravko@infokom.hr
+            [NARUCITELJ_IME] => Dubravko
+            [NARUCITELJ_PREZIME] => Tomašić
+            [NARUCITELJ_ADRESA] => Topnička 15 e
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10000
+            [NARUCITELJ_TELEFON] => 0913007041
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Dubravko Tomašić
+            [DOSTAVA_ADRESA] => Topnička 15 e
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10000
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 224.90
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7042.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 86.40
+                    [RABAT] => 0
+                    [IZNOS] => 86.40
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7076.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 103.50
+                    [RABAT] => 0
+                    [IZNOS] => 103.50
+                )
+
+        )
+
+)
+
+2020-11-17 11:33:00 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 11
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-11-17 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

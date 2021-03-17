@@ -1,0 +1,72 @@
+2021-01-15 8:12:41 - &idfirma=1
+2021-01-15 8:12:41 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR203
+            [DATUM_VRIJEME] => 14.01.2021 12:41:46
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => ivositum@gmail.com
+            [NARUCITELJ_IME] => Ivica
+            [NARUCITELJ_PREZIME] => Šitum
+            [NARUCITELJ_ADRESA] => Sv Petra 7
+            [NARUCITELJ_MJESTO] => Cista Provo
+            [NARUCITELJ_POSTA] => 21256
+            [NARUCITELJ_TELEFON] => 0981471675
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Ivica Šitum
+            [DOSTAVA_ADRESA] => Sv Petra 7
+            [DOSTAVA_MJESTO] => Cista Provo
+            [DOSTAVA_POSTA] => 21256
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 299.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5011.M
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2021-01-15 8:12:43 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 22
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-01-15 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

@@ -1,0 +1,374 @@
+2021-02-05 9:21:40 - Array
+(
+    [order_id] => 231
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 171
+    [customer_group_id] => 1
+    [firstname] => KRUNOSLAV
+    [lastname] => KLARIĆ
+    [email] => krunoslav.klaric@atalianworld.com
+    [telephone] => 098380030
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => KRUNOSLAV
+    [payment_lastname] => KLARIĆ
+    [payment_company] => 
+    [payment_address_1] => ILOVNJAK 1
+    [payment_address_2] => 
+    [payment_city] => VELIKA GORICA
+    [payment_postcode] => 10410
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => HR
+    [payment_zone_id] => 848
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => KRUNOSLAV
+    [shipping_lastname] => KLARIĆ
+    [shipping_company] => 
+    [shipping_address_1] => ILOVNJAK 1
+    [shipping_address_2] => 
+    [shipping_city] => VELIKA GORICA
+    [shipping_postcode] => 10410
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => HR
+    [shipping_zone_id] => 848
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 622.0000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 195.29.161.70
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-02-04 19:39:29
+    [date_modified] => 2021-02-04 19:39:42
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 595
+                    [order_id] => 231
+                    [product_id] => 140
+                    [name] => MUŠKE BOKSERICE HIPSTER SIVE
+                    [model] => M7072
+                    [quantity] => 2
+                    [price] => 80.5000
+                    [total] => 161.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 528
+                            [order_id] => 231
+                            [order_product_id] => 595
+                            [product_option_id] => 303
+                            [product_option_value_id] => 414
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 414
+                                    [product_option_id] => 303
+                                    [product_id] => 140
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 13
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7072.XL
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 596
+                    [order_id] => 231
+                    [product_id] => 142
+                    [name] => MUŠKE BOKSERICE HIPSTER TAMNO PLAVE
+                    [model] => M7076
+                    [quantity] => 2
+                    [price] => 80.5000
+                    [total] => 161.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 529
+                            [order_id] => 231
+                            [order_product_id] => 596
+                            [product_option_id] => 305
+                            [product_option_value_id] => 422
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 422
+                                    [product_option_id] => 305
+                                    [product_id] => 142
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 8
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7076.XL
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [order_product_id] => 597
+                    [order_id] => 231
+                    [product_id] => 151
+                    [name] => MUŠKE BOKSERICE HIPSTER PRINT HOHOHO
+                    [model] => M7084
+                    [quantity] => 4
+                    [price] => 75.0000
+                    [total] => 300.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 530
+                            [order_id] => 231
+                            [order_product_id] => 597
+                            [product_option_id] => 314
+                            [product_option_value_id] => 465
+                            [name] => Veličina
+                            [value] => XL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 465
+                                    [product_option_id] => 314
+                                    [product_id] => 151
+                                    [option_id] => 13
+                                    [option_value_id] => 49
+                                    [quantity] => 8
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7084.XL
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [order_product_id] => 598
+                    [order_id] => 231
+                    [product_id] => 169
+                    [name] => SQUARES MASKA ZA LICE
+                    [model] => P8012
+                    [quantity] => 1
+                    [price] => 51.0000
+                    [total] => 51.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => 
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 760
+                    [order_id] => 231
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 673.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 761
+                    [order_id] => 231
+                    [code] => tieredgiftstotal
+                    [title] => Besplatni poklon - SQUARES MASKA ZA LICE
+                    [value] => -51.0000
+                    [sort_order] => 2
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 762
+                    [order_id] => 231
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [3] => Array
+                (
+                    [order_total_id] => 763
+                    [order_id] => 231
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 622.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-02-05 9:21:40 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR231
+            [DATUM_VRIJEME] => 04.02.2021 19:39:42
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => krunoslav.klaric@atalianworld.com
+            [NARUCITELJ_IME] => KRUNOSLAV
+            [NARUCITELJ_PREZIME] => KLARIĆ
+            [NARUCITELJ_ADRESA] => ILOVNJAK 1
+            [NARUCITELJ_MJESTO] => VELIKA GORICA
+            [NARUCITELJ_POSTA] => 10410
+            [NARUCITELJ_TELEFON] => 098380030
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => KRUNOSLAV KLARIĆ
+            [DOSTAVA_ADRESA] => ILOVNJAK 1
+            [DOSTAVA_MJESTO] => VELIKA GORICA
+            [DOSTAVA_POSTA] => 10410
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 622.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7072.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 161.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7076.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 161.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7084.XL
+                    [KOLICINA] => 4
+                    [CIJENA] => 75.00
+                    [RABAT] => 0
+                    [IZNOS] => 300.00
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8012
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+        )
+
+)
+
+2021-02-05 9:21:41 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAK
+                    [BROJDOK] => 78
+                    [STAVAKA] => 5
+                    [STAVKA] => 5
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-02-05 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

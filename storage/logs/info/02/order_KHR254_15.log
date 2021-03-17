@@ -1,0 +1,72 @@
+2021-02-15 8:22:38 - &idfirma=1
+2021-02-15 8:22:38 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR254
+            [DATUM_VRIJEME] => 12.02.2021 16:59:43
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => tanja28rogic@gmail.com
+            [NARUCITELJ_IME] => Tanja
+            [NARUCITELJ_PREZIME] => Morovic
+            [NARUCITELJ_ADRESA] => Put Venere Anzotike 1
+            [NARUCITELJ_MJESTO] => Nin
+            [NARUCITELJ_POSTA] => 23232
+            [NARUCITELJ_TELEFON] => 0915847511
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Tanja Morovic
+            [DOSTAVA_ADRESA] => Put Venere Anzotike 1
+            [DOSTAVA_MJESTO] => Nin
+            [DOSTAVA_POSTA] => 23232
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 196.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7063.L
+                    [KOLICINA] => 2
+                    [CIJENA] => 80.50
+                    [RABAT] => 0
+                    [IZNOS] => 161.00
+                )
+
+        )
+
+)
+
+2021-02-15 8:22:39 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 104
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-02-15 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

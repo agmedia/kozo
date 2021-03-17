@@ -1,0 +1,81 @@
+2021-03-05 14:44:44 - &idfirma=1
+2021-03-05 14:44:44 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR283
+            [DATUM_VRIJEME] => 03.03.2021 19:54:08
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mariokozic.em@gmail.com
+            [NARUCITELJ_IME] => Mario
+            [NARUCITELJ_PREZIME] => Kozić
+            [NARUCITELJ_ADRESA] => Vesne Parun 18
+            [NARUCITELJ_MJESTO] => Samobor
+            [NARUCITELJ_POSTA] => 10430
+            [NARUCITELJ_TELEFON] => 0993665976
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Mario Kozić
+            [DOSTAVA_ADRESA] => Vesne Parun 18
+            [DOSTAVA_MJESTO] => Samobor
+            [DOSTAVA_POSTA] => 10430
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 470.50
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7008.XL
+                    [KOLICINA] => 2
+                    [CIJENA] => 104.00
+                    [RABAT] => 0
+                    [IZNOS] => 208.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7002.XL
+                    [KOLICINA] => 3
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 262.50
+                )
+
+        )
+
+)
+
+2021-03-05 14:44:45 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 36
+            [STAVAKA] => 3
+            [STAVKA] => 3
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-03-05 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

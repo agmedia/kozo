@@ -1,0 +1,286 @@
+2021-01-20 9:38:52 - Array
+(
+    [order_id] => 214
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 156
+    [customer_group_id] => 1
+    [firstname] => Natasa
+    [lastname] => Viskovic
+    [email] => nviskovi@gmail.com
+    [telephone] => 0955350545
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Natasa
+    [payment_lastname] => Viskovic
+    [payment_company] => 
+    [payment_address_1] => Vinez 75a
+    [payment_address_2] => 
+    [payment_city] => Labin
+    [payment_postcode] => 52220
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => 
+    [payment_zone_id] => 0
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Natasa
+    [shipping_lastname] => Viskovic
+    [shipping_company] => 
+    [shipping_address_1] => Kovarska 3
+    [shipping_address_2] => 
+    [shipping_city] => Rasa
+    [shipping_postcode] => 52223
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => 
+    [shipping_zone_id] => 0
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => 
+    [total] => 242.3000
+    [order_status_id] => 5
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 95.178.156.64
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Linux; Android 10; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+    [accept_language] => hr-HR,hr;q=0.9,en-US;q=0.8,en;q=0.7,bs;q=0.6
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2021-01-19 14:54:06
+    [date_modified] => 2021-01-19 14:54:18
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 546
+                    [order_id] => 214
+                    [product_id] => 113
+                    [name] => MUŠKE BOKSERICE PRINT WEB
+                    [model] => M7044
+                    [quantity] => 1
+                    [price] => 94.5000
+                    [total] => 94.5000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 486
+                            [order_id] => 214
+                            [order_product_id] => 546
+                            [product_option_id] => 276
+                            [product_option_value_id] => 259
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 259
+                                    [product_option_id] => 276
+                                    [product_id] => 113
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 33
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7044.L
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [order_product_id] => 547
+                    [order_id] => 214
+                    [product_id] => 116
+                    [name] => MUŠKE BOKSERICE PRINT KOKOS
+                    [model] => M7050
+                    [quantity] => 1
+                    [price] => 112.8000
+                    [total] => 112.8000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 487
+                            [order_id] => 214
+                            [order_product_id] => 547
+                            [product_option_id] => 279
+                            [product_option_value_id] => 273
+                            [name] => Veličina
+                            [value] => L
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 273
+                                    [product_option_id] => 279
+                                    [product_id] => 116
+                                    [option_id] => 13
+                                    [option_value_id] => 50
+                                    [quantity] => 81
+                                    [subtract] => 1
+                                    [price] => 0.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M7050.L
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 703
+                    [order_id] => 214
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 207.3000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 704
+                    [order_id] => 214
+                    [code] => shipping
+                    [title] => Dostava Intereuropa Hrvatska - Besplatna dostava za narudžbe iznad 350kn
+                    [value] => 35.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 705
+                    [order_id] => 214
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 242.3000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 5
+            [language_id] => 1
+            [name] => Complete
+        )
+
+)
+
+2021-01-20 9:38:52 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR214
+            [DATUM_VRIJEME] => 19.01.2021 14:54:18
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => nviskovi@gmail.com
+            [NARUCITELJ_IME] => Natasa
+            [NARUCITELJ_PREZIME] => Viskovic
+            [NARUCITELJ_ADRESA] => Vinez 75a
+            [NARUCITELJ_MJESTO] => Labin
+            [NARUCITELJ_POSTA] => 52220
+            [NARUCITELJ_TELEFON] => 0955350545
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Natasa Viskovic
+            [DOSTAVA_ADRESA] => Kovarska 3
+            [DOSTAVA_MJESTO] => Rasa
+            [DOSTAVA_POSTA] => 52223
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 242.30
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7044.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 94.50
+                    [RABAT] => 0
+                    [IZNOS] => 94.50
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M7050.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 112.80
+                    [RABAT] => 0
+                    [IZNOS] => 112.80
+                )
+
+        )
+
+)
+
+2021-01-20 9:38:54 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 30
+                    [STAVAKA] => 3
+                    [STAVKA] => 3
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2021-01-20 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

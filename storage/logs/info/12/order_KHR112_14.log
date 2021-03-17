@@ -1,0 +1,72 @@
+2020-12-14 12:22:15 - &idfirma=1
+2020-12-14 12:22:15 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR112
+            [DATUM_VRIJEME] => 13.12.2020 20:55:29
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => maja.sulog98@gmail.com
+            [NARUCITELJ_IME] => Maja
+            [NARUCITELJ_PREZIME] => Šulog
+            [NARUCITELJ_ADRESA] => Krapinska 12
+            [NARUCITELJ_MJESTO] => Donja Bistra
+            [NARUCITELJ_POSTA] => 10298
+            [NARUCITELJ_TELEFON] => 0993146562
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Maja Šulog
+            [DOSTAVA_ADRESA] => Krapinska 12
+            [DOSTAVA_MJESTO] => Donja Bistra
+            [DOSTAVA_POSTA] => 10298
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 185.40
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M7050.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 150.40
+                    [RABAT] => 0
+                    [IZNOS] => 150.40
+                )
+
+        )
+
+)
+
+2020-12-14 12:22:16 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 84
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-14 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

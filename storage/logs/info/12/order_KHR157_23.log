@@ -1,0 +1,72 @@
+2020-12-23 13:45:34 - &idfirma=1
+2020-12-23 13:45:34 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR157
+            [DATUM_VRIJEME] => 22.12.2020 19:37:22
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => krizmanic.martina@gmail.com
+            [NARUCITELJ_IME] => Martina
+            [NARUCITELJ_PREZIME] => Gržina
+            [NARUCITELJ_ADRESA] => Egidija Bullessicha 13
+            [NARUCITELJ_MJESTO] => ROVINJ
+            [NARUCITELJ_POSTA] => 52210
+            [NARUCITELJ_TELEFON] => 0915433831
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Martina Gržina
+            [DOSTAVA_ADRESA] => Egidija Bullessicha 13
+            [DOSTAVA_MJESTO] => ROVINJ
+            [DOSTAVA_POSTA] => 52210
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 299.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 35
+                    [RABAT] => 0
+                    [IZNOS] => 35
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5011.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 264.00
+                    [RABAT] => 0
+                    [IZNOS] => 264.00
+                )
+
+        )
+
+)
+
+2020-12-23 13:45:35 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAW
+            [BROJDOK] => 120
+            [STAVAKA] => 2
+            [STAVKA] => 2
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2020-12-23 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+

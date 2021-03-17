@@ -1,0 +1,238 @@
+2020-12-11 13:26:49 - Array
+(
+    [order_id] => 93
+    [invoice_no] => 0
+    [invoice_prefix] => INV-2020-00
+    [store_id] => 0
+    [store_name] => KOZO UNDERWEAR
+    [store_url] => https://www.kozo-underwear.hr/
+    [customer_id] => 71
+    [customer_group_id] => 1
+    [firstname] => Mira
+    [lastname] => Klarin
+    [email] => mklarin@unizd.hr
+    [telephone] => 0915309243
+    [fax] => 
+    [custom_field] => 
+    [payment_firstname] => Mira
+    [payment_lastname] => Klarin
+    [payment_company] => 
+    [payment_address_1] => Ive Senjanina 12a
+    [payment_address_2] => 
+    [payment_city] => Zadar
+    [payment_postcode] => 23000
+    [payment_country] => Croatia
+    [payment_country_id] => 53
+    [payment_zone] => Bjelovarsko-bilogorska
+    [payment_zone_id] => 847
+    [payment_address_format] => 
+    [payment_custom_field] => 
+    [payment_method] => Plaćanje pouzećem
+    [payment_code] => cod
+    [shipping_firstname] => Mira
+    [shipping_lastname] => Klarin
+    [shipping_company] => 
+    [shipping_address_1] => Ive Senjanina 12a
+    [shipping_address_2] => 
+    [shipping_city] => Zadar
+    [shipping_postcode] => 23000
+    [shipping_country] => Croatia
+    [shipping_country_id] => 53
+    [shipping_zone] => Bjelovarsko-bilogorska
+    [shipping_zone_id] => 847
+    [shipping_address_format] => 
+    [shipping_custom_field] => 
+    [shipping_method] => Besplatna dostava Intereuropa Hrvatska
+    [shipping_code] => ultimate_shipping.ultimate_shipping_0
+    [comment] => Order Comments: Poštovani, 
+nadam se da ukoliko veličina pidžame nije dobra, da je mogu zamijeniti. 
+Srdačno,
+MIra Klarin
+    [total] => 353.0000
+    [order_status_id] => 1
+    [affiliate_id] => 0
+    [commission] => 0.0000
+    [marketing_id] => 0
+    [tracking] => 
+    [language_id] => 2
+    [currency_id] => 4
+    [currency_code] => HRK
+    [currency_value] => 1.00000000
+    [ip] => 88.207.47.83
+    [forwarded_ip] => 
+    [user_agent] => Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
+    [accept_language] => en-US,en;q=0.5
+    [paid_order] => 0
+    [intereuropa] => 1
+    [date_added] => 2020-12-10 09:00:35
+    [date_modified] => 2020-12-10 09:01:00
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [order_product_id] => 247
+                    [order_id] => 93
+                    [product_id] => 183
+                    [name] => MUŠKA PIDŽAMA
+                    [model] => M5009
+                    [quantity] => 1
+                    [price] => 353.0000
+                    [total] => 353.0000
+                    [tax] => 0.0000
+                    [reward] => 0
+                    [option] => Array
+                        (
+                            [order_option_id] => 218
+                            [order_id] => 93
+                            [order_product_id] => 247
+                            [product_option_id] => 345
+                            [product_option_value_id] => 582
+                            [name] => Veličina
+                            [value] => XXL
+                            [type] => radio
+                            [sku] => 
+                            [option_data] => Array
+                                (
+                                    [product_option_value_id] => 582
+                                    [product_option_id] => 345
+                                    [product_id] => 183
+                                    [option_id] => 13
+                                    [option_value_id] => 53
+                                    [quantity] => 99
+                                    [subtract] => 1
+                                    [price] => 57.0000
+                                    [price_prefix] => +
+                                    [points] => 0
+                                    [points_prefix] => +
+                                    [weight] => 0.00000000
+                                    [weight_prefix] => +
+                                    [sku] => M5009.XXL
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [order_total_id] => 309
+                    [order_id] => 93
+                    [code] => sub_total
+                    [title] => Među suma
+                    [value] => 353.0000
+                    [sort_order] => 1
+                )
+
+            [1] => Array
+                (
+                    [order_total_id] => 310
+                    [order_id] => 93
+                    [code] => shipping
+                    [title] => Besplatna dostava Intereuropa Hrvatska
+                    [value] => 0.0000
+                    [sort_order] => 3
+                )
+
+            [2] => Array
+                (
+                    [order_total_id] => 311
+                    [order_id] => 93
+                    [code] => total
+                    [title] => Ukupno
+                    [value] => 353.0000
+                    [sort_order] => 9
+                )
+
+        )
+
+    [status] => Array
+        (
+            [order_status_id] => 1
+            [language_id] => 1
+            [name] => Pending
+        )
+
+)
+
+2020-12-11 13:26:49 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR93
+            [DATUM_VRIJEME] => 10.12.2020 09:01:00
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => mklarin@unizd.hr
+            [NARUCITELJ_IME] => Mira
+            [NARUCITELJ_PREZIME] => Klarin
+            [NARUCITELJ_ADRESA] => Ive Senjanina 12a
+            [NARUCITELJ_MJESTO] => Zadar
+            [NARUCITELJ_POSTA] => 23000
+            [NARUCITELJ_TELEFON] => 0915309243
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Mira Klarin
+            [DOSTAVA_ADRESA] => Ive Senjanina 12a
+            [DOSTAVA_MJESTO] => Zadar
+            [DOSTAVA_POSTA] => 23000
+            [NAPOMENA] => Order Comments: Poštovani, 
+nadam se da ukoliko veličina pidžame nije dobra, da je mogu zamijeniti. 
+Srdačno,
+MIra Klarin
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 353.00
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5009.XXL
+                    [KOLICINA] => 1
+                    [CIJENA] => 353.00
+                    [RABAT] => 0
+                    [IZNOS] => 353.00
+                )
+
+        )
+
+)
+
+2020-12-11 13:26:50 - Illuminate\Support\Collection Object
+(
+    [items:protected] => Array
+        (
+            [creating] => start
+            [ZAPIS] => Array
+                (
+                    [IDDOK] => NAW
+                    [BROJDOK] => 73
+                    [STAVAKA] => 2
+                    [STAVKA] => 2
+                    [KOLICINA_SIFRA] => 0
+                    [DATUM] => 2020-12-11 00:00:00
+                    [TEXT_GRESKE] => 
+                    [KNJIZENO_KARTICA] => 
+                    [KNJIZENO_GLKNJIGA] => 
+                    [ZAKJUCANI_DN] => NE
+                )
+
+        )
+
+)
+

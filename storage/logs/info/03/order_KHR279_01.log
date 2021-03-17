@@ -1,0 +1,144 @@
+2021-03-01 9:02:06 - &idfirma=1
+2021-03-01 9:02:06 - Array
+(
+    [narudzba] => Array
+        (
+            [CMS_ID] => KHR279
+            [DATUM_VRIJEME] => 01.03.2021 00:06:24
+            [NARUCITELJ_CMS_ID] => 1
+            [NARUCITELJ_EMAIL] => damir_leljak@a1net.hr
+            [NARUCITELJ_IME] => Damir
+            [NARUCITELJ_PREZIME] => Leljak
+            [NARUCITELJ_ADRESA] => Antuna Šoljana 11
+            [NARUCITELJ_MJESTO] => Zagreb
+            [NARUCITELJ_POSTA] => 10090
+            [NARUCITELJ_TELEFON] => 0913866026
+            [NARUCITELJ_NAZIV] => 
+            [NARUCITELJ_OIB] => 
+            [NARUCITELJ_VAT] => 
+            [NARUCITELJ_ZEMLJA] => HRV
+            [DOSTAVA_IME_PREZIME] => Damir Leljak
+            [DOSTAVA_ADRESA] => Antuna Šoljana 11
+            [DOSTAVA_MJESTO] => Zagreb
+            [DOSTAVA_POSTA] => 10090
+            [NAPOMENA] => 
+            [VALUTA] => 191
+            [IZNOS_UKUPNO] => 528.30
+            [TECAJ] => 1
+        )
+
+    [stavke] => Array
+        (
+            [0] => Array
+                (
+                    [IDROBA] => US00000203
+                    [KOLICINA] => 1
+                    [CIJENA] => 0
+                    [RABAT] => 0
+                    [IZNOS] => 0
+                )
+
+            [1] => Array
+                (
+                    [IDROBA] => M5004.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 140.00
+                    [RABAT] => 0
+                    [IZNOS] => 140.00
+                )
+
+            [2] => Array
+                (
+                    [IDROBA] => M5007.L
+                    [KOLICINA] => 1
+                    [CIJENA] => 116.00
+                    [RABAT] => 0
+                    [IZNOS] => 116.00
+                )
+
+            [3] => Array
+                (
+                    [IDROBA] => M7014.XL
+                    [KOLICINA] => 1
+                    [CIJENA] => 87.50
+                    [RABAT] => 0
+                    [IZNOS] => 87.50
+                )
+
+            [4] => Array
+                (
+                    [IDROBA] => P8013
+                    [KOLICINA] => 1
+                    [CIJENA] => 51.00
+                    [RABAT] => 0
+                    [IZNOS] => 51.00
+                )
+
+            [5] => Array
+                (
+                    [IDROBA] => B8024
+                    [KOLICINA] => 1
+                    [CIJENA] => 42.00
+                    [RABAT] => 0
+                    [IZNOS] => 42.00
+                )
+
+            [6] => Array
+                (
+                    [IDROBA] => G8025
+                    [KOLICINA] => 1
+                    [CIJENA] => 29.40
+                    [RABAT] => 0
+                    [IZNOS] => 29.40
+                )
+
+            [7] => Array
+                (
+                    [IDROBA] => P8022
+                    [KOLICINA] => 1
+                    [CIJENA] => 42.00
+                    [RABAT] => 0
+                    [IZNOS] => 42.00
+                )
+
+            [8] => Array
+                (
+                    [IDROBA] => U8029
+                    [KOLICINA] => 1
+                    [CIJENA] => 29.40
+                    [RABAT] => 0
+                    [IZNOS] => 29.40
+                )
+
+            [9] => Array
+                (
+                    [IDROBA] => U8030
+                    [KOLICINA] => 1
+                    [CIJENA] => 42.00
+                    [RABAT] => 0
+                    [IZNOS] => 42.00
+                )
+
+        )
+
+)
+
+2021-03-01 9:02:07 - Array
+(
+    [creating] => start
+    [ZAPIS] => Array
+        (
+            [IDDOK] => NAK
+            [BROJDOK] => 145
+            [STAVAKA] => 10
+            [STAVKA] => 10
+            [KOLICINA_SIFRA] => 0
+            [DATUM] => 2021-03-01 00:00:00
+            [TEXT_GRESKE] => 
+            [KNJIZENO_KARTICA] => 
+            [KNJIZENO_GLKNJIGA] => 
+            [ZAKJUCANI_DN] => NE
+        )
+
+)
+
