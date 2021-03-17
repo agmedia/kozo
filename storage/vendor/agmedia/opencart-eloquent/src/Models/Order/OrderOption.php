@@ -4,17 +4,11 @@
 namespace Agmedia\Models\Order;
 
 
-use Agmedia\Helpers\Log;
 use Agmedia\Models\Product\ProductOption;
 use Illuminate\Database\Eloquent\Model;
 
 class OrderOption extends Model
 {
-    
-    /**
-     * @var bool
-     */
-    public $timestamps = false;
     
     /**
      * @var string
@@ -33,6 +27,9 @@ class OrderOption extends Model
         'order_option_id'
     ];
     
+    /**
+     * Relations methods
+     */
     
     /**
      * @return \Illuminate\Database\Eloquent\Relations\HasOne

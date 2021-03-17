@@ -1,26 +1,25 @@
 <?php
 class ModelCatalogProduct extends Model {
 	public function addProduct($data) {
-        \Agmedia\Helpers\Log::write('1', 'testing5');
 		$this->db->query("INSERT INTO " . DB_PREFIX . "product SET model = '" . $this->db->escape($data['model']) . "', sku = '" . $this->db->escape($data['sku']) . "', upc = '" . $this->db->escape($data['upc']) . "', ean = '" . $this->db->escape($data['ean']) . "', jan = '" . $this->db->escape($data['jan']) . "', isbn = '" . $this->db->escape($data['isbn']) . "', mpn = '" . $this->db->escape($data['mpn']) . "', location = '" . $this->db->escape($data['location']) . "', quantity = '" . (int)$data['quantity'] . "', minimum = '" . (int)$data['minimum'] . "', subtract = '" . (int)$data['subtract'] . "', stock_status_id = '" . (int)$data['stock_status_id'] . "', date_available = '" . $this->db->escape($data['date_available']) . "', manufacturer_id = '" . (int)$data['manufacturer_id'] . "', shipping = '" . (int)$data['shipping'] . "', price = '" . (float)$data['price'] . "', points = '" . (int)$data['points'] . "', weight = '" . (float)$data['weight'] . "', weight_class_id = '" . (int)$data['weight_class_id'] . "', length = '" . (float)$data['length'] . "', width = '" . (float)$data['width'] . "', height = '" . (float)$data['height'] . "', length_class_id = '" . (int)$data['length_class_id'] . "', status = '" . (int)$data['status'] . "', tax_class_id = '" . (int)$data['tax_class_id'] . "', sort_order = '" . (int)$data['sort_order'] . "', date_added = NOW(), date_modified = NOW()");
-        \Agmedia\Helpers\Log::write('2', 'testing5');
+
 		$product_id = $this->db->getLastId();
 
 		if (isset($data['image'])) {
 			$this->db->query("UPDATE " . DB_PREFIX . "product SET image = '" . $this->db->escape($data['image']) . "' WHERE product_id = '" . (int)$product_id . "'");
 		}
-        \Agmedia\Helpers\Log::write('3', 'testing5');
+
 		foreach ($data['product_description'] as $language_id => $value) {
 $this->db->query("INSERT INTO " . DB_PREFIX . "product_description_seo SET product_id = '" . (int)$product_id . "', language_id = '" . (int)$language_id . "', custom_imgtitle = '" . $this->db->escape($value['custom_imgtitle']) . "', custom_alt = '" . $this->db->escape($value['custom_alt']) . "',  custom_h1 = '" . $this->db->escape($value['custom_h1']) . "', custom_h2 = '" . $this->db->escape($value['custom_h2']) . "'");
 			$this->db->query("INSERT INTO " . DB_PREFIX . "product_description SET product_id = '" . (int)$product_id . "', language_id = '" . (int)$language_id . "', name = '" . $this->db->escape($value['name']) . "', description = '" . $this->db->escape($value['description']) . "', tag = '" . $this->db->escape($value['tag']) . "', meta_title = '" . $this->db->escape($value['meta_title']) . "', meta_description = '" . $this->db->escape($value['meta_description']) . "', meta_keyword = '" . $this->db->escape($value['meta_keyword']) . "'");
 		}
-        \Agmedia\Helpers\Log::write('4', 'testing5');
+
 		if (isset($data['product_store'])) {
 			foreach ($data['product_store'] as $store_id) {
 				$this->db->query("INSERT INTO " . DB_PREFIX . "product_to_store SET product_id = '" . (int)$product_id . "', store_id = '" . (int)$store_id . "'");
 			}
 		}
-        \Agmedia\Helpers\Log::write('5', 'testing5');
+
 		if (isset($data['product_attribute'])) {
 			foreach ($data['product_attribute'] as $product_attribute) {
 				if ($product_attribute['attribute_id']) {
@@ -85,7 +84,7 @@ $this->db->query("INSERT INTO " . DB_PREFIX . "product_description_seo SET produ
 				}
 			}
 		}
-        \Agmedia\Helpers\Log::write('6', 'testing5');
+
 		if (isset($data['product_option'])) {
 			foreach ($data['product_option'] as $product_option) {
 				if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
@@ -104,7 +103,7 @@ $this->db->query("INSERT INTO " . DB_PREFIX . "product_description_seo SET produ
 				}
 			}
 		}
-        \Agmedia\Helpers\Log::write('7', 'testing5');
+
 
 				if($this->config->get('product_variant_setting_status')){ 
 					if (isset($data['product_variant'])) {
@@ -157,7 +156,7 @@ $this->db->query("INSERT INTO " . DB_PREFIX . "product_description_seo SET produ
 				$this->db->query("INSERT INTO " . DB_PREFIX . "product_special SET product_id = '" . (int)$product_id . "', customer_group_id = '" . (int)$product_special['customer_group_id'] . "', priority = '" . (int)$product_special['priority'] . "', price = '" . (float)$product_special['price'] . "', date_start = '" . $this->db->escape($product_special['date_start']) . "', date_end = '" . $this->db->escape($product_special['date_end']) . "'");
 			}
 		}
-        \Agmedia\Helpers\Log::write('8', 'testing5');
+
 		if (isset($data['product_image'])) {
 			foreach ($data['product_image'] as $product_image) {
 				$this->db->query("INSERT INTO " . DB_PREFIX . "product_image SET product_id = '" . (int)$product_id . "', image = '" . $this->db->escape($product_image['image']) . "', sort_order = '" . (int)$product_image['sort_order'] . "'");
@@ -175,7 +174,7 @@ $this->db->query("INSERT INTO " . DB_PREFIX . "product_description_seo SET produ
 				$this->db->query("INSERT INTO " . DB_PREFIX . "product_to_category SET product_id = '" . (int)$product_id . "', category_id = '" . (int)$category_id . "'");
 			}
 		}
-        \Agmedia\Helpers\Log::write('9', 'testing5');
+
 		if (isset($data['product_filter'])) {
 			foreach ($data['product_filter'] as $filter_id) {
 				$this->db->query("INSERT INTO " . DB_PREFIX . "product_filter SET product_id = '" . (int)$product_id . "', filter_id = '" . (int)$filter_id . "'");
@@ -198,7 +197,7 @@ $this->db->query("INSERT INTO " . DB_PREFIX . "product_description_seo SET produ
 				}
 			}
 		}
-        \Agmedia\Helpers\Log::write('10', 'testing5');
+		
 		// SEO URL
 		if (isset($data['product_seo_url'])) {
 			foreach ($data['product_seo_url'] as $store_id => $language) {

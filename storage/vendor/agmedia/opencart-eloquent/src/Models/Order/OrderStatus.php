@@ -4,16 +4,10 @@
 namespace Agmedia\Models\Order;
 
 
-use Agmedia\Helpers\Log;
 use Illuminate\Database\Eloquent\Model;
 
 class OrderStatus extends Model
 {
-    
-    /**
-     * @var bool
-     */
-    public $timestamps = false;
     
     /**
      * @var string

@@ -7,88 +7,146 @@
 
 namespace Agmedia\Helpers;
 
-
 class Log
 {
     
     /**
+     * @var string
+     */
+    public static $env = 'local';
+    
+    
+    /**
+     * @return string
+     */
+    public static function getEnv()
+    {
+        return self::$env;
+    }
+    
+    
+    /**
+     * @param string $env
+     */
+    public static function setEnv($env)
+    {
+        self::$env = $env;
+    }
+    
+    
+    /**
+     * @param $message
+     */
+    public static function error($message)
+    {
+        return self::log($message, 'ERROR');
+    }
+    
+    
+    /**
+     * @param $message
+     */
+    public static function warning($message)
+    {
+        return self::log($message, 'WARNING');
+    }
+    
+    
+    /**
+     * @param $message
+     */
+    public static function info($message)
+    {
+        return self::log($message, 'INFO');
+    }
+    
+    
+    /**
+     * @param $message
+     */
+    public static function debug($message)
+    {
+        return self::log($message, 'DEBUG');
+    }
+    
+    
+    /**
+     * Deprecated function.
+     * Should not be used.
+     *
      * @param        $message
      * @param string $filename
+     *
+     * @return mixed
      */
-    public static function write($message, $filename = 'error')
+    public static function write($message, $filename = 'agmedia')
     {
         $handle = fopen(DIR_LOGS . $filename . '.log', 'a');
-        fwrite($handle, date('Y-m-d G:i:s') . ' - ' . print_r($message, true) . "\n");
+        fwrite($handle, self::resolveStringStart('DEBUG') . print_r($message, true) . "\n");
         fclose($handle);
     }
     
     
     /**
-     * Logs the data with month folders and
+     * Logs the data with year/month/ folders and
      * day concat to file name.
      *
      * @param        $message
-     * @param string $filename
+     * @param string $type
      */
-    public static function info($message, $filename = 'agmedia')
+    private static function log($message, $type)
     {
+        $year  = date('Y');
         $month = date('m');
         $day   = date('d');
-        
-        $path = DIR_LOGS . 'info/';
+        $path  = DIR_LOGS . $year . '/';
         
         if ( ! is_dir($path . $month)) {
             mkdir($path . $month, 0755, true);
         }
         
-        $handle = fopen($path . $month . '/' . $filename . '_' . $day . '.log', 'a');
+        $filename = 'log';
         
-        fwrite($handle, date('Y-m-d G:i:s') . ' - ' . print_r($message, true) . "\n");
+        $handle = fopen($path . $month . '/' . $filename . '_' . $day . '.log', 'a');
+        fwrite($handle, self::resolveStringStart($type) . print_r($message, true) . "\n");
         fclose($handle);
     }
     
     
     /**
-     * Log messages.
+     * Deprecated function.
+     * Should not be used.
+     *
+     * @param        $message
+     * @param string $filename
+     *
+     * @return mixed
+     */
+    public static function store($message, $filename = 'store')
+    {
+        return self::write($message, $filename);
+    }
+    
+    
+    /**
+     * Used for testing and debuging tasks.
      *
      * @param        $message
      * @param string $filename
      */
-    public static function store($message, $filename)
+    public static function test($message, $filename = 'test')
     {
-        $year  = date('Y');
-        $month = date('m');
-        $day   = date('d');
-        
-        $path = DIR_LOGS/* . 'store/'*/;
-        
-        if ( ! is_dir($path . $year)) {
-            mkdir($path . $year, 0755, true);
-            
-            if ( ! is_dir($path . $year . '/' . $month)) {
-                mkdir($path . $year . '/' . $month, 0755, true);
-                
-                if ( ! is_dir($path . $year . '/' . $month . '/' . $day)) {
-                    mkdir($path . $year . '/' . $month . '/' . $day, 0755, true);
-                }
-            }
-        }
-        
-        $handle = fopen($path . $year . '/' . $month . '/' . $day . '/' . $filename . '.log', 'a');
-        
-        fwrite($handle, date('Y-m-d G:i:s') . ' - ' . print_r($message, true) . "\n");
-        fclose($handle);
+        return self::write($message, $filename);
     }
     
     
-    private function timer()
+    /**
+     * @param $type
+     *
+     * @return string
+     */
+    private static function resolveStringStart($type)
     {
-        /*Log::write('.........', 'timer');
-        Log::write('Total proces time : ' . ($updated2_time - $start_time), 'timer');
-        Log::write('Loaded from Kipos in : ' . ($loaded_time - $start_time), 'timer');
-        Log::write('Set in PHP for update in : ' . ($set_time - $loaded_time), 'timer');
-        Log::write('Inserted to temp_DB in : ' . ($inserted_time - $set_time), 'timer');
-        Log::write('Updated products to DB in : ' . ($updated_time - $inserted_time), 'timer');
-        Log::write('Updated options to DB in : ' . ($updated2_time - $updated_time), 'timer');*/
+        return '[' . date('Y-m-d G:i:s') . '] ' . self::getEnv() . '.' . $type . ': ';
     }
 }
