@@ -1,20 +1,17 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8888/kozo/upload/admin/');
-define('HTTP_CATALOG', 'http://localhost:8888/kozo/upload/');
+define('HTTP_SERVER', 'http://kozo.agm/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8888/kozo/upload/admin/');
-define('HTTPS_CATALOG', 'http://localhost:8888/kozo/upload/');
+define('HTTPS_SERVER', 'http://kozo.agm/');
 
 // DIR
-define('DIR_APPLICATION', '/Applications/MAMP/htdocs/kozo/upload/admin/');
-define('DIR_SYSTEM', '/Applications/MAMP/htdocs/kozo/upload/system/');
-define('DIR_IMAGE', '/Applications/MAMP/htdocs/kozo/upload/image/');
-define('DIR_STORAGE', '/Applications/MAMP/htdocs/kozo/storage/');
-define('DIR_CATALOG', '/Applications/MAMP/htdocs/kozo/upload/catalog/');
+define('DIR_APPLICATION', '/Users/alive/Sites/Agmedia/Live/kozo/upload/catalog/');
+define('DIR_SYSTEM', '/Users/alive/Sites/Agmedia/Live/kozo/upload/system/');
+define('DIR_IMAGE', '/Users/alive/Sites/Agmedia/Live/kozo/upload/image/');
+define('DIR_STORAGE', '/Users/alive/Sites/Agmedia/Live/kozo/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
-define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
+define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
 define('DIR_CACHE', DIR_STORAGE . 'cache/');
 define('DIR_DOWNLOAD', DIR_STORAGE . 'download/');
@@ -27,13 +24,10 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'bakanal');
+define('DB_PASSWORD', 'Filip1314#');
 define('DB_DATABASE', 'kozo');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
-
-// OpenCart API
-define('OPENCART_SERVER', 'https://www.opencart.com/');
 
 // AGmedia Custom
 define('AG_CONFIG', [
@@ -51,7 +45,8 @@ define('AG_CONFIG', [
         'size_option_id' => 13,
         'update' => [
             'quantity_overwrite' => [
-            'P0011', 
+
+                  'P0011', 
                   'P0012', 
                   'P0013', 
                   'P0014', 
@@ -68,6 +63,9 @@ define('AG_CONFIG', [
                   'M5010L', 
                   'M5011',
                   'M5011L'
+
+
+
             ]
         ]
     ],
