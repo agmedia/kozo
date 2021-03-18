@@ -481,6 +481,7 @@ class ControllerExtensionBaselBaselFeatures extends Controller {
         if ($this->request->server['REQUEST_METHOD'] == 'POST') {
             if ( ! filter_var($this->request->post['email'], FILTER_VALIDATE_EMAIL)){
                 $json['error'] = $this->language->get('basel_subscribe_invalid_email');
+                $json['color'] = '#FFCACA';
             }
 
             if ( ! isset($json['error'])) {
@@ -499,11 +500,13 @@ class ControllerExtensionBaselBaselFeatures extends Controller {
 
                 if (isset($response->status)) {
                     if ($response->status == 'subscribed') {
-                        $json['error'] = agconf('mailchimp.newsletter.response.subscribed');
+                        $json['error'] = agconf('mailchimp.newsletter.subscribed');
+                        $json['color'] = '#FFEECA';
                     }
 
                     if ($response->status == 'unsubscribed') {
-                        $json['error'] = agconf('mailchimp.newsletter.response.unsubscribed');
+                        $json['error'] = agconf('mailchimp.newsletter.unsubscribed');
+                        $json['color'] = '#FFEECA';
                     }
 
                 } else {
@@ -513,13 +516,15 @@ class ControllerExtensionBaselBaselFeatures extends Controller {
                             "status" => "subscribed",
                         ]);
                     } catch (\MailchimpMarketing\ApiException $e) {
-                        $json['error'] = agconf('mailchimp.newsletter.response.error');
+                        $json['error'] = agconf('mailchimp.newsletter.error');
+                        $json['color'] = '#FFCACA';
                         \Agmedia\Helpers\Log::info($e->getMessage(), 'mailchimp_error');
                     }
 
                     if ( ! isset($json['error'])) {
-                        $json['success'] = agconf('mailchimp.newsletter.response.success');
-                        $json['code'] = agconf('mailchimp.newsletter.response.code');
+                        $json['success'] = agconf('mailchimp.newsletter.success');
+                        $json['color'] = '#DAFFCA';
+                        $json['code'] = agconf('mailchimp.newsletter.code');
 
                         $mail = new Mail();
                         $mail->protocol = $this->config->get('config_mail_protocol');
@@ -533,11 +538,10 @@ class ControllerExtensionBaselBaselFeatures extends Controller {
                         $mail->setFrom(agconf('mailchimp.newsletter.from'));
                         $mail->setSender(html_entity_decode(agconf('mailchimp.newsletter.title'), ENT_QUOTES, 'UTF-8'));
                         $mail->setSubject(html_entity_decode(sprintf(agconf('mailchimp.newsletter.subject'), agconf('mailchimp.newsletter.title')), ENT_QUOTES, 'UTF-8'));
-                        $mail->setText(agconf('mailchimp.newsletter.html'));
+                        $mail->setHtml(agconf('mailchimp.newsletter.html'));
                         $mail->send();
                     }
                 }
-
             }
         }
         /*******************************************************************************
