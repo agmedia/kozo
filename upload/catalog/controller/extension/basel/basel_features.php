@@ -476,6 +476,8 @@ class ControllerExtensionBaselBaselFeatures extends Controller {
         *                                Copyright : AGmedia                           *
         *                              email: filip@agmedia.hr                         *
         *******************************************************************************/
+        $this->load->language('basel/basel_theme');
+
         $json = array();
 
         if ($this->request->server['REQUEST_METHOD'] == 'POST') {
@@ -548,11 +550,9 @@ class ControllerExtensionBaselBaselFeatures extends Controller {
         *                              END Copyright : AGmedia                         *
         *******************************************************************************/
 
-        $this->load->language('basel/basel_theme');
-
         if ($this->request->server['REQUEST_METHOD'] == 'POST') {
             if(!filter_var($this->request->post['email'], FILTER_VALIDATE_EMAIL)){
-                $error = $this->language->get('basel_subscribe_invalid_email');
+                //$error = $this->language->get('basel_subscribe_invalid_email');
             }
             if (!isset($error)) {
                 $this->load->model('extension/basel/newsletter');

@@ -277,7 +277,7 @@ var quickview = function(product_id) {
 var subscribe = function(module) {
     let alert_timeout = 4500;
 	if (($("input[name*='terms']:checked").length)<=0) {
-		$('#subscribe-respond' + module + '').html('<span style="background-color: #FFEECA;">Morate se složiti s privolom</span>');
+		$('#subscribe-respond' + module + '').html('<span>Morate se složiti s privolom</span>');
 		setTimeout(function() {$('#subscribe-respond' + module + ' span').fadeOut(500);}, alert_timeout);
 	}
 	else{
@@ -288,11 +288,11 @@ var subscribe = function(module) {
 			data: 'email=' + encodeURIComponent($('input[id=\'subscribe-module' + module + '\']').val()),
 			success: function(json) {
                 if (json['error']) {
-                    $('#subscribe-respond' + module + '').html('<span style="background-color: ' + json['color'] + '">' + json['error'] + '</span>');
+                    $('#subscribe-respond' + module + '').html('<span>' + json['error'] + '</span>');
                     setTimeout(function() {$('#subscribe-respond' + module + ' span').fadeOut(500);}, alert_timeout);
                 }
                 if (json['success']) {
-                    $('#subscribe-respond' + module + '').html('<span style="background-color: ' + json['color'] + '">' + json['success'] + '</span>');
+                    $('#subscribe-respond' + module + '').html('<span>' + json['success'] + '</span>');
                     setTimeout(function() {$('#subscribe-respond' + module + ' span').fadeOut(500);}, alert_timeout);
                     $('input[id=\'subscribe-module' + module + '\']').val('');
                 }
