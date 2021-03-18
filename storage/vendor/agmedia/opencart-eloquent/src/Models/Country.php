@@ -1,12 +1,15 @@
 <?php
 
 
-namespace Agmedia\Models\Option;
+namespace Agmedia\Models;
 
 
+use Agmedia\Helpers\Log;
+use Agmedia\Models\Option\Option;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Carbon;
 
-class OptionValueDescription extends Model
+class Country extends Model
 {
     
     /**
@@ -17,17 +20,19 @@ class OptionValueDescription extends Model
     /**
      * @var string
      */
-    protected $table = 'option_value_description';
+    protected $table = 'country';
     
     /**
      * @var string
      */
-    protected $primaryKey = 'option_value_id';
+    protected $primaryKey = 'country_id';
     
     /**
      * @var array
      */
     protected $guarded = [
-        'option_value_id'
+        'country_id'
     ];
+    
+    
 }

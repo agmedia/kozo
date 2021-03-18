@@ -9,6 +9,11 @@ class ProductImage extends Model
 {
     
     /**
+     * @var bool
+     */
+    public $timestamps = false;
+    
+    /**
      * @var string
      */
     protected $table = 'product_image';

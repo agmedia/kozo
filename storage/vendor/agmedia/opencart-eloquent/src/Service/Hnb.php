@@ -1,8 +1,12 @@
 <?php
 
 
-namespace Agmedia\Services;
+namespace Agmedia\Service;
 
+
+use Agmedia\Helpers\Log;
+use GuzzleHttp\Client;
+use Illuminate\Support\Collection;
 
 class Hnb
 {

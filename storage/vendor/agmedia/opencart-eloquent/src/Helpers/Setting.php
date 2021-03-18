@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Agmedia\Models\Option;
+namespace Agmedia\Helpers;
 
 
 use Illuminate\Database\Eloquent\Model;
 
-class OptionValueDescription extends Model
+class Setting extends Model
 {
     
     /**
@@ -17,17 +17,17 @@ class OptionValueDescription extends Model
     /**
      * @var string
      */
-    protected $table = 'option_value_description';
+    protected $table = 'setting';
     
     /**
      * @var string
      */
-    protected $primaryKey = 'option_value_id';
+    protected $primaryKey = 'setting_id';
     
     /**
      * @var array
      */
     protected $guarded = [
-        'option_value_id'
+        'setting_id'
     ];
 }

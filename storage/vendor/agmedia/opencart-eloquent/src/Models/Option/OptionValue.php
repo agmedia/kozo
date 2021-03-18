@@ -10,6 +10,11 @@ class OptionValue extends Model
 {
     
     /**
+     * @var bool
+     */
+    public $timestamps = false;
+    
+    /**
      * @var string
      */
     protected $table = 'option_value';
