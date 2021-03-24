@@ -37,9 +37,9 @@ class DHL extends Model
         $label = self::where('order_id', $order_id)->first();
         
         if ($label) {
-            return "1";
+            return true;
         }
         
-        return "0";
+        return false;
     }
 }

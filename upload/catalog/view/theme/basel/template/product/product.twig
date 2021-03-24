@@ -81,52 +81,77 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
      <div class="table-cell left">
      
      {% if thumb or images %}
-     <div class="image-area {% if not hover_zoom %}hover-zoom-disabled{% endif %}" id="gallery">
-            
-        {% if thumb %}
-        <div class="main-image">
-        
-        {% if price and special and sale_badge %}
-        <span class="badge sale_badge"><i>{{ sale_badge }}</i></span>
-        {% endif %}
-        
-        {% if is_new %}
-        <span class="badge new_badge"><i>{{ basel_text_new }}</i></span>
-        {% endif %}
-		
-		{% if ((qty < 1) and (stock_badge_status)) %}
-        <span class="badge out_of_stock_badge"><i>{{ basel_text_out_of_stock}}</i></span>
-        {% endif %}
 
-        <a class="{% if not images %}link cloud-zoom{% endif %} {% if product_layout == 'full-width' %}link{% else %}cloud-zoom{% endif %}" id="main-image" href="{{ popup }}" rel="position:'inside', showTitle: false"><img src="{{ thumb }}" title="{{ heading_title }}" alt="{{ heading_title }}" /></a>
-        </div>
-        {% endif %}
-		
-        {% if images %}
-        <ul class="image-additional">
-        {% for image in images %}
-        <li>
-        <a class="link {% if product_layout != 'full-width' %}cloud-zoom-gallery locked{% endif %}" href="{{ image.popup }}" rel="useZoom: 'main-image', smallImage: '{{ image.thumb_lg }}'"><img src="{{ image.thumb }}" title="{{ heading_title }}" alt="{{ heading_title }}" /></a>
-        </li>
-        {% endfor %}
-            {% if thumb and (product_layout != "full-width") %}
-            <li><a class="link cloud-zoom-gallery locked active" href="{{ popup }}" rel="useZoom: 'main-image', smallImage: '{{ thumb }}'"><img src="{{ thumb_sm }}" title="{{ heading_title }}" alt="{{ heading_title }}" /></a></li>
-            {% endif %}
-        </ul>
-        {% endif %}
-            
-     </div> <!-- .table-cell.left ends -->
-      
-     </div> <!-- .image-area ends -->
+
+         <div class="carousel image-area   grid-holder m0"  id="gallery">
+
+             {% if thumb %}
+                 <div class=" item single-product ppage">
+
+                     {% if price and special and sale_badge %}
+                         <span class="badge sale_badge"><i>{{ sale_badge }}</i></span>
+                     {% endif %}
+
+                     {% if is_new %}
+                         <span class="badge new_badge"><i>{{ basel_text_new }}</i></span>
+                     {% endif %}
+
+                     {% if ((qty < 1) and (stock_badge_status)) %}
+                         <span class="badge out_of_stock_badge"><i>{{ basel_text_out_of_stock}}</i></span>
+                     {% endif %}
+
+                     <a class="{% if not images %}link cloud-zoom{% endif %} {% if product_layout == 'full-width' %}link{% else %}cloud-zoom{% endif %}" id="main-image" href="{{ popup }}" rel="position:'inside', showTitle: false"><img src="{{ thumb }}" title="{{ heading_title }}" alt="{{ heading_title }}" /></a>
+                 </div>
+             {% endif %}
+
+
+             {% for image in images %}
+             <div class=" item single-product ppage">
+                 <a class="link {% if product_layout != 'full-width' %}cloud-zoom-gallery locked{% endif %}" href="{{ image.popup }}" rel="useZoom: 'ppage', smallImage: '{{ image.thumb_lg }}'"><img src="{{ image.thumb }}" title="{{ heading_title }}" alt="{{ heading_title }}" /></a>
+             </div>
+             {% endfor %}
+         </div>
+
+
+
+
+
      {% endif %}
-     
+     </div> <!-- .table-cell.left ends -->
+        <script>
+
+
+            $(function() {
+                $('.carousel.image-area').slick({
+                    prevArrow: false,
+                    nextArrow: false,
+                    dots:true,
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    mobileFirst: true,
+                    responsive: [
+                        {
+                            breakpoint: 768,
+                            settings: 'unslick'
+                        }
+                    ]
+                });
+            });
+
+            $(window).resize(function() {
+                $('.carousel').slick('resize');
+
+            });
+
+            </script>
+
     <div class="table-cell w100 right">
 	<div class="inner">
-    
+
     <div class="product-h1">
     <h1 id="page-title">{{ heading_title }}</h1>
     </div>
-    
+
     {% if review_status and (review_qty > 0) %}
     <div class="rating">
     <span class="rating_stars rating r{{ rating }}">
@@ -145,7 +170,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
         <span id="special_countdown"></span>
         {% endif %}
       </ul>
-        
+
         {% if discounts %}
         <p class="discount">
         {% for discount in discounts %}
@@ -153,21 +178,21 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
         {% endfor %}
         </p>
         {% endif %}
-      
+
       {% endif %} <!-- if price ends -->
-      
-      
+
+
       {% if meta_description_status and meta_description %}
       <p class="meta_description">{{ meta_description }}</p>
       {% endif %}
-            
-      
+
+
       <div id="product">
-            
+
             {% if options %}
             <div class="options">
             {% for option in options %}
-            
+
             {% if option.type == 'select' %}
             <div class="form-group{% if option.required %} required{% endif %} table-row">
               <div class="table-cell name">
@@ -187,7 +212,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
               </div>
             </div>
             {% endif %}
-            
+
             {% if option.type == 'radio' %}
             <div class="form-group{% if option.required %} required{% endif %} table-row">
               <div class="table-cell radio-cell name">
@@ -215,7 +240,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
               </div>
             </div>
             {% endif %}
-            
+
             {% if option.type == 'checkbox' %}
             <div class="form-group{% if option.required %} required{% endif %} table-row">
               <div class="table-cell checkbox-cell name">
@@ -228,7 +253,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
                   <label>
                     <input type="checkbox" name="option[{{ option.product_option_id }}][]" value="{{ option_value.product_option_value_id }}" />
                     {% if option_value.image %}
-                    <img src="{{ option_value.image }}" alt="{{ option_value.name }}{% if option_value.price %}({{ option_value.price_prefix }}{{ option_value.price }}){% endif %}" data-toggle="tooltip" data-title="{{ option_value.name }}{% if option_value.price %} ({{ option_value.price_prefix }}{{ option_value.price }}){% endif %}" /> 
+                    <img src="{{ option_value.image }}" alt="{{ option_value.name }}{% if option_value.price %}({{ option_value.price_prefix }}{{ option_value.price }}){% endif %}" data-toggle="tooltip" data-title="{{ option_value.name }}{% if option_value.price %} ({{ option_value.price_prefix }}{{ option_value.price }}){% endif %}" />
                     {% endif %}
                     <span class="name">
                     {{ option_value.name }}
@@ -243,8 +268,8 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
               </div>
             </div>
             {% endif %}
-            
-            
+
+
             {% if option.type == 'text' %}
             <div class="form-group{% if option.required %} required{% endif %} table-row">
               <div class="table-cell name">
@@ -255,7 +280,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
               </div>
             </div>
             {% endif %}
-            
+
             {% if option.type == 'textarea' %}
             <div class="form-group{% if option.required %} required{% endif %} table-row">
               <div class="table-cell name">
@@ -266,7 +291,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
               </div>
             </div>
             {% endif %}
-            
+
             {% if option.type == 'file' %}
             <div class="form-group{% if option.required %} required{% endif %} table-row">
               <div class="table-cell name">
@@ -278,7 +303,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
               </div>
             </div>
             {% endif %}
-            
+
             {% if option.type == 'date' %}
             <div class="form-group{% if option.required %} required{% endif %} table-row">
               <div class="table-cell name">
@@ -293,7 +318,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
                 </div>
             </div>
             {% endif %}
-            
+
             {% if option.type == 'datetime' %}
             <div class="form-group{% if option.required %} required{% endif %} table-row">
               <div class="table-cell name">
@@ -308,7 +333,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
                 </div>
             </div>
             {% endif %}
-            
+
             {% if option.type == 'time' %}
             <div class="form-group{% if option.required %} required{% endif %} table-row">
               <div class="table-cell name">
@@ -323,7 +348,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
                 </div>
             </div>
             {% endif %}
-            
+
             {% endfor %} <!-- foreach option -->
             </div>
 
@@ -332,7 +357,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
 
 
             {% endif %}
-            
+
             {% if recurrings %}
             <hr>
             <h3>{{ text_payment_recurring }}</h3>
@@ -348,7 +373,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
             {% endif %}
 
 
-            
+
             <div class="form-group buy catalog_hide">
 
             <input type="number" step="1" min="{{ minimum }}" name="quantity" value="{{ minimum }}" id="input-quantity" class="form-control input-quantity" />
@@ -358,7 +383,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
             {% if minimum > 1 %}
             <div class="alert alert-sm alert-info"><i class="fa fa-info-circle"></i> {{ text_minimum }}</div>
             {% endif %}
-          
+
           </div> <!-- #product ends -->
 
 
@@ -367,35 +392,35 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
     {% if question_status %}
     <p class="info is_ask"><a class="to_tabs" onclick="$('a[href=\'#tab-questions\']').trigger('click'); return false;"><i class="icon-question"></i> {{ basel_button_ask }}</a></p>
     {% endif %}
-    
+
     <div class="clearfix"></div>
-    
+
     <div class="info-holder">
-    
+
       {% if price and tax %}
       <p class="info p-tax"><b>{{ text_tax }}</b> <span class="live-price-tax">{{ tax }}</span></p>
       {% endif %}
-      
+
       {% if price and points %}
       <p class="info"><b>{{ text_points }}</b> {{ points }}</p>
       {% endif %}
-      
+
       <p class="info {% if qty > 0 %}in_stock{% endif %}"><b>{{ text_stock }}</b> {{ stock }}</p>
-      
+
       {% if manufacturer %}
       <p class="info"><b>{{ text_manufacturer }}</b> <a class="hover_uline" href="{{ manufacturers }}">{{ manufacturer }}</a></p>
       {% endif %}
-      
+
       <p class="info"><b>{{ text_model }}</b> {{ model }}</p>
-      
+
       {% if reward %}
       <p class="info"><b>{{ text_reward }}</b> {{ reward }}</p>
       {% endif %}
-      
+
       {% if tags %}
       <p class="info tags"><b>{{ text_tags }}</b> &nbsp;<span>{% for tag in tags %}<a class="hover_uline" href="{{ tag.href }}">{{ tag.tag }}</a>{% endfor %}</span></p>
       {% endif %}
-      
+
       {% if basel_share_btn %}
 		{% if basel_sharing_style == 'large' %}
 			<div class="lg-share">
@@ -408,32 +433,32 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
 			</p>
 		 {% endif %}
 	  {% endif %}
-     
+
      </div> <!-- .info-holder ends -->
-     
+
 	 </div> <!-- .inner ends -->
      </div> <!-- .table-cell.right ends -->
-    
+
     </div> <!-- .product-info ends -->
-    
+
 {% if full_width_tabs %}
 </div> <!-- main column ends -->
 {{ column_right }}
 </div> <!-- .row ends -->
-</div> <!-- .container ends -->    
+</div> <!-- .container ends -->
 {% endif %}
 
 {% if full_width_tabs %}
 <div class="outer-container product-tabs-wrapper">
-<div class="container">   
+<div class="container">
 {% else %}
-<div class="inline-tabs"> 
+<div class="inline-tabs">
 {% endif %}
 
 <!-- Tabs area start -->
 <div class="row">
 <div class="col-sm-12">
-  
+
   <ul class="nav nav-tabs {{ product_tabs_style }} main_tabs">
     <li class="active"><a href="#tab-description" data-toggle="tab">{{ tab_description }}</a></li>
     {% if product_tabs %}
@@ -451,13 +476,13 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
     <li><a href="#tab-questions" data-toggle="tab">{{ basel_tab_questions }} ({{ questions_total }})</a></li>
     {% endif %}
   </ul>
-  
+
   <div class="tab-content">
-    
+
     <div class="tab-pane active text-center" id="tab-description">
     {{ description }}
     </div>
-    
+
     {% if product_tabs %}
     {% for tab in product_tabs %}
     <div class="tab-pane" id="custom-tab-{{ tab.tab_id }}">
@@ -465,7 +490,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
     </div>
     {% endfor %}
     {% endif %}
-    
+
     {% if attribute_groups %}
     <div class="tab-pane" id="tab-specification">
       <table class="table specification">
@@ -487,19 +512,19 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
       </table>
     </div>
     {% endif %}
-    
+
     {% if question_status %}
     <div class="tab-pane" id="tab-questions">
     {{ product_questions }}
     </div>
     {% endif %}
-    
+
     {% if review_status %}
     <div class="tab-pane" id="tab-review">
     <div class="row">
     <div class="col-sm-6">
     <h4><b>{{ button_reviews }}</b></h4>
-        
+
 		<div id="review">
 		{% if seo_reviews %}
 		{% for review in seo_reviews %}
@@ -528,31 +553,31 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
     </div>
     <div class="col-sm-6 right">
       <form class="form-horizontal" id="form-review">
-        
+
         <h4 id="review-notification"><b>{{ text_write }}</b></h4>
         {% if review_guest %}
-        
+
         <div class="form-group required">
           <div class="col-sm-12 rating-stars">
             <label class="control-label">{{ entry_rating }}</label>
-            
+
             <input type="radio" value="1" name="rating" id="rating1" />
         	<label for="rating1"><i class="fa fa-star-o"></i></label>
-            
+
             <input type="radio" value="2" name="rating" id="rating2" />
         	<label for="rating2"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></label>
-            
+
             <input type="radio" value="3" name="rating" id="rating3" />
         	<label for="rating3"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></label>
-            
+
             <input type="radio" value="4" name="rating" id="rating4" />
         	<label for="rating4"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></label>
-            
+
             <input type="radio" value="5" name="rating" id="rating5" />
         	<label for="rating5"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></label>
             </div>
         </div>
-        
+
         <div class="form-group required">
           <div class="col-sm-12">
             <label class="control-label" for="input-name">{{ entry_name }}</label>
@@ -566,13 +591,13 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
             <small>{{ text_note }}</small>
           </div>
         </div>
-        
+
         <div class="form-group required">
           <div class="col-sm-12">
             {{ captcha }}
           </div>
         </div>
-        
+
         <div class="buttons clearfix">
           <div class="text-right">
           <button type="button" id="button-review" data-loading-text="{{ text_loading }}" class="btn btn-outline">{{ button_continue }}</button>
@@ -586,7 +611,7 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
       </div>
     </div>
     {% endif %}<!-- if review-status ends -->
-    
+
   </div> <!-- .tab-content ends -->
 </div> <!-- .col-sm-12 ends -->
 </div> <!-- .row ends -->
@@ -596,21 +621,21 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
 </div>
 {% endif %}
 </div>
-      
+
       <!-- Related Products -->
-      
+
     {% if full_width_tabs %}
-    <div class="container">  
+    <div class="container">
     {% endif %}
-      
+
         {% if products %}
         <div class="widget widget-related">
-        
+
         <div class="widget-title">
         <p class="main-title"><span>{{ text_related }}</span></p>
         <p class="widget-title-separator"><i class="icon-line-cross"></i></p>
         </div>
-        
+
         <div class="grid grid-holder related carousel grid{{ basel_rel_prod_grid }}">
             {% for product in products %}
               {% include 'basel/template/product/single_product.twig' %}
@@ -618,11 +643,11 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
         </div>
         </div>
         {% endif %}
-      
+
       {{ content_bottom }}
-      
+
     {% if full_width_tabs %}
-    </div>  
+    </div>
     {% endif %}
 
 
@@ -743,14 +768,14 @@ $('#button-cart').on('click', function() {
 			}
 
 				if (json.success_redirect) {
-					
+
 					location = json.success_redirect;
-				
+
 				} else if (json.success) {
-					
+
 					$('.table-cell').removeClass('has-error');
 					$('.alert, .popup-note, .basel-spinner.ajax-call, .text-danger').remove();
-				 
+
 					html = '<div class="popup-note">';
 					html += '<div class="inner">';
 					html += '<a class="popup-note-close" onclick="$(this).parent().parent().remove()">&times;</a>';
@@ -852,7 +877,7 @@ $('#review').delegate('.pagination a', 'click', function(e) {
     $('#review').load(this.href);
 
     $('#review').fadeIn(500);
-	
+
 });
 
 
@@ -889,7 +914,7 @@ $('#button-review').on('click', function() {
 $(document).ready(function() {
 {% if product_layout == "full-width" %}
 // Sticky information
-$('.table-cell.right .inner').theiaStickySidebar({containerSelector:'.product-info'});
+$('.table-cell.right .inner').theiaStickySidebar({containerSelector:'.product-info',additionalMarginTop:80});
 {% endif %}
 
 // Reviews/Question scroll link

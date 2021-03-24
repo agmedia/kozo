@@ -81,8 +81,6 @@ class Product extends Model
      */
     private function makeWithoutOptions($product, $languages, $images)
     {
-        Log::write('$response', 'testing3');
-        
         $response = [
             'sku'                 => $product->first()['IDROBA'],
             'upc'                 => '',
@@ -123,8 +121,6 @@ class Product extends Model
         ];
         
         $response['model'] = $product->first()['IDODJEL'];
-    
-        Log::write($response, 'testing3');
         
         return collect($response);
     }
@@ -139,6 +135,8 @@ class Product extends Model
      */
     private function makeWithOptions($options, $languages, $images)
     {
+        Log::write('$response', 'testing3');
+        
         $response = [
             'sku'                 => '',
             'upc'                 => '',
@@ -180,6 +178,8 @@ class Product extends Model
         ];
         
         $response['model'] = $options->first()['IDODJEL'];
+    
+        Log::write($response, 'testing3');
         
         return collect($response);
     }
@@ -198,7 +198,9 @@ class Product extends Model
         ];
     
         foreach (agconf('erp.additional_languages') as $key => $lang) {
-            array_push($langs, [$key => $lang]);
+            foreach ($languages as $index => $language) {
+                $langs[$key] = $this->getDescriptionArray($language);
+            }
         }
         
         return $langs;
@@ -220,8 +222,8 @@ class Product extends Model
             'custom_h1'        => '',
             'custom_h2'        => '',
             'custom_imgtitle'  => '',
-            'meta_description' => '',
-            'meta_keyword'     => '',
+            'meta_description' => ($language['OPIS_ODJEL'] == '') ? 'Opis' : $language['OPIS_ODJEL'],
+            'meta_keyword'     => ($language['OPIS_ODJEL'] == '') ? 'Opis' : $language['OPIS_ODJEL'],
             'tag'              => '',
         ];
     }
