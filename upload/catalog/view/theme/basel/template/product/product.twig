@@ -110,6 +110,16 @@ item_ids: [{% if options %}{% for option in options %}{% for option_value in opt
                  <a class="link {% if product_layout != 'full-width' %}cloud-zoom-gallery locked{% endif %}" href="{{ image.popup }}" rel="useZoom: 'ppage', smallImage: '{{ image.thumb_lg }}'"><img src="{{ image.thumb }}" title="{{ heading_title }}" alt="{{ heading_title }}" /></a>
              </div>
              {% endfor %}
+
+             <div class=" item single-product ppage">
+                 <video id="sampleMovie" width="100%" height="auto" autoplay loop>
+                     <source src="http://localhost:8888/kozo/upload/image/catalog/products/w5010.mov" />
+
+                 </video>
+
+             </div>
+
+
          </div>
 
 
