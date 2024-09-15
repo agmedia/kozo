@@ -6,8 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname(dirname($vendorDir));
 
 return array(
-    'UpdateHelper\\' => array($vendorDir . '/kylekatarnls/update-helper/src'),
     'Twig_' => array($vendorDir . '/twig/twig/lib'),
     'Divido' => array($vendorDir . '/divido/divido-php/lib'),
-    'Braintree' => array($vendorDir . '/braintree/braintree_php/lib'),
 );

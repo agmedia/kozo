@@ -71,9 +71,6 @@ class Service
            
             $response[$language] = $collection->first();
         }
-    
-        Log::write('getTraslations($sku)', 'languages');
-        Log::write($response, 'languages');
         
         return new Collection($response);
     }
